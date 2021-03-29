@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Scout</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Elfhame Palace" />
+    <card number="11" name="Forest" />
+    <card number="1" name="Geothermal Crevice" />
+    <card number="1" name="Irrigation Ditch" />
+    <card number="2" name="Mountain" />
+    <card number="3" name="Plains" />
+    <card number="2" name="Rith's Grove" />
+    <card number="1" name="Shivan Oasis" />
+    <card number="1" name="Amphibious Kavu" />
+    <card number="1" name="Ancient Kavu" />
+    <card number="1" name="Aurora Griffin" />
+    <card number="1" name="Fleetfoot Panther" />
+    <card number="1" name="Horned Kavu" />
+    <card number="1" name="Mirrorwood Treefolk" />
+    <card number="1" name="Nomadic Elf" />
+    <card number="1" name="Quirion Elves" />
+    <card number="2" name="Quirion Explorer" />
+    <card number="1" name="Radiant Kavu" />
+    <card number="1" name="Rampant Elephant" />
+    <card number="1" name="Slingshot Goblin" />
+    <card number="1" name="Steel Leaf Paladin" />
+    <card number="3" name="Stone Kavu" />
+    <card number="2" name="Sunscape Battlemage" />
+    <card number="2" name="Thunderscape Battlemage" />
+    <card number="1" name="Thornscape Apprentice" />
+    <card number="2" name="Thornscape Battlemage" />
+    <card number="1" name="Thornscape Familiar" />
+    <card number="1" name="Viashino Grappler" />
+    <card number="1" name="Armadillo Cloak" />
+    <card number="2" name="Fertile Ground" />
+    <card number="1" name="Eladamri's Call" />
+    <card number="2" name="Gerrard's Command" />
+    <card number="1" name="Harrow" />
+    <card number="1" name="Magma Burst" />
+    <card number="1" name="Pollen Remedy" />
+    <card number="1" name="Rith's Charm" />
+    <card number="1" name="Singe" />
+    <card number="1" name="Zap" />
+  </zone>
+</cockatrice_deck>

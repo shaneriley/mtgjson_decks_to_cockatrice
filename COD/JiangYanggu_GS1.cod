@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Jiang Yanggu</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Giant Spider" />
+    <card number="4" name="Timber Gorge" />
+    <card number="9" name="Mountain" />
+    <card number="12" name="Forest" />
+    <card number="1" name="Jiang Yanggu" />
+    <card number="2" name="Leopard-Spotted Jiao" />
+    <card number="3" name="Feiyi Snake" />
+    <card number="3" name="Sacred White Deer" />
+    <card number="4" name="Reckless Pangolin" />
+    <card number="3" name="Ferocious Zheng" />
+    <card number="2" name="Fire-Omen Crane" />
+    <card number="1" name="Screeching Phoenix" />
+    <card number="2" name="Earthshaking Si" />
+    <card number="2" name="Hardened-Scale Armor" />
+    <card number="2" name="Breath of Fire" />
+    <card number="2" name="Aggressive Instinct" />
+    <card number="2" name="Confidence from Strength" />
+    <card number="2" name="Journey for the Elixir" />
+    <card number="2" name="Cleansing Screech" />
+  </zone>
+</cockatrice_deck>

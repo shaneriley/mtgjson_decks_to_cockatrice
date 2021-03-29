@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Reality Fracture</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sage of Epityr" />
+    <card number="2" name="Giant Oyster" />
+    <card number="3" name="Viscerid Deepwalker" />
+    <card number="3" name="Riftwing Cloudskate" />
+    <card number="1" name="Errant Ephemeron" />
+    <card number="1" name="Deep-Sea Kraken" />
+    <card number="2" name="Coal Stoker" />
+    <card number="2" name="Keldon Halberdier" />
+    <card number="1" name="Pardic Dragon" />
+    <card number="1" name="Jhoira's Timebug" />
+    <card number="1" name="Clockwork Hydra" />
+    <card number="2" name="Clockspinning" />
+    <card number="1" name="Whispers of the Muse" />
+    <card number="1" name="Careful Consideration" />
+    <card number="1" name="Ground Rift" />
+    <card number="4" name="Grapeshot" />
+    <card number="1" name="Rift Bolt" />
+    <card number="3" name="Empty the Warrens" />
+    <card number="2" name="Ignite Memories" />
+    <card number="2" name="Claws of Gix" />
+    <card number="1" name="Serrated Arrows" />
+    <card number="12" name="Island" />
+    <card number="11" name="Mountain" />
+    <card number="1" name="Dreadship Reef" />
+  </zone>
+</cockatrice_deck>

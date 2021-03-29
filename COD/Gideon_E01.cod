@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Gideon</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Gideon Jura" />
+    <card number="1" name="Lightwielder Paladin" />
+    <card number="1" name="Grand Abolisher" />
+    <card number="1" name="Aegis Angel" />
+    <card number="2" name="Relief Captain" />
+    <card number="1" name="Odric, Master Tactician" />
+    <card number="1" name="Fiendslayer Paladin" />
+    <card number="1" name="Mentor of the Meek" />
+    <card number="1" name="Precinct Captain" />
+    <card number="2" name="Gideon's Lawkeeper" />
+    <card number="2" name="Those Who Serve" />
+    <card number="1" name="Doomed Traveler" />
+    <card number="2" name="Vizier of Deferment" />
+    <card number="1" name="Sun Titan" />
+    <card number="2" name="Anointer of Champions" />
+    <card number="1" name="Sparring Mummy" />
+    <card number="2" name="Expedition Raptor" />
+    <card number="1" name="Youthful Knight" />
+    <card number="1" name="Flickerwisp" />
+    <card number="2" name="Aerial Responder" />
+    <card number="1" name="Fencing Ace" />
+    <card number="2" name="Excoriate" />
+    <card number="2" name="Shoulder to Shoulder" />
+    <card number="2" name="Moment of Heroism" />
+    <card number="1" name="Grasp of the Hieromancer" />
+    <card number="25" name="Plains" />
+  </zone>
+</cockatrice_deck>

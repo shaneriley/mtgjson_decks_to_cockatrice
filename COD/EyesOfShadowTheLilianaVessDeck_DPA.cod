@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Eyes of Shadow - The Liliana Vess Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Drudge Skeletons" />
+    <card number="2" name="Dusk Imp" />
+    <card number="3" name="Ravenous Rats" />
+    <card number="2" name="Severed Legion" />
+    <card number="2" name="Abyssal Specter" />
+    <card number="1" name="Crowd of Cinders" />
+    <card number="1" name="Ascendant Evincar" />
+    <card number="1" name="Mortivore" />
+    <card number="1" name="Sengir Vampire" />
+    <card number="4" name="Mind Rot" />
+    <card number="2" name="Consume Spirit" />
+    <card number="1" name="Mind Shatter" />
+    <card number="4" name="Terror" />
+    <card number="2" name="Demon's Horn" />
+    <card number="1" name="The Rack" />
+    <card number="2" name="Unholy Strength" />
+    <card number="2" name="Megrim" />
+    <card number="1" name="Underworld Dreams" />
+    <card number="25" name="Swamp" />
+  </zone>
+</cockatrice_deck>

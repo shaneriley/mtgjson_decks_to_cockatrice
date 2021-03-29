@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Thrive and Thrash</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Arbor Elf" />
+    <card number="2" name="Fog Bank" />
+    <card number="3" name="Strangleroot Geist" />
+    <card number="3" name="Borderland Ranger" />
+    <card number="1" name="Yeva, Nature's Herald" />
+    <card number="1" name="Dungeon Geists" />
+    <card number="2" name="Mist Raven" />
+    <card number="1" name="Thragtusk" />
+    <card number="2" name="Acidic Slime" />
+    <card number="1" name="Wolfir Silverheart" />
+    <card number="1" name="Deadeye Navigator" />
+    <card number="1" name="Sphinx of Uthuun" />
+    <card number="1" name="Gruul Ragebeast" />
+    <card number="4" name="Farseek" />
+    <card number="2" name="Ground Assault" />
+    <card number="1" name="Bramblecrush" />
+    <card number="3" name="Urban Evolution" />
+    <card number="4" name="Verdant Haven" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="4" name="Simic Guildgate" />
+    <card number="6" name="Island" />
+    <card number="1" name="Mountain" />
+    <card number="10" name="Forest" />
+  </zone>
+  <zone name="sideboard">
+    <card number="3" name="Rancor" />
+    <card number="2" name="Naturalize" />
+    <card number="2" name="Negate" />
+    <card number="4" name="Flames of the Firebrand" />
+    <card number="4" name="Dissipate" />
+  </zone>
+</cockatrice_deck>

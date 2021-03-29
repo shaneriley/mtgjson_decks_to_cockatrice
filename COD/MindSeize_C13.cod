@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mind Seize</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Augur of Bolas" />
+    <card number="1" name="Baleful Force" />
+    <card number="1" name="Baleful Strix" />
+    <card number="1" name="Charmbreaker Devils" />
+    <card number="1" name="Diviner Spirit" />
+    <card number="1" name="Echo Mage" />
+    <card number="1" name="Fog Bank" />
+    <card number="1" name="Guard Gomazoa" />
+    <card number="1" name="Guttersnipe" />
+    <card number="1" name="Hooded Horror" />
+    <card number="1" name="Jace's Archivist" />
+    <card number="1" name="Mnemonic Wall" />
+    <card number="1" name="Nekusar, the Mindrazer" />
+    <card number="1" name="Nightscape Familiar" />
+    <card number="1" name="Nivix Guildmage" />
+    <card number="1" name="Terra Ravager" />
+    <card number="1" name="Thraximundar" />
+    <card number="1" name="True-Name Nemesis" />
+    <card number="1" name="Uyo, Silent Prophet" />
+    <card number="1" name="Vampire Nighthawk" />
+    <card number="1" name="Viseling" />
+    <card number="1" name="Army of the Damned" />
+    <card number="1" name="Cruel Ultimatum" />
+    <card number="1" name="Decree of Pain" />
+    <card number="1" name="Fissure Vent" />
+    <card number="1" name="Incendiary Command" />
+    <card number="1" name="Infest" />
+    <card number="1" name="Molten Disaster" />
+    <card number="1" name="Phthisis" />
+    <card number="1" name="Prosperity" />
+    <card number="1" name="Skyscribing" />
+    <card number="1" name="Strategic Planning" />
+    <card number="1" name="Tempt with Reflections" />
+    <card number="1" name="Annihilate" />
+    <card number="1" name="Crosis's Charm" />
+    <card number="1" name="Dismiss" />
+    <card number="1" name="Grixis Charm" />
+    <card number="1" name="Illusionist's Gambit" />
+    <card number="1" name="Opportunity" />
+    <card number="1" name="Soul Manipulation" />
+    <card number="1" name="Starstorm" />
+    <card number="1" name="Sudden Spoiling" />
+    <card number="1" name="Vision Skeins" />
+    <card number="1" name="Wild Ricochet" />
+    <card number="1" name="Armillary Sphere" />
+    <card number="1" name="Eye of Doom" />
+    <card number="1" name="Mirari" />
+    <card number="1" name="Obelisk of Grixis" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="1" name="Temple Bell" />
+    <card number="1" name="Wayfarer's Bauble" />
+    <card number="1" name="Arcane Melee" />
+    <card number="1" name="Curse of Chaos" />
+    <card number="1" name="Curse of Inertia" />
+    <card number="1" name="Curse of Shallow Graves" />
+    <card number="1" name="Price of Knowledge" />
+    <card number="1" name="Propaganda" />
+    <card number="1" name="Spiteful Visions" />
+    <card number="1" name="Akoum Refuge" />
+    <card number="1" name="Bojuka Bog" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Crumbling Necropolis" />
+    <card number="1" name="Dimir Guildgate" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Grixis Panorama" />
+    <card number="9" name="Island" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Izzet Guildgate" />
+    <card number="1" name="Molten Slagheap" />
+    <card number="5" name="Mountain" />
+    <card number="1" name="Opal Palace" />
+    <card number="1" name="Rakdos Carnarium" />
+    <card number="1" name="Rakdos Guildgate" />
+    <card number="1" name="Rupture Spire" />
+    <card number="8" name="Swamp" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Urza's Factory" />
+    <card number="1" name="Vivid Creek" />
+    <card number="1" name="Vivid Marsh" />
+  </zone>
+</cockatrice_deck>

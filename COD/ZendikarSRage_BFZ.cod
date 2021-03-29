@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Zendikar's Rage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Scythe Leopard" />
+    <card number="2" name="Lavastep Raider" />
+    <card number="2" name="Oran-Rief Invoker" />
+    <card number="1" name="Rot Shambler" />
+    <card number="2" name="Snapping Gnarlid" />
+    <card number="1" name="Makindi Sliderunner" />
+    <card number="2" name="Tunneling Geopede" />
+    <card number="2" name="Valakut Invoker" />
+    <card number="1" name="Valakut Predator" />
+    <card number="2" name="Broodhunter Wurm" />
+    <card number="1" name="Murasa Ranger" />
+    <card number="1" name="Grove Rumbler" />
+    <card number="2" name="Territorial Baloth" />
+    <card number="1" name="Oran-Rief Hydra" />
+    <card number="2" name="Seek the Wilds" />
+    <card number="2" name="Sylvan Scrying" />
+    <card number="1" name="Reclaiming Vines" />
+    <card number="1" name="Nissa's Renewal" />
+    <card number="1" name="Rolling Thunder" />
+    <card number="1" name="Swell of Growth" />
+    <card number="1" name="Sure Strike" />
+    <card number="1" name="Natural Connection" />
+    <card number="1" name="Stonefury" />
+    <card number="1" name="Retreat to Kazandu" />
+    <card number="1" name="Retreat to Valakut" />
+    <card number="1" name="Blighted Woodland" />
+    <card number="3" name="Evolving Wilds" />
+    <card number="2" name="Fertile Thicket" />
+    <card number="10" name="Mountain" />
+    <card number="10" name="Forest" />
+  </zone>
+</cockatrice_deck>

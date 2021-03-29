@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Code of the Orzhov</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Martyred Rusalka" />
+    <card number="2" name="Shrieking Grotesque" />
+    <card number="1" name="Belfry Spirit" />
+    <card number="1" name="Plagued Rusalka" />
+    <card number="2" name="Thoughtpicker Witch" />
+    <card number="2" name="Infectious Host" />
+    <card number="2" name="Orzhov Euthanist" />
+    <card number="2" name="Ostiary Thrull" />
+    <card number="2" name="Poisonbelly Ogre" />
+    <card number="1" name="Skeletal Vampire" />
+    <card number="1" name="Teysa, Orzhov Scion" />
+    <card number="2" name="Souls of the Faultless" />
+    <card number="2" name="Blind Hunter" />
+    <card number="2" name="Agent of Masks" />
+    <card number="2" name="Mourning Thrull" />
+    <card number="1" name="Orzhov Guildmage" />
+    <card number="1" name="Festival of the Guildpact" />
+    <card number="2" name="Hissing Miasma" />
+    <card number="2" name="Strands of Undeath" />
+    <card number="2" name="Castigate" />
+    <card number="1" name="Mortify" />
+    <card number="2" name="Pillory of the Sleepless" />
+    <card number="10" name="Plains" />
+    <card number="11" name="Swamp" />
+    <card number="2" name="Orzhov Basilica" />
+    <card number="1" name="Orzhova, the Church of Deals" />
+  </zone>
+</cockatrice_deck>

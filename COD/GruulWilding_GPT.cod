@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Gruul Wilding</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Scorched Rusalka" />
+    <card number="2" name="Sparkmage Apprentice" />
+    <card number="2" name="Bloodscale Prowler" />
+    <card number="1" name="Indentured Oaf" />
+    <card number="2" name="Dryad Sophisticate" />
+    <card number="2" name="Gatherer of Graces" />
+    <card number="2" name="Gruul Scrapper" />
+    <card number="2" name="Dowsing Shaman" />
+    <card number="2" name="Bramble Elemental" />
+    <card number="1" name="Gruul Nodorog" />
+    <card number="1" name="Battering Wurm" />
+    <card number="1" name="Scab-Clan Mauler" />
+    <card number="1" name="Burning-Tree Bloodscale" />
+    <card number="1" name="Streetbreaker Wurm" />
+    <card number="2" name="Skarrgan Skybreaker" />
+    <card number="1" name="Borborygmos" />
+    <card number="1" name="Wild Cantor" />
+    <card number="1" name="Gruul Guildmage" />
+    <card number="3" name="Fencer's Magemark" />
+    <card number="2" name="Fists of Ironwood" />
+    <card number="3" name="Beastmaster's Magemark" />
+    <card number="1" name="Wildsize" />
+    <card number="1" name="Wurmweaver Coil" />
+    <card number="11" name="Mountain" />
+    <card number="12" name="Forest" />
+    <card number="1" name="Skarrg, the Rage Pits" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Minotaurs (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Bloodrage Brawler" />
+    <card number="1" name="Sethron, Hurloon General" />
+    <card number="1" name="Warfire Javelineer" />
+    <card number="1" name="Borderland Minotaur" />
+    <card number="1" name="Lightning Visionary" />
+    <card number="1" name="Minotaur Skullcleaver" />
+    <card number="1" name="Minotaur Sureshot" />
+    <card number="1" name="Flurry of Horns" />
+    <card number="1" name="Mugging" />
+    <card number="1" name="Soul Sear" />
+    <card number="1" name="Sure Strike" />
+    <card number="1" name="Herald's Horn" />
+    <card number="1" name="Thriving Bluff" />
+    <card number="6" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

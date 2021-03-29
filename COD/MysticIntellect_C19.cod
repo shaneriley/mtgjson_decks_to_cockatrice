@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mystic Intellect</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ral Zarek" />
+    <card number="1" name="Elsha of the Infinite" />
+    <card number="1" name="Pramikon, Sky Rampart" />
+    <card number="1" name="Thalia's Geistcaller" />
+    <card number="1" name="Wall of Stolen Identity" />
+    <card number="1" name="Backdraft Hellkite" />
+    <card number="1" name="Dockside Extortionist" />
+    <card number="1" name="Gerrard, Weatherlight Hero" />
+    <card number="1" name="Pristine Angel" />
+    <card number="1" name="Sun Titan" />
+    <card number="1" name="Clever Impersonator" />
+    <card number="1" name="Zetalpa, Primal Dawn" />
+    <card number="1" name="River Kelpie" />
+    <card number="1" name="Talrand, Sky Summoner" />
+    <card number="1" name="Pristine Skywise" />
+    <card number="1" name="Cliffside Rescuer" />
+    <card number="1" name="Scaretiller" />
+    <card number="1" name="Guttersnipe" />
+    <card number="1" name="Crackling Drake" />
+    <card number="1" name="Burnished Hart" />
+    <card number="1" name="Sevinne's Reclamation" />
+    <card number="1" name="Mass Diminish" />
+    <card number="1" name="Ignite the Future" />
+    <card number="1" name="Divine Reckoning" />
+    <card number="1" name="Dusk // Dawn" />
+    <card number="1" name="Increasing Devotion" />
+    <card number="1" name="Storm Herd" />
+    <card number="1" name="Devil's Play" />
+    <card number="1" name="Deep Analysis" />
+    <card number="1" name="Mystic Retrieval" />
+    <card number="1" name="Runic Repetition" />
+    <card number="1" name="Faithless Looting" />
+    <card number="1" name="Rolling Temblor" />
+    <card number="1" name="Mandate of Peace" />
+    <card number="1" name="Increasing Vengeance" />
+    <card number="1" name="Magmaquake" />
+    <card number="1" name="Refuse // Cooperate" />
+    <card number="1" name="Leadership Vacuum" />
+    <card number="1" name="Prismatic Strands" />
+    <card number="1" name="Purify the Grave" />
+    <card number="1" name="Ray of Distortion" />
+    <card number="1" name="Chemister's Insight" />
+    <card number="1" name="Fact or Fiction" />
+    <card number="1" name="Fervent Denial" />
+    <card number="1" name="Oona's Grace" />
+    <card number="1" name="Think Twice" />
+    <card number="1" name="Desperate Ravings" />
+    <card number="1" name="Farm // Market" />
+    <card number="1" name="Empowered Autogenerator" />
+    <card number="1" name="Bloodthirsty Blade" />
+    <card number="1" name="Armillary Sphere" />
+    <card number="1" name="Azorius Locket" />
+    <card number="1" name="Commander's Sphere" />
+    <card number="1" name="Izzet Locket" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Jace's Sanctum" />
+    <card number="1" name="Ghostly Prison" />
+    <card number="1" name="Secrets of the Dead" />
+    <card number="1" name="Burning Vengeance" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Prairie Stream" />
+    <card number="9" name="Plains" />
+    <card number="8" name="Island" />
+    <card number="4" name="Mountain" />
+    <card number="1" name="Ash Barrens" />
+    <card number="1" name="Azorius Chancery" />
+    <card number="1" name="Boros Garrison" />
+    <card number="1" name="Boros Guildgate" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Highland Lake" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Izzet Guildgate" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Mystic Monastery" />
+    <card number="1" name="Stone Quarry" />
+    <card number="1" name="Swiftwater Cliffs" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Tranquil Cove" />
+    <card number="1" name="Wind-Scarred Crag" />
+  </zone>
+</cockatrice_deck>

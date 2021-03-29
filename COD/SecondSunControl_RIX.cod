@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Second Sun Control</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Kefnet the Mindful" />
+    <card number="3" name="Approach of the Second Sun" />
+    <card number="3" name="Fumigate" />
+    <card number="1" name="Settle the Wreckage" />
+    <card number="4" name="Opt" />
+    <card number="4" name="Censor" />
+    <card number="4" name="Supreme Will" />
+    <card number="2" name="Renewed Faith" />
+    <card number="4" name="Glimmer of Genius" />
+    <card number="1" name="Farm // Market" />
+    <card number="4" name="Aether Meltdown" />
+    <card number="4" name="Cast Out" />
+    <card number="4" name="Irrigated Farmland" />
+    <card number="2" name="Field of Ruin" />
+    <card number="2" name="Ipnu Rivulet" />
+    <card number="10" name="Island" />
+    <card number="8" name="Plains" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Kefnet the Mindful" />
+    <card number="2" name="Renewed Faith" />
+    <card number="4" name="Regal Caracal" />
+    <card number="2" name="Glyph Keeper" />
+    <card number="2" name="Spell Pierce" />
+    <card number="4" name="Negate" />
+  </zone>
+</cockatrice_deck>

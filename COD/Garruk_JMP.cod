@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Garruk</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Garruk, Unleashed" />
+    <card number="1" name="Affectionate Indrik" />
+    <card number="1" name="Brushstrider" />
+    <card number="1" name="Rumbling Baloth" />
+    <card number="1" name="Orazca Frillback" />
+    <card number="1" name="Garruk's Harbinger" />
+    <card number="1" name="Garruk's Gorehorn" />
+    <card number="1" name="Drowsing Tyrannodon" />
+    <card number="1" name="Hunter's Edge" />
+    <card number="1" name="Hunter's Insight" />
+    <card number="1" name="Ranger's Guile" />
+    <card number="1" name="Garruk's Uprising" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

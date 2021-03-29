@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Core 2019 Welcome Deck - Black</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Gravewaker" />
+    <card number="1" name="Bogstomper" />
+    <card number="1" name="Diregraf Ghoul" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Skeleton Archer" />
+    <card number="1" name="Skymarch Bloodletter" />
+    <card number="1" name="Vampire Sovereign" />
+    <card number="2" name="Walking Corpse" />
+    <card number="1" name="Tattered Mummy" />
+    <card number="1" name="Grasping Scoundrel" />
+    <card number="1" name="Lich's Caress" />
+    <card number="1" name="Sovereign's Bite" />
+    <card number="1" name="Murder" />
+    <card number="2" name="Strangling Spores" />
+    <card number="1" name="Infernal Scarring" />
+    <card number="13" name="Swamp" />
+  </zone>
+</cockatrice_deck>

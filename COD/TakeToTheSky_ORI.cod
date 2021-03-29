@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Take to the Sky</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Alhammarret, High Arbiter" />
+    <card number="3" name="Faerie Miscreant" />
+    <card number="2" name="Sigiled Starfish" />
+    <card number="2" name="Yoked Ox" />
+    <card number="2" name="Watercourser" />
+    <card number="2" name="Tower Geist" />
+    <card number="2" name="Nivix Barrier" />
+    <card number="2" name="Charging Griffin" />
+    <card number="2" name="Thunderclap Wyvern" />
+    <card number="2" name="Totem-Guide Hartebeest" />
+    <card number="1" name="Soulblade Djinn" />
+    <card number="1" name="Aven Battle Priest" />
+    <card number="2" name="Healing Hands" />
+    <card number="1" name="Negate" />
+    <card number="1" name="Turn to Frog" />
+    <card number="1" name="Celestial Flare" />
+    <card number="2" name="Hydrolash" />
+    <card number="1" name="Stratus Walk" />
+    <card number="1" name="Murder Investigation" />
+    <card number="2" name="Claustrophobia" />
+    <card number="2" name="Suppression Bonds" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="14" name="Island" />
+    <card number="10" name="Plains" />
+  </zone>
+</cockatrice_deck>

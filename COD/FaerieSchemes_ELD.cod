@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Faerie Schemes</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Shimmer Dragon" />
+    <card number="1" name="Workshop Elders" />
+    <card number="1" name="Sephara, Sky's Blade" />
+    <card number="1" name="Massacre Girl" />
+    <card number="1" name="Corridor Monitor" />
+    <card number="1" name="Shinechaser" />
+    <card number="1" name="Arcanist's Owl" />
+    <card number="1" name="Empyrean Eagle" />
+    <card number="1" name="Shambling Suit" />
+    <card number="1" name="Kaya's Wrath" />
+    <card number="1" name="Animating Faerie // Bring to Life" />
+    <card number="1" name="Winged Words" />
+    <card number="1" name="Banish into Fable" />
+    <card number="1" name="Chemister's Insight" />
+    <card number="1" name="Mortify" />
+    <card number="1" name="Mace of the Valiant" />
+    <card number="1" name="Bag of Holding" />
+    <card number="1" name="Witching Well" />
+    <card number="1" name="Golden Egg" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Ancestral Blade" />
+    <card number="1" name="Bloodsoaked Altar" />
+    <card number="1" name="Heraldic Banner" />
+    <card number="1" name="Scrabbling Claws" />
+    <card number="1" name="Guild Globe" />
+    <card number="1" name="Mana Geode" />
+    <card number="1" name="Smothering Tithe" />
+    <card number="1" name="All That Glitters" />
+    <card number="1" name="Frogify" />
+    <card number="1" name="Angelic Exaltation" />
+    <card number="1" name="Conclave Tribunal" />
+    <card number="1" name="Prison Realm" />
+    <card number="1" name="Lawmage's Binding" />
+    <card number="1" name="Temple of Silence" />
+    <card number="1" name="Watery Grave" />
+    <card number="6" name="Plains" />
+    <card number="5" name="Island" />
+    <card number="4" name="Swamp" />
+    <card number="1" name="Azorius Guildgate" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Dimir Guildgate" />
+    <card number="1" name="Dismal Backwater" />
+    <card number="1" name="Emergence Zone" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Orzhov Guildgate" />
+    <card number="1" name="Scoured Barrens" />
+    <card number="1" name="Tranquil Cove" />
+  </zone>
+</cockatrice_deck>

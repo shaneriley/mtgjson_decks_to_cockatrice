@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>United Assault</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Dauntless Bodyguard" />
+    <card number="4" name="Healer's Hawk" />
+    <card number="4" name="Leonin Vanguard" />
+    <card number="4" name="Skymarcher Aspirant" />
+    <card number="4" name="Ajani's Pridemate" />
+    <card number="4" name="Adanto Vanguard" />
+    <card number="4" name="Benalish Marshal" />
+    <card number="1" name="Hunted Witness" />
+    <card number="3" name="Pride of Conquerors" />
+    <card number="1" name="Conclave Tribunal" />
+    <card number="2" name="Legion's Landing // Adanto, the First Fort" />
+    <card number="2" name="History of Benalia" />
+    <card number="21" name="Plains" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Conclave Tribunal" />
+    <card number="3" name="Baffling End" />
+    <card number="3" name="Knight of Grace" />
+    <card number="2" name="Tocatli Honor Guard" />
+    <card number="2" name="Make a Stand" />
+    <card number="1" name="Remorseful Cleric" />
+    <card number="3" name="Shield Mare" />
+  </zone>
+</cockatrice_deck>

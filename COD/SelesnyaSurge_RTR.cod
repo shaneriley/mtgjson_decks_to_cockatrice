@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Selesnya Surge</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Arbor Elf" />
+    <card number="1" name="Brushstrider" />
+    <card number="1" name="Vitu-Ghazi Guildmage" />
+    <card number="3" name="Centaur Courser" />
+    <card number="3" name="Seller of Songbirds" />
+    <card number="1" name="Centaur Healer" />
+    <card number="1" name="Wayfaring Temple" />
+    <card number="1" name="Healer of the Pride" />
+    <card number="1" name="Phantom General" />
+    <card number="1" name="Axebane Stag" />
+    <card number="1" name="Risen Sanctuary" />
+    <card number="2" name="Call of the Conclave" />
+    <card number="2" name="Bountiful Harvest" />
+    <card number="2" name="Savage Surge" />
+    <card number="1" name="Rootborn Defenses" />
+    <card number="2" name="Chorus of Might" />
+    <card number="2" name="Eyes in the Skies" />
+    <card number="2" name="Selesnya Keyrune" />
+    <card number="1" name="Selesnya Guildgate" />
+    <card number="1" name="Grove of the Guardian" />
+    <card number="12" name="Forest" />
+    <card number="11" name="Plains" />
+    <card number="2" name="Centaur's Herald" />
+    <card number="1" name="Druid's Deliverance" />
+    <card number="1" name="Heroes' Reunion" />
+    <card number="2" name="Trostani's Judgment" />
+    <card number="1" name="Coursers' Accord" />
+  </zone>
+</cockatrice_deck>

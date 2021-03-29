@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>The Coalition</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Charging Troll" />
+    <card number="1" name="Darigaaz, the Igniter" />
+    <card number="1" name="Gerrard Capashen" />
+    <card number="2" name="Nomadic Elf" />
+    <card number="1" name="Quirion Elves" />
+    <card number="1" name="Rith, the Awakener" />
+    <card number="1" name="Sunscape Battlemage" />
+    <card number="2" name="Thornscape Apprentice" />
+    <card number="2" name="Thornscape Battlemage" />
+    <card number="1" name="Thunderscape Battlemage" />
+    <card number="1" name="Treva, the Renewer" />
+    <card number="1" name="Verduran Emissary" />
+    <card number="2" name="Yavimaya Elder" />
+    <card number="1" name="Allied Strategies" />
+    <card number="1" name="Tribal Flames" />
+    <card number="1" name="Darigaaz's Charm" />
+    <card number="1" name="Evasive Action" />
+    <card number="1" name="Gerrard's Command" />
+    <card number="2" name="Harrow" />
+    <card number="1" name="Narrow Escape" />
+    <card number="1" name="Rith's Charm" />
+    <card number="1" name="Treva's Charm" />
+    <card number="1" name="Urza's Rage" />
+    <card number="1" name="Coalition Relic" />
+    <card number="1" name="Power Armor" />
+    <card number="2" name="Armadillo Cloak" />
+    <card number="1" name="Exotic Curse" />
+    <card number="2" name="Fertile Ground" />
+    <card number="1" name="Elfhame Palace" />
+    <card number="10" name="Forest" />
+    <card number="1" name="Island" />
+    <card number="4" name="Mountain" />
+    <card number="4" name="Plains" />
+    <card number="1" name="Shivan Oasis" />
+    <card number="1" name="Swamp" />
+    <card number="3" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

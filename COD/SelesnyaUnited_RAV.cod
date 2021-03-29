@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Selesnya United</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Elvish Skysweeper" />
+    <card number="1" name="Scion of the Wild" />
+    <card number="2" name="Nullmage Shepherd" />
+    <card number="1" name="Dowsing Shaman" />
+    <card number="2" name="Root-Kin Ally" />
+    <card number="3" name="Siege Wurm" />
+    <card number="2" name="Caregiver" />
+    <card number="2" name="Sandsower" />
+    <card number="2" name="Conclave Phalanx" />
+    <card number="2" name="Selesnya Evangel" />
+    <card number="1" name="Watchwolf" />
+    <card number="1" name="Tolsimir Wolfblood" />
+    <card number="1" name="Selesnya Guildmage" />
+    <card number="2" name="Centaur Safeguard" />
+    <card number="3" name="Gather Courage" />
+    <card number="4" name="Fists of Ironwood" />
+    <card number="2" name="Scatter the Seeds" />
+    <card number="1" name="Dryad's Caress" />
+    <card number="1" name="Overwhelm" />
+    <card number="1" name="Conclave's Blessing" />
+    <card number="11" name="Forest" />
+    <card number="10" name="Plains" />
+    <card number="2" name="Selesnya Sanctuary" />
+    <card number="1" name="Vitu-Ghazi, the City-Tree" />
+  </zone>
+</cockatrice_deck>

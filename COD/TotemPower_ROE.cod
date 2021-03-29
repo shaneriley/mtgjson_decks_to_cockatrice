@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Totem Power</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Cudgel Troll" />
+    <card number="1" name="Daggerback Basilisk" />
+    <card number="2" name="Elvish Visionary" />
+    <card number="1" name="Gigantomancer" />
+    <card number="1" name="Kor Spiritdancer" />
+    <card number="1" name="Nema Siltlurker" />
+    <card number="1" name="Ornithopter" />
+    <card number="1" name="Pelakka Wurm" />
+    <card number="1" name="Prized Unicorn" />
+    <card number="1" name="Soul's Attendant" />
+    <card number="2" name="Sporecap Spider" />
+    <card number="1" name="Stomper Cub" />
+    <card number="1" name="Angel's Mercy" />
+    <card number="1" name="Harmless Assault" />
+    <card number="1" name="Righteousness" />
+    <card number="1" name="Boar Umbra" />
+    <card number="1" name="Eland Umbra" />
+    <card number="1" name="Mammoth Umbra" />
+    <card number="2" name="Pacifism" />
+    <card number="1" name="Spider Umbra" />
+    <card number="9" name="Forest" />
+    <card number="9" name="Plains" />
+  </zone>
+</cockatrice_deck>

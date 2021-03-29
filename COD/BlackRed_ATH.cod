@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Black - Red</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Goblin Balloon Brigade" />
+    <card number="1" name="Goblin Digging Team" />
+    <card number="1" name="Goblin Hero" />
+    <card number="1" name="Goblin King" />
+    <card number="1" name="Goblin Matron" />
+    <card number="1" name="Goblin Mutant" />
+    <card number="1" name="Goblin Recruiter" />
+    <card number="1" name="Goblin Snowman" />
+    <card number="1" name="Goblin Tinkerer" />
+    <card number="1" name="Goblin Vandal" />
+    <card number="1" name="Mogg Fanatic" />
+    <card number="1" name="Mogg Flunkies" />
+    <card number="1" name="Mogg Raider" />
+    <card number="1" name="Raging Goblin" />
+    <card number="1" name="Uthden Troll" />
+    <card number="1" name="Volcanic Dragon" />
+    <card number="1" name="Black Knight" />
+    <card number="1" name="Cuombajj Witches" />
+    <card number="1" name="Hypnotic Specter" />
+    <card number="1" name="Ihsan's Shade" />
+    <card number="1" name="Knight of Stromgald" />
+    <card number="1" name="Lady Orca" />
+    <card number="1" name="Aesthir Glider" />
+    <card number="1" name="Fireball" />
+    <card number="1" name="Goblin Grenade" />
+    <card number="1" name="Goblin Offensive" />
+    <card number="1" name="Goblin Warrens" />
+    <card number="1" name="Lightning Bolt" />
+    <card number="1" name="Pyrokinesis" />
+    <card number="1" name="Pyrotechnics" />
+    <card number="1" name="Feast of the Unicorn" />
+    <card number="1" name="Hymn to Tourach" />
+    <card number="1" name="Terror" />
+    <card number="1" name="Unholy Strength" />
+    <card number="1" name="Nevinyrral's Disk" />
+    <card number="12" name="Mountain" />
+    <card number="10" name="Swamp" />
+    <card number="1" name="Strip Mine" />
+    <card number="1" name="Smoldering Crater" />
+    <card number="1" name="Polluted Mire" />
+  </zone>
+</cockatrice_deck>

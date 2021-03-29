@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sorin</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sorin, Lord of Innistrad" />
+    <card number="1" name="Bloodrage Vampire" />
+    <card number="1" name="Butcher of Malakir" />
+    <card number="1" name="Child of Night" />
+    <card number="2" name="Doomed Traveler" />
+    <card number="2" name="Duskhunter Bat" />
+    <card number="1" name="Fiend Hunter" />
+    <card number="1" name="Gatekeeper of Malakir" />
+    <card number="1" name="Mausoleum Guard" />
+    <card number="1" name="Mesmeric Fiend" />
+    <card number="1" name="Phantom General" />
+    <card number="1" name="Revenant Patriarch" />
+    <card number="1" name="Sengir Vampire" />
+    <card number="1" name="Twilight Drover" />
+    <card number="1" name="Vampire Lacerator" />
+    <card number="1" name="Vampire Nighthawk" />
+    <card number="1" name="Vampire Outcasts" />
+    <card number="1" name="Wall of Omens" />
+    <card number="1" name="Absorb Vis" />
+    <card number="1" name="Ancient Craving" />
+    <card number="1" name="Death Grasp" />
+    <card number="1" name="Decompose" />
+    <card number="1" name="Lingering Souls" />
+    <card number="2" name="Spectral Procession" />
+    <card number="1" name="Mortify" />
+    <card number="1" name="Sorin's Thirst" />
+    <card number="1" name="Unmake" />
+    <card number="1" name="Urge to Feed" />
+    <card number="1" name="Vampire's Bite" />
+    <card number="1" name="Zealous Persecution" />
+    <card number="1" name="Field of Souls" />
+    <card number="1" name="Mark of the Vampire" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="9" name="Plains" />
+    <card number="12" name="Swamp" />
+    <card number="2" name="Tainted Field" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Legion (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Inspiring Captain" />
+    <card number="1" name="Siege Striker" />
+    <card number="1" name="Valorous Steed" />
+    <card number="1" name="Daybreak Charger" />
+    <card number="1" name="Makeshift Battalion" />
+    <card number="1" name="Staunch Shieldmate" />
+    <card number="1" name="Release the Dogs" />
+    <card number="1" name="Basri's Solidarity" />
+    <card number="1" name="Legion's Judgment" />
+    <card number="1" name="Raise the Alarm" />
+    <card number="1" name="Glorious Anthem" />
+    <card number="1" name="Faith's Fetters" />
+    <card number="1" name="Thriving Heath" />
+    <card number="6" name="Plains" />
+    <card number="1" name="Plains" />
+  </zone>
+</cockatrice_deck>

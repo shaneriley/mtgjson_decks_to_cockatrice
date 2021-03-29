@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sacrificial Bam</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Disciple of the Vault" />
+    <card number="2" name="Atog" />
+    <card number="2" name="Krark-Clan Grunt" />
+    <card number="1" name="Megatog" />
+    <card number="2" name="Iron Myr" />
+    <card number="2" name="Leaden Myr" />
+    <card number="2" name="Myr Retriever" />
+    <card number="2" name="Cathodion" />
+    <card number="3" name="Goblin Replica" />
+    <card number="3" name="Nim Replica" />
+    <card number="1" name="Dross Scorpion" />
+    <card number="2" name="Rust Elemental" />
+    <card number="1" name="Pentavus" />
+    <card number="2" name="Irradiate" />
+    <card number="1" name="Shrapnel Blast" />
+    <card number="2" name="Necrogen Spellbomb" />
+    <card number="2" name="Pyrite Spellbomb" />
+    <card number="2" name="Talisman of Indulgence" />
+    <card number="1" name="Nuisance Engine" />
+    <card number="1" name="Skeleton Shard" />
+    <card number="8" name="Mountain" />
+    <card number="7" name="Swamp" />
+    <card number="4" name="Great Furnace" />
+    <card number="4" name="Vault of Whispers" />
+  </zone>
+</cockatrice_deck>

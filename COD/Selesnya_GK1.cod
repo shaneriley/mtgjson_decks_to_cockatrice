@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Selesnya</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Trostani, Selesnya's Voice" />
+    <card number="1" name="Loxodon Hierarch" />
+    <card number="1" name="Venerated Loxodon" />
+    <card number="1" name="Armada Wurm" />
+    <card number="1" name="Tolsimir Wolfblood" />
+    <card number="1" name="Dryad Militant" />
+    <card number="1" name="Vernadi Shieldmate" />
+    <card number="2" name="Selesnya Evangel" />
+    <card number="2" name="Watchwolf" />
+    <card number="2" name="Selesnya Guildmage" />
+    <card number="1" name="Centaur Healer" />
+    <card number="1" name="Conclave Cavalier" />
+    <card number="1" name="Siege Wurm" />
+    <card number="1" name="Camaraderie" />
+    <card number="1" name="Hour of Reckoning" />
+    <card number="1" name="Call of the Conclave" />
+    <card number="1" name="Advent of the Wurm" />
+    <card number="1" name="Bounty of Might" />
+    <card number="1" name="Gather Courage" />
+    <card number="1" name="Selesnya Charm" />
+    <card number="1" name="Sundering Growth" />
+    <card number="2" name="Devouring Light" />
+    <card number="2" name="Scatter the Seeds" />
+    <card number="2" name="Selesnya Signet" />
+    <card number="1" name="Glare of Subdual" />
+    <card number="1" name="Growing Ranks" />
+    <card number="1" name="Privileged Position" />
+    <card number="1" name="Conclave Tribunal" />
+    <card number="1" name="Pollenbright Wings" />
+    <card number="1" name="Grove of the Guardian" />
+    <card number="4" name="Selesnya Guildgate" />
+    <card number="4" name="Selesnya Sanctuary" />
+    <card number="8" name="Plains" />
+    <card number="8" name="Forest" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Well-Read (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ormos, Archive Keeper" />
+    <card number="1" name="Oneirophage" />
+    <card number="1" name="Erratic Visionary" />
+    <card number="1" name="Runed Servitor" />
+    <card number="1" name="Tolarian Kraken" />
+    <card number="1" name="Tome Anima" />
+    <card number="1" name="Library Larcenist" />
+    <card number="1" name="Opt" />
+    <card number="1" name="Arcane Encyclopedia" />
+    <card number="1" name="Curiosity" />
+    <card number="1" name="Capture Sphere" />
+    <card number="1" name="Rousing Read" />
+    <card number="1" name="Thriving Isle" />
+    <card number="6" name="Island" />
+    <card number="1" name="Island" />
+  </zone>
+</cockatrice_deck>

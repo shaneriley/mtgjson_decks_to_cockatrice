@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Feathered Friends (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Concordia Pegasus" />
+    <card number="1" name="Steel-Plume Marshal" />
+    <card number="1" name="Healer's Hawk" />
+    <card number="1" name="Aven Gagglemaster" />
+    <card number="1" name="Falconer Adept" />
+    <card number="1" name="Warded Battlements" />
+    <card number="1" name="Gale Swooper" />
+    <card number="1" name="Celestial Enforcer" />
+    <card number="1" name="Tandem Tactics" />
+    <card number="1" name="Angelic Ascension" />
+    <card number="1" name="Swift Response" />
+    <card number="1" name="Sky Tether" />
+    <card number="1" name="Thriving Heath" />
+    <card number="6" name="Plains" />
+    <card number="1" name="Plains" />
+  </zone>
+</cockatrice_deck>

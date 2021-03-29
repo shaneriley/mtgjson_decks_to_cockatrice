@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Inspiring Heroics</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Dryad Militant" />
+    <card number="2" name="Imposing Sovereign" />
+    <card number="1" name="Precinct Captain" />
+    <card number="1" name="New Prahv Guildmage" />
+    <card number="1" name="Frontline Medic" />
+    <card number="2" name="Banisher Priest" />
+    <card number="3" name="Lyev Skyknight" />
+    <card number="2" name="Ascended Lawmage" />
+    <card number="1" name="Skymark Roc" />
+    <card number="1" name="Lavinia of the Tenth" />
+    <card number="3" name="Hopeful Eidolon" />
+    <card number="1" name="Soldier of the Pantheon" />
+    <card number="3" name="Battlewise Hoplite" />
+    <card number="1" name="Fabled Hero" />
+    <card number="2" name="Gods Willing" />
+    <card number="2" name="Dauntless Onslaught" />
+    <card number="2" name="Pacifism" />
+    <card number="2" name="Detention Sphere" />
+    <card number="1" name="Ordeal of Heliod" />
+    <card number="2" name="Ordeal of Thassa" />
+    <card number="4" name="Azorius Guildgate" />
+    <card number="1" name="Hallowed Fountain" />
+    <card number="14" name="Plains" />
+    <card number="5" name="Island" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Triton Tactics" />
+    <card number="2" name="Glare of Heresy" />
+    <card number="2" name="Gainsay" />
+    <card number="2" name="Negate" />
+    <card number="2" name="Arrest" />
+    <card number="3" name="Solemn Offering" />
+    <card number="2" name="Gift of Orzhova" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ajani, Inspiring Leader</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Serra's Guardian" />
+    <card number="4" name="Daybreak Chaplain" />
+    <card number="3" name="Fencing Ace" />
+    <card number="3" name="Impassioned Orator" />
+    <card number="4" name="Moment of Heroism" />
+    <card number="3" name="Pacifism" />
+    <card number="25" name="Plains" />
+    <card number="1" name="Loxodon Lifechanter" />
+    <card number="2" name="Goldmane Griffin" />
+    <card number="3" name="Angel of Vitality" />
+    <card number="3" name="Dawning Angel" />
+    <card number="4" name="Savannah Sage" />
+    <card number="3" name="Twinblade Paladin" />
+    <card number="1" name="Ajani, Inspiring Leader" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Simic Mutology</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Simic Initiate" />
+    <card number="1" name="Starved Rusalka" />
+    <card number="2" name="Simic Ragworm" />
+    <card number="1" name="Indrik Stomphowler" />
+    <card number="2" name="Simic Basilisk" />
+    <card number="1" name="Protean Hulk" />
+    <card number="1" name="Drowned Rusalka" />
+    <card number="2" name="Plaxmanta" />
+    <card number="2" name="Surveilling Sprite" />
+    <card number="2" name="Silkwing Scout" />
+    <card number="2" name="Vigean Graftmage" />
+    <card number="2" name="Helium Squirter" />
+    <card number="2" name="Coiling Oracle" />
+    <card number="3" name="Vigean Hydropon" />
+    <card number="1" name="Experiment Kraj" />
+    <card number="1" name="Simic Guildmage" />
+    <card number="2" name="Flash Foliage" />
+    <card number="2" name="Thrive" />
+    <card number="2" name="Stasis Cell" />
+    <card number="2" name="Shielding Plax" />
+    <card number="10" name="Forest" />
+    <card number="11" name="Island" />
+    <card number="2" name="Simic Growth Chamber" />
+    <card number="1" name="Novijen, Heart of Progress" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ivory Doom</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Foothill Guide" />
+    <card number="2" name="Battlefield Medic" />
+    <card number="2" name="Disciple of Grace" />
+    <card number="3" name="Daru Healer" />
+    <card number="2" name="Doubtless One" />
+    <card number="1" name="Daunting Defender" />
+    <card number="1" name="Aven Soulgazer" />
+    <card number="4" name="Disciple of Malice" />
+    <card number="1" name="Headhunter" />
+    <card number="2" name="Cabal Archon" />
+    <card number="1" name="Cabal Executioner" />
+    <card number="1" name="Gangrenous Goliath" />
+    <card number="2" name="Pacifism" />
+    <card number="1" name="Akroma's Blessing" />
+    <card number="1" name="Astral Slide" />
+    <card number="1" name="Sigil of the New Dawn" />
+    <card number="2" name="Smother" />
+    <card number="2" name="Swat" />
+    <card number="1" name="Death Pulse" />
+    <card number="2" name="Profane Prayers" />
+    <card number="8" name="Plains" />
+    <card number="8" name="Swamp" />
+    <card number="4" name="Barren Moor" />
+    <card number="4" name="Secluded Steppe" />
+    <card number="1" name="Starlit Sanctum" />
+  </zone>
+</cockatrice_deck>

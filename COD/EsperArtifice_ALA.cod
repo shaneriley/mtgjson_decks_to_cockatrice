@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Esper Artifice</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Etherium Sculptor" />
+    <card number="2" name="Tidehollow Strix" />
+    <card number="1" name="Esper Battlemage" />
+    <card number="2" name="Windwright Mage" />
+    <card number="1" name="Sanctum Gargoyle" />
+    <card number="1" name="Filigree Sages" />
+    <card number="2" name="Tower Gargoyle" />
+    <card number="2" name="Cloudheath Drake" />
+    <card number="1" name="Master of Etherium" />
+    <card number="1" name="Sharding Sphinx" />
+    <card number="1" name="Tidings" />
+    <card number="1" name="Courier's Capsule" />
+    <card number="1" name="Onyx Goblet" />
+    <card number="2" name="Executioner's Capsule" />
+    <card number="1" name="Marble Chalice" />
+    <card number="1" name="Obelisk of Esper" />
+    <card number="2" name="Oblivion Ring" />
+    <card number="3" name="Plains" />
+    <card number="7" name="Island" />
+    <card number="3" name="Swamp" />
+    <card number="2" name="Arcane Sanctum" />
+    <card number="2" name="Esper Panorama" />
+  </zone>
+</cockatrice_deck>

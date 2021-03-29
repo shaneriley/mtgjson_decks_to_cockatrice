@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Tezzeret</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Snapping Drake" />
+    <card number="1" name="Riddlemaster Sphinx" />
+    <card number="1" name="Exclusion Mage" />
+    <card number="2" name="Gearsmith Prodigy" />
+    <card number="1" name="Scholar of Stars" />
+    <card number="2" name="Skilled Animator" />
+    <card number="2" name="Field Creeper" />
+    <card number="2" name="Gearsmith Guardian" />
+    <card number="2" name="Meteor Golem" />
+    <card number="2" name="Skyscanner" />
+    <card number="3" name="Tezzeret's Strider" />
+    <card number="1" name="One with the Machine" />
+    <card number="1" name="Divination" />
+    <card number="1" name="Uncomfortable Chill" />
+    <card number="2" name="Tezzeret's Gatebreaker" />
+    <card number="1" name="Manalith" />
+    <card number="4" name="Pendulum of Patterns" />
+    <card number="3" name="Dwindle" />
+    <card number="26" name="Island" />
+    <card number="1" name="Tezzeret, Cruel Machinist" />
+  </zone>
+</cockatrice_deck>

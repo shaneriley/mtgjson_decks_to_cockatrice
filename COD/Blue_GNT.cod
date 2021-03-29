@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Blue</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Soulblade Djinn" />
+    <card number="1" name="Zahid, Djinn of the Lamp" />
+    <card number="1" name="Sai, Master Thopterist" />
+    <card number="2" name="Aviation Pioneer" />
+    <card number="1" name="Gearsmith Prodigy" />
+    <card number="2" name="Scholar of Stars" />
+    <card number="2" name="Skilled Animator" />
+    <card number="2" name="Wall of Mist" />
+    <card number="2" name="Gearsmith Guardian" />
+    <card number="2" name="Skyscanner" />
+    <card number="1" name="Advanced Stitchwing" />
+    <card number="2" name="Air Elemental" />
+    <card number="1" name="Reckless Scholar" />
+    <card number="2" name="Whirler Rogue" />
+    <card number="2" name="Pilgrim's Eye" />
+    <card number="2" name="Snare Thopter" />
+    <card number="1" name="One with the Machine" />
+    <card number="1" name="Switcheroo" />
+    <card number="1" name="Hydrolash" />
+    <card number="1" name="Metamorphic Alteration" />
+    <card number="2" name="Claustrophobia" />
+    <card number="2" name="Favorable Winds" />
+    <card number="25" name="Island" />
+    <card number="1" name="Inspired Sphinx" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Insanity</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Carrion Rats" />
+    <card number="3" name="Putrid Imp" />
+    <card number="2" name="Boneshard Slasher" />
+    <card number="1" name="Grotesque Hybrid" />
+    <card number="3" name="Basking Rootwalla" />
+    <card number="3" name="Wild Mongrel" />
+    <card number="1" name="Anurid Scavenger" />
+    <card number="1" name="Nantuko Blightcutter" />
+    <card number="2" name="Krosan Archer" />
+    <card number="2" name="Krosan Constrictor" />
+    <card number="1" name="Nantuko Cultivator" />
+    <card number="2" name="Arrogant Wurm" />
+    <card number="2" name="Centaur Veteran" />
+    <card number="2" name="Strength of Lunacy" />
+    <card number="2" name="Waste Away" />
+    <card number="2" name="Muscle Burst" />
+    <card number="2" name="Sylvan Might" />
+    <card number="1" name="Narcissism" />
+    <card number="2" name="Acorn Harvest" />
+    <card number="12" name="Swamp" />
+    <card number="10" name="Forest" />
+    <card number="2" name="Tainted Wood" />
+  </zone>
+</cockatrice_deck>

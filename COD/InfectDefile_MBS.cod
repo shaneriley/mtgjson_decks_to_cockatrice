@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Infect & Defile</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Necropede" />
+    <card number="4" name="Plague Myr" />
+    <card number="4" name="Corpse Cur" />
+    <card number="1" name="Hand of the Praetors" />
+    <card number="2" name="Phyrexian Vatmother" />
+    <card number="3" name="Preordain" />
+    <card number="4" name="Foresee" />
+    <card number="2" name="Consuming Vapors" />
+    <card number="2" name="Mana Leak" />
+    <card number="1" name="Doom Blade" />
+    <card number="2" name="Smother" />
+    <card number="2" name="Deprive" />
+    <card number="2" name="Contagion Clasp" />
+    <card number="4" name="Corrupted Conscience" />
+    <card number="2" name="Drowned Catacomb" />
+    <card number="4" name="Jwar Isle Refuge" />
+    <card number="10" name="Island" />
+    <card number="7" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Doom Blade" />
+    <card number="2" name="Smother" />
+    <card number="3" name="Deathmark" />
+    <card number="3" name="Flashfreeze" />
+    <card number="4" name="Negate" />
+    <card number="2" name="Go for the Throat" />
+  </zone>
+</cockatrice_deck>

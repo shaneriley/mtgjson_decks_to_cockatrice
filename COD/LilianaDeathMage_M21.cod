@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Liliana, Death Mage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Liliana, Death Mage" />
+    <card number="1" name="Liliana's Standard Bearer" />
+    <card number="3" name="Grim Physician" />
+    <card number="2" name="Bushmeat Poacher" />
+    <card number="3" name="Durable Coilbug" />
+    <card number="2" name="Lurking Deadeye" />
+    <card number="2" name="Goremand" />
+    <card number="4" name="Masked Blackguard" />
+    <card number="3" name="Liliana's Scrounger" />
+    <card number="4" name="Spirit of Malevolence" />
+    <card number="2" name="Liliana's Scorn" />
+    <card number="2" name="Unlikely Aid" />
+    <card number="2" name="Alchemist's Gift" />
+    <card number="3" name="Grasp of Darkness" />
+    <card number="1" name="Demonic Embrace" />
+    <card number="24" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

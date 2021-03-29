@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Teferi, Timebender</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Serra Angel" />
+    <card number="2" name="Niambi, Faithful Healer" />
+    <card number="1" name="Daring Archaeologist" />
+    <card number="1" name="Zahid, Djinn of the Lamp" />
+    <card number="2" name="Sparring Construct" />
+    <card number="3" name="Knight of New Benalia" />
+    <card number="2" name="Relic Runner" />
+    <card number="1" name="Tetsuko Umezawa, Fugitive" />
+    <card number="3" name="Aesthir Glider" />
+    <card number="2" name="Jhoira's Familiar" />
+    <card number="2" name="Juggernaut" />
+    <card number="3" name="Teferi's Sentinel" />
+    <card number="1" name="Divination" />
+    <card number="4" name="Temporal Machinations" />
+    <card number="3" name="Gideon's Reproach" />
+    <card number="2" name="Befuddle" />
+    <card number="11" name="Plains" />
+    <card number="11" name="Island" />
+    <card number="4" name="Meandering River" />
+    <card number="1" name="Teferi, Timebender" />
+  </zone>
+</cockatrice_deck>

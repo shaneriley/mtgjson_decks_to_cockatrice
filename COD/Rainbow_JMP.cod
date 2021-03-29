@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rainbow</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Maelstrom Archangel" />
+    <card number="1" name="Chamber Sentry" />
+    <card number="1" name="Dinrova Horror" />
+    <card number="1" name="Fusion Elemental" />
+    <card number="1" name="Raging Regisaur" />
+    <card number="1" name="Ironroot Warlord" />
+    <card number="1" name="Alloy Myr" />
+    <card number="1" name="Skittering Surveyor" />
+    <card number="1" name="Prismite" />
+    <card number="1" name="Auger Spree" />
+    <card number="1" name="Prophetic Prism" />
+    <card number="1" name="Lawmage's Binding" />
+    <card number="1" name="Mirrodin's Core" />
+    <card number="1" name="Rupture Spire" />
+    <card number="1" name="Forest" />
+    <card number="1" name="Island" />
+    <card number="1" name="Mountain" />
+    <card number="1" name="Plains" />
+    <card number="1" name="Swamp" />
+    <card number="1" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

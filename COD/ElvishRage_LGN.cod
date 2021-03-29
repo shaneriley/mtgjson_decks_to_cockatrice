@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Elvish Rage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="25" name="Forest" />
+    <card number="1" name="Birchlore Rangers" />
+    <card number="1" name="Bloodline Shaman" />
+    <card number="3" name="Defiant Elf" />
+    <card number="2" name="Elven Riders" />
+    <card number="1" name="Elvish Pathcutter" />
+    <card number="1" name="Elvish Pioneer" />
+    <card number="1" name="Elvish Scrapper" />
+    <card number="1" name="Elvish Soultiller" />
+    <card number="1" name="Elvish Warrior" />
+    <card number="2" name="Everglove Courier" />
+    <card number="2" name="Gempalm Strider" />
+    <card number="1" name="Heedless One" />
+    <card number="3" name="Patron of the Wild" />
+    <card number="3" name="Stonewood Invoker" />
+    <card number="1" name="Snarling Undorak" />
+    <card number="1" name="Taunting Elf" />
+    <card number="2" name="Timberwatch Elf" />
+    <card number="1" name="Tribal Forcemage" />
+    <card number="1" name="Wellwisher" />
+    <card number="2" name="Wirewood Channeler" />
+    <card number="2" name="Wirewood Elf" />
+    <card number="2" name="Wirewood Hivemaster" />
+  </zone>
+</cockatrice_deck>

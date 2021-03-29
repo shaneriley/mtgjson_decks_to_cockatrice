@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Overkill</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Juvenile Gloomwidow" />
+    <card number="3" name="Farhaven Elf" />
+    <card number="1" name="Mossbridge Troll" />
+    <card number="2" name="Scuzzback Scrapper" />
+    <card number="2" name="Tattermunge Duo" />
+    <card number="1" name="Boggart Ram-Gang" />
+    <card number="2" name="Mudbrawler Raiders" />
+    <card number="2" name="Scuttlemutt" />
+    <card number="3" name="Jaws of Stone" />
+    <card number="1" name="Gleeful Sabotage" />
+    <card number="1" name="Tower Above" />
+    <card number="3" name="Howl of the Night Pack" />
+    <card number="2" name="Fossil Find" />
+    <card number="2" name="Puncture Bolt" />
+    <card number="2" name="Flame Javelin" />
+    <card number="4" name="Elsewhere Flask" />
+    <card number="1" name="Illuminated Folio" />
+    <card number="1" name="Prismatic Omen" />
+    <card number="1" name="Runes of the Deus" />
+    <card number="10" name="Mountain" />
+    <card number="14" name="Forest" />
+  </zone>
+</cockatrice_deck>

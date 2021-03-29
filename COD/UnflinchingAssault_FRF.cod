@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Unflinching Assault</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Aven Skirmisher" />
+    <card number="2" name="Mardu Hateblade" />
+    <card number="1" name="Cruel Sadist" />
+    <card number="3" name="Oreskos Swiftclaw" />
+    <card number="1" name="Battle Brawler" />
+    <card number="1" name="Chief of the Edge" />
+    <card number="1" name="Chief of the Scale" />
+    <card number="2" name="Sandsteppe Outcast" />
+    <card number="1" name="Hooded Assassin" />
+    <card number="1" name="Merciless Executioner" />
+    <card number="2" name="Abzan Skycaptain" />
+    <card number="1" name="Dragonscale General" />
+    <card number="1" name="Razorfoot Griffin" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Unyielding Krumar" />
+    <card number="1" name="Elite Scaleguard" />
+    <card number="1" name="Diplomacy of the Wastes" />
+    <card number="1" name="Rush of Battle" />
+    <card number="2" name="Honor's Reward" />
+    <card number="1" name="Sandblast" />
+    <card number="2" name="Harsh Sustenance" />
+    <card number="1" name="Take Up Arms" />
+    <card number="1" name="Throttle" />
+    <card number="2" name="Debilitating Injury" />
+    <card number="2" name="Raiders' Spoils" />
+    <card number="3" name="Scoured Barrens" />
+    <card number="13" name="Plains" />
+    <card number="9" name="Swamp" />
+  </zone>
+</cockatrice_deck>

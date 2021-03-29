@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Simic Synthesis</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Chronomaton" />
+    <card number="1" name="Cloudfin Raptor" />
+    <card number="2" name="Kraken Hatchling" />
+    <card number="1" name="Frilled Oculus" />
+    <card number="2" name="Shambleshark" />
+    <card number="1" name="Zameck Guildmage" />
+    <card number="2" name="Crocanura" />
+    <card number="2" name="Drakewing Krasis" />
+    <card number="1" name="Elusive Krasis" />
+    <card number="1" name="Crowned Ceratok" />
+    <card number="1" name="Ivy Lane Denizen" />
+    <card number="1" name="Fathom Mage" />
+    <card number="2" name="Adaptive Snapjaw" />
+    <card number="1" name="Leyline Phantom" />
+    <card number="1" name="Sapphire Drake" />
+    <card number="1" name="Merfolk of the Depths" />
+    <card number="1" name="Urban Evolution" />
+    <card number="1" name="Sleep" />
+    <card number="1" name="Unexpected Results" />
+    <card number="2" name="Bioshift" />
+    <card number="1" name="Tower Defense" />
+    <card number="1" name="Hindervines" />
+    <card number="2" name="Simic Keyrune" />
+    <card number="2" name="Forced Adaptation" />
+    <card number="2" name="Encrust" />
+    <card number="1" name="Simic Guildgate" />
+    <card number="12" name="Forest" />
+    <card number="13" name="Island" />
+  </zone>
+</cockatrice_deck>

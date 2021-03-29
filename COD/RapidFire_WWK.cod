@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rapid Fire</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Steppe Lynx" />
+    <card number="1" name="Fledgling Griffin" />
+    <card number="1" name="Kor Skyfisher" />
+    <card number="1" name="Ruin Ghost" />
+    <card number="1" name="Kor Firewalker" />
+    <card number="2" name="Pilgrim's Eye" />
+    <card number="1" name="Goblin Roughrider" />
+    <card number="1" name="Prodigal Pyromancer" />
+    <card number="1" name="Kor Cartographer" />
+    <card number="2" name="Cosi's Ravager" />
+    <card number="1" name="Dragon Whelp" />
+    <card number="1" name="Grotag Thrasher" />
+    <card number="1" name="Geyser Glider" />
+    <card number="1" name="Mordant Dragon" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Magma Rift" />
+    <card number="1" name="Chain Reaction" />
+    <card number="2" name="Searing Blaze" />
+    <card number="1" name="Narrow Escape" />
+    <card number="1" name="Armored Ascension" />
+    <card number="9" name="Plains" />
+    <card number="7" name="Mountain" />
+    <card number="2" name="Teetering Peaks" />
+  </zone>
+</cockatrice_deck>

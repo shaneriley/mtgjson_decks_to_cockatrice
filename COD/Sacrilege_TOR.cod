@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sacrilege</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Mystic Familiar" />
+    <card number="1" name="Auramancer" />
+    <card number="1" name="Stern Judge" />
+    <card number="1" name="Aven Cloudchaser" />
+    <card number="3" name="Teroh's Faithful" />
+    <card number="1" name="Teroh's Vanguard" />
+    <card number="1" name="Angel of Retribution" />
+    <card number="3" name="Putrid Imp" />
+    <card number="1" name="Crypt Creeper" />
+    <card number="4" name="Gravedigger" />
+    <card number="1" name="Ichorid" />
+    <card number="1" name="Whispering Shade" />
+    <card number="2" name="Cabal Surgeon" />
+    <card number="1" name="Grotesque Hybrid" />
+    <card number="1" name="Carrion Wurm" />
+    <card number="1" name="Hypochondria" />
+    <card number="1" name="Strength of Isolation" />
+    <card number="3" name="Buried Alive" />
+    <card number="4" name="Crippling Fatigue" />
+    <card number="1" name="Malevolent Awakening" />
+    <card number="1" name="Zombify" />
+    <card number="10" name="Plains" />
+    <card number="12" name="Swamp" />
+    <card number="2" name="Tainted Field" />
+  </zone>
+</cockatrice_deck>

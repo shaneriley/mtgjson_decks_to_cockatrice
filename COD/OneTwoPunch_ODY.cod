@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>One-Two Punch</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Druid Lyrist" />
+    <card number="1" name="Gorilla Titan" />
+    <card number="1" name="Krosan Archer" />
+    <card number="2" name="Leaf Dancer" />
+    <card number="1" name="Nantuko Mentor" />
+    <card number="1" name="Rabid Elephant" />
+    <card number="2" name="Beast Attack" />
+    <card number="3" name="Chatter of the Squirrel" />
+    <card number="2" name="Deep Reconnaissance" />
+    <card number="1" name="Earth Rift" />
+    <card number="3" name="Elephant Ambush" />
+    <card number="2" name="Engulfing Flames" />
+    <card number="1" name="Firebolt" />
+    <card number="1" name="Howling Gale" />
+    <card number="1" name="Moment's Peace" />
+    <card number="2" name="Reckless Charge" />
+    <card number="1" name="Refresh" />
+    <card number="2" name="Roar of the Wurm" />
+    <card number="2" name="Scorching Missile" />
+    <card number="1" name="Seize the Day" />
+    <card number="2" name="Sylvan Might" />
+    <card number="1" name="Volcanic Spray" />
+    <card number="15" name="Forest" />
+    <card number="10" name="Mountain" />
+  </zone>
+</cockatrice_deck>

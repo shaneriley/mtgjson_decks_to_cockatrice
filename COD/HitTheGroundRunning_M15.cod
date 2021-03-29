@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Hit The Ground Running</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Runeclaw Bear" />
+    <card number="1" name="Illusory Angel" />
+    <card number="2" name="Roaring Primadox" />
+    <card number="1" name="Stormtide Leviathan" />
+    <card number="1" name="Carnivorous Moss-Beast" />
+    <card number="2" name="Coral Barrier" />
+    <card number="2" name="Frost Lynx" />
+    <card number="1" name="Fugitive Wizard" />
+    <card number="2" name="Invasive Species" />
+    <card number="2" name="Kapsho Kitefins" />
+    <card number="1" name="Mercurial Pretender" />
+    <card number="2" name="Reclamation Sage" />
+    <card number="1" name="Research Assistant" />
+    <card number="2" name="Satyr Wayfinder" />
+    <card number="3" name="Shaman of Spring" />
+    <card number="2" name="Into the Void" />
+    <card number="1" name="Restock" />
+    <card number="1" name="Negate" />
+    <card number="2" name="Peel from Reality" />
+    <card number="1" name="Turn to Frog" />
+    <card number="1" name="Plummet" />
+    <card number="1" name="Meteorite" />
+    <card number="1" name="Encrust" />
+    <card number="13" name="Island" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

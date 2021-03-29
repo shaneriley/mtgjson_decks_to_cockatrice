@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Cats (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Keeper of Fables" />
+    <card number="1" name="Initiate's Companion" />
+    <card number="1" name="Pouncing Cheetah" />
+    <card number="1" name="Feral Prowler" />
+    <card number="1" name="Feline Sovereign" />
+    <card number="1" name="Canopy Stalker" />
+    <card number="1" name="Sabertooth Mauler" />
+    <card number="1" name="Pridemalkin" />
+    <card number="1" name="Enlarge" />
+    <card number="1" name="Nature's Way" />
+    <card number="1" name="Crushing Canopy" />
+    <card number="1" name="Feral Invocation" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

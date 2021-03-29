@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rowan, Fearless Sparkmage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Rowan, Fearless Sparkmage" />
+    <card number="2" name="Youthful Knight" />
+    <card number="1" name="Acclaimed Contender" />
+    <card number="1" name="Giant Killer // Chop Down" />
+    <card number="2" name="Rowan's Stalwarts" />
+    <card number="2" name="Knight of the Keep" />
+    <card number="2" name="Prized Griffin" />
+    <card number="2" name="Venerable Knight" />
+    <card number="3" name="Rimrock Knight // Boulder Rush" />
+    <card number="1" name="Weaselback Redcap" />
+    <card number="2" name="Inspiring Veteran" />
+    <card number="4" name="Garrison Griffin" />
+    <card number="3" name="Rowan's Battleguard" />
+    <card number="2" name="Joust" />
+    <card number="2" name="Ardenvale Tactician // Dizzying Swoop" />
+    <card number="3" name="Scorching Dragonfire" />
+    <card number="2" name="Weapon Rack" />
+    <card number="4" name="Wind-Scarred Crag" />
+    <card number="11" name="Plains" />
+    <card number="10" name="Mountain" />
+  </zone>
+</cockatrice_deck>

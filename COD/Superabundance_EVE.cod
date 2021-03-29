@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Superabundance</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Nettle Sentinel" />
+    <card number="2" name="Nurturer Initiate" />
+    <card number="2" name="Wickerbough Elder" />
+    <card number="1" name="Drowner Initiate" />
+    <card number="1" name="Merrow Levitator" />
+    <card number="1" name="Slippery Bogle" />
+    <card number="2" name="Groundling Pouncer" />
+    <card number="3" name="Shorecrasher Mimic" />
+    <card number="3" name="Selkie Hedge-Mage" />
+    <card number="3" name="Wistful Selkie" />
+    <card number="1" name="Grazing Kelpie" />
+    <card number="2" name="Sturdy Hatchling" />
+    <card number="1" name="Monstrify" />
+    <card number="1" name="Spitting Image" />
+    <card number="1" name="Viridescent Wisps" />
+    <card number="1" name="Cerulean Wisps" />
+    <card number="1" name="Dream Fracture" />
+    <card number="3" name="Snakeform" />
+    <card number="1" name="Invert the Skies" />
+    <card number="1" name="Trip Noose" />
+    <card number="2" name="Favor of the Overbeing" />
+    <card number="1" name="Fable of Wolf and Owl" />
+    <card number="12" name="Forest" />
+    <card number="12" name="Island" />
+  </zone>
+</cockatrice_deck>

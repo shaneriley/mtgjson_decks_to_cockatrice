@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Izzet</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Niv-Mizzet, the Firemind" />
+    <card number="1" name="Erratic Cyclops" />
+    <card number="1" name="Tibor and Lumia" />
+    <card number="1" name="Hypersonic Dragon" />
+    <card number="1" name="Djinn Illuminatus" />
+    <card number="1" name="Electrostatic Field" />
+    <card number="1" name="Goblin Electromancer" />
+    <card number="2" name="Nivix Guildmage" />
+    <card number="2" name="Guttersnipe" />
+    <card number="1" name="Gelectrode" />
+    <card number="2" name="Wee Dragonauts" />
+    <card number="1" name="Crackling Drake" />
+    <card number="1" name="Mizzium Mortars" />
+    <card number="1" name="Quasiduplicate" />
+    <card number="1" name="Stitch in Time" />
+    <card number="1" name="Invoke the Firemind" />
+    <card number="1" name="Shattering Spree" />
+    <card number="1" name="Direct Current" />
+    <card number="1" name="Beacon Bolt" />
+    <card number="1" name="Goblin Rally" />
+    <card number="1" name="Char" />
+    <card number="1" name="Cerebral Vortex" />
+    <card number="1" name="Electrickery" />
+    <card number="1" name="Radical Idea" />
+    <card number="1" name="Pyromatics" />
+    <card number="1" name="Izzet Charm" />
+    <card number="1" name="Thunderheads" />
+    <card number="1" name="Electrolyze" />
+    <card number="1" name="Chemister's Insight" />
+    <card number="1" name="Turn // Burn" />
+    <card number="2" name="Izzet Signet" />
+    <card number="1" name="Firemind's Research" />
+    <card number="4" name="Izzet Boilerworks" />
+    <card number="4" name="Izzet Guildgate" />
+    <card number="8" name="Island" />
+    <card number="8" name="Mountain" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Gruul Goliaths</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Foundry Street Denizen" />
+    <card number="1" name="Arbor Elf" />
+    <card number="1" name="Skinbrand Goblin" />
+    <card number="2" name="Disciple of the Old Ways" />
+    <card number="1" name="Skarrg Guildmage" />
+    <card number="2" name="Centaur Courser" />
+    <card number="1" name="Slaughterhorn" />
+    <card number="2" name="Viashino Shanktail" />
+    <card number="1" name="Primal Huntbeast" />
+    <card number="1" name="Scab-Clan Charger" />
+    <card number="1" name="Ghor-Clan Rampager" />
+    <card number="2" name="Fire Elemental" />
+    <card number="2" name="Zhur-Taa Swine" />
+    <card number="1" name="Ripscale Predator" />
+    <card number="1" name="Rubblehulk" />
+    <card number="2" name="Ruination Wurm" />
+    <card number="1" name="Duskdale Wurm" />
+    <card number="1" name="Gruul Ragebeast" />
+    <card number="2" name="Ground Assault" />
+    <card number="1" name="Ranger's Path" />
+    <card number="1" name="Pit Fight" />
+    <card number="1" name="Predator's Rapport" />
+    <card number="1" name="Volcanic Geyser" />
+    <card number="2" name="Gruul Keyrune" />
+    <card number="1" name="Alpha Authority" />
+    <card number="1" name="Verdant Haven" />
+    <card number="1" name="Gruul Guildgate" />
+    <card number="12" name="Mountain" />
+    <card number="13" name="Forest" />
+  </zone>
+</cockatrice_deck>

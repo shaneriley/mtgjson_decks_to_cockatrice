@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Merciless Rage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ob Nixilis Reignited" />
+    <card number="1" name="Chainer, Nightmare Adept" />
+    <card number="1" name="Greven, Predator Captain" />
+    <card number="1" name="Archfiend of Spite" />
+    <card number="1" name="Bone Miser" />
+    <card number="1" name="K'rrik, Son of Yawgmoth" />
+    <card number="1" name="Anje's Ravager" />
+    <card number="1" name="Skyfire Phoenix" />
+    <card number="1" name="Wildfire Devils" />
+    <card number="1" name="Champion of Stray Souls" />
+    <card number="1" name="Geth, Lord of the Vault" />
+    <card number="1" name="Soul of Innistrad" />
+    <card number="1" name="Asylum Visitor" />
+    <card number="1" name="Doomed Necromancer" />
+    <card number="1" name="Overseer of the Damned" />
+    <card number="1" name="Flayer of the Hatebound" />
+    <card number="1" name="Magus of the Wheel" />
+    <card number="1" name="Squee, Goblin Nabob" />
+    <card number="1" name="Stromkirk Occultist" />
+    <card number="1" name="Bloodhall Priest" />
+    <card number="1" name="Solemn Simulacrum" />
+    <card number="1" name="Scaretiller" />
+    <card number="1" name="Big Game Hunter" />
+    <card number="1" name="Gorgon Recluse" />
+    <card number="1" name="Grave Scrabbler" />
+    <card number="1" name="Nightshade Assassin" />
+    <card number="1" name="Plaguecrafter" />
+    <card number="1" name="Sanitarium Skeleton" />
+    <card number="1" name="Meteor Golem" />
+    <card number="1" name="Nightmare Unmaking" />
+    <card number="1" name="Boneyard Parley" />
+    <card number="1" name="Beacon of Unrest" />
+    <card number="1" name="From Under the Floorboards" />
+    <card number="1" name="In Garruk's Wake" />
+    <card number="1" name="Avacyn's Judgment" />
+    <card number="1" name="Mire in Misery" />
+    <card number="1" name="Hate Mirage" />
+    <card number="1" name="Call to the Netherworld" />
+    <card number="1" name="Murderous Compulsion" />
+    <card number="1" name="Alchemist's Greeting" />
+    <card number="1" name="Malevolent Whispers" />
+    <card number="1" name="Chaos Warp" />
+    <card number="1" name="Dark Withering" />
+    <card number="1" name="Fiery Temper" />
+    <card number="1" name="Violent Eruption" />
+    <card number="1" name="Aeon Engine" />
+    <card number="1" name="Grimoire of the Dead" />
+    <card number="1" name="Key to the City" />
+    <card number="1" name="Bloodthirsty Blade" />
+    <card number="1" name="Armillary Sphere" />
+    <card number="1" name="Hedron Archive" />
+    <card number="1" name="Rakdos Locket" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Curse of Fool's Wisdom" />
+    <card number="1" name="Hedonist's Trove" />
+    <card number="1" name="Warstorm Surge" />
+    <card number="1" name="Faith of the Devoted" />
+    <card number="1" name="The Eldest Reborn" />
+    <card number="1" name="Zombie Infestation" />
+    <card number="1" name="Sanctum of Eternity" />
+    <card number="1" name="Drownyard Temple" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Geier Reach Sanitarium" />
+    <card number="10" name="Swamp" />
+    <card number="10" name="Mountain" />
+    <card number="1" name="Akoum Refuge" />
+    <card number="1" name="Ash Barrens" />
+    <card number="1" name="Barren Moor" />
+    <card number="1" name="Bloodfell Caves" />
+    <card number="1" name="Cinder Barrens" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Forgotten Cave" />
+    <card number="1" name="Memorial to Folly" />
+    <card number="1" name="Mortuary Mire" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Rakdos Carnarium" />
+    <card number="1" name="Rakdos Guildgate" />
+    <card number="1" name="Rix Maadi, Dungeon Palace" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Temple of the False God" />
+  </zone>
+</cockatrice_deck>

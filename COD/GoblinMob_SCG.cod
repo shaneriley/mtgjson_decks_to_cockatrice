@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Goblin Mob</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Goblin Grappler" />
+    <card number="2" name="Goblin Sledder" />
+    <card number="2" name="Goblin Taskmaster" />
+    <card number="3" name="Goblin Brigand" />
+    <card number="1" name="Skirk Drill Sergeant" />
+    <card number="2" name="Skirk Marauder" />
+    <card number="1" name="Sparksmith" />
+    <card number="1" name="Flamestick Courier" />
+    <card number="1" name="Gempalm Incinerator" />
+    <card number="2" name="Goblin Sky Raider" />
+    <card number="1" name="Nosy Goblin" />
+    <card number="3" name="Rock Jockey" />
+    <card number="1" name="Goblin Warchief" />
+    <card number="2" name="Skirk Commando" />
+    <card number="1" name="Goblin Psychopath" />
+    <card number="1" name="Reckless One" />
+    <card number="2" name="Skirk Volcanist" />
+    <card number="1" name="Siege-Gang Commander" />
+    <card number="2" name="Goblin War Strike" />
+    <card number="2" name="Carbonize" />
+    <card number="1" name="Sulfuric Vortex" />
+    <card number="1" name="Enrage" />
+    <card number="1" name="Wave of Indifference" />
+    <card number="20" name="Mountain" />
+    <card number="2" name="Forgotten Cave" />
+    <card number="2" name="Goblin Burrows" />
+  </zone>
+</cockatrice_deck>

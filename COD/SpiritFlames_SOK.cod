@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spirit Flames</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Frostling" />
+    <card number="1" name="Glitterfang" />
+    <card number="2" name="Ghost-Lit Raider" />
+    <card number="1" name="Jiwari, the Earth Aflame" />
+    <card number="1" name="Hana Kami" />
+    <card number="3" name="Promised Kannushi" />
+    <card number="2" name="Petalmane Baku" />
+    <card number="1" name="Shinen of Life's Roar" />
+    <card number="2" name="Elder Pine of Jukai" />
+    <card number="2" name="Ghost-Lit Nourisher" />
+    <card number="2" name="Burr Grafter" />
+    <card number="2" name="Kami of the Tended Garden" />
+    <card number="1" name="Venerable Kumo" />
+    <card number="1" name="Arashi, the Sky Asunder" />
+    <card number="1" name="Briarknit Kami" />
+    <card number="2" name="Forked-Branch Garami" />
+    <card number="2" name="Crushing Pain" />
+    <card number="1" name="Glacial Ray" />
+    <card number="1" name="Devouring Rage" />
+    <card number="1" name="Kodama's Might" />
+    <card number="2" name="Inner Calm, Outer Strength" />
+    <card number="2" name="Unchecked Growth" />
+    <card number="1" name="Rending Vines" />
+    <card number="1" name="Strength of Cedars" />
+    <card number="11" name="Mountain" />
+    <card number="13" name="Forest" />
+  </zone>
+</cockatrice_deck>

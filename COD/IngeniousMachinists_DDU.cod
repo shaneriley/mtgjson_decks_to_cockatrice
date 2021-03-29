@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ingenious Machinists</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Goblin Welder" />
+    <card number="2" name="Pia and Kiran Nalaar" />
+    <card number="1" name="Myr Battlesphere" />
+    <card number="1" name="Scuttling Doom Engine" />
+    <card number="1" name="Solemn Simulacrum" />
+    <card number="1" name="Thopter Assembly" />
+    <card number="2" name="Etherium Sculptor" />
+    <card number="2" name="Faerie Mechanist" />
+    <card number="1" name="Trinket Mage" />
+    <card number="1" name="Riddlesmith" />
+    <card number="1" name="Treasure Mage" />
+    <card number="1" name="Trophy Mage" />
+    <card number="1" name="Whirler Rogue" />
+    <card number="1" name="Ghirapur Gearcrafter" />
+    <card number="1" name="Barrage Ogre" />
+    <card number="1" name="Maverick Thopterist" />
+    <card number="1" name="Reclusive Artificer" />
+    <card number="1" name="Myr Sire" />
+    <card number="1" name="Neurok Replica" />
+    <card number="2" name="Filigree Familiar" />
+    <card number="2" name="Galvanic Blast" />
+    <card number="1" name="Welding Sparks" />
+    <card number="1" name="Shrapnel Blast" />
+    <card number="1" name="Darksteel Plate" />
+    <card number="2" name="Ichor Wellspring" />
+    <card number="2" name="Mycosynth Wellspring" />
+    <card number="1" name="Pyrite Spellbomb" />
+    <card number="1" name="Voyager Staff" />
+    <card number="1" name="Great Furnace" />
+    <card number="1" name="Seat of the Synod" />
+    <card number="1" name="Darksteel Citadel" />
+    <card number="1" name="Temple of Epiphany" />
+    <card number="1" name="Shivan Reef" />
+    <card number="7" name="Island" />
+    <card number="7" name="Mountain" />
+    <card number="2" name="Swiftwater Cliffs" />
+    <card number="1" name="Foundry of the Consuls" />
+    <card number="1" name="Inventor's Goggles" />
+    <card number="1" name="Phyrexia's Core" />
+    <card number="1" name="Artificer's Epiphany" />
+  </zone>
+</cockatrice_deck>

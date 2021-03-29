@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ixidor's Legacy</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="23" name="Island" />
+    <card number="1" name="Desert" />
+    <card number="1" name="Aeon Chronicler" />
+    <card number="2" name="Aquamorph Entity" />
+    <card number="1" name="Brine Elemental" />
+    <card number="2" name="Coral Trickster" />
+    <card number="1" name="Crookclaw Transmuter" />
+    <card number="2" name="Dream Stalker" />
+    <card number="3" name="Fathom Seer" />
+    <card number="2" name="Fledgling Mawcor" />
+    <card number="1" name="Jodah's Avenger" />
+    <card number="1" name="Merfolk Thaumaturgist" />
+    <card number="1" name="Ovinomancer" />
+    <card number="2" name="Primal Plasma" />
+    <card number="2" name="Riptide Pilferer" />
+    <card number="1" name="Serendib Sorcerer" />
+    <card number="2" name="Shaper Parasite" />
+    <card number="1" name="Slipstream Serpent" />
+    <card number="2" name="Tidewalker" />
+    <card number="1" name="Willbender" />
+    <card number="2" name="Unstable Mutation" />
+    <card number="2" name="Erratic Mutation" />
+    <card number="2" name="Ovinize" />
+    <card number="1" name="Piracy Charm" />
+    <card number="1" name="Pongify" />
+  </zone>
+</cockatrice_deck>

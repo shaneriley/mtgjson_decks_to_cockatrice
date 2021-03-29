@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Relentless Rush</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Lightning Berserker" />
+    <card number="2" name="Kolaghan Aspirant" />
+    <card number="3" name="Kolaghan Skirmisher" />
+    <card number="2" name="Kolaghan Forerunners" />
+    <card number="2" name="Screamreach Brawler" />
+    <card number="2" name="Ambuscade Shaman" />
+    <card number="2" name="Warbringer" />
+    <card number="2" name="Sprinting Warbrute" />
+    <card number="1" name="Boltwing Marauder" />
+    <card number="2" name="Swift Warkite" />
+    <card number="1" name="Duress" />
+    <card number="2" name="Tormenting Voice" />
+    <card number="1" name="Defeat" />
+    <card number="1" name="Foul-Tongue Shriek" />
+    <card number="2" name="Twin Bolt" />
+    <card number="1" name="Foul-Tongue Invocation" />
+    <card number="2" name="Flatten" />
+    <card number="1" name="Foul Renewal" />
+    <card number="1" name="Vial of Dragonfire" />
+    <card number="1" name="Kolaghan Monument" />
+    <card number="2" name="Impact Tremors" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="13" name="Mountain" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

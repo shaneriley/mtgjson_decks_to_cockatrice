@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Power and Profit</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Satyr Wayfinder" />
+    <card number="2" name="Brain Maggot" />
+    <card number="3" name="Nyx Weaver" />
+    <card number="1" name="Nighthowler" />
+    <card number="1" name="Courser of Kruphix" />
+    <card number="1" name="Herald of Torment" />
+    <card number="1" name="Eidolon of Blossoms" />
+    <card number="1" name="Reaper of the Wilds" />
+    <card number="2" name="Sultai Soothsayer" />
+    <card number="1" name="Doomwake Giant" />
+    <card number="2" name="Nemesis of Mortals" />
+    <card number="1" name="Scuttling Doom Engine" />
+    <card number="1" name="Necropolis Fiend" />
+    <card number="1" name="Merciless Executioner" />
+    <card number="1" name="Gurmag Angler" />
+    <card number="2" name="Sultai Charm" />
+    <card number="1" name="Hero's Downfall" />
+    <card number="2" name="Murderous Cut" />
+    <card number="3" name="Commune with the Gods" />
+    <card number="1" name="Font of Fertility" />
+    <card number="1" name="Debilitating Injury" />
+    <card number="1" name="Sultai Ascendancy" />
+    <card number="1" name="Monastery Siege" />
+    <card number="1" name="Whip of Erebos" />
+    <card number="4" name="Opulent Palace" />
+    <card number="2" name="Jungle Hollow" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="3" name="Island" />
+    <card number="8" name="Forest" />
+    <card number="5" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Typhoid Rats" />
+    <card number="1" name="Annul" />
+    <card number="1" name="Despise" />
+    <card number="1" name="Naturalize" />
+    <card number="2" name="Dark Betrayal" />
+    <card number="1" name="Plummet" />
+    <card number="1" name="Baleful Eidolon" />
+    <card number="1" name="Dead Drop" />
+    <card number="1" name="Set Adrift" />
+    <card number="1" name="Neutralizing Blast" />
+    <card number="1" name="Defend the Hearth" />
+    <card number="1" name="Noble Quarry" />
+    <card number="1" name="Graverobber Spider" />
+    <card number="1" name="Reviving Melody" />
+  </zone>
+</cockatrice_deck>

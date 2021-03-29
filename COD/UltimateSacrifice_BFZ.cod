@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ultimate Sacrifice</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Blisterpod" />
+    <card number="1" name="Warden of the First Tree" />
+    <card number="2" name="Zulaport Cutthroat" />
+    <card number="2" name="Sultai Emissary" />
+    <card number="4" name="Rot Shambler" />
+    <card number="1" name="Grim Haruspex" />
+    <card number="2" name="Nantuko Husk" />
+    <card number="4" name="Catacomb Sifter" />
+    <card number="1" name="Eyeless Watcher" />
+    <card number="1" name="Smothering Abomination" />
+    <card number="1" name="Whisperwood Elemental" />
+    <card number="1" name="Brood Butcher" />
+    <card number="1" name="Tasigur, the Golden Fang" />
+    <card number="1" name="Hangarback Walker" />
+    <card number="4" name="Bone Splinters" />
+    <card number="2" name="Murderous Cut" />
+    <card number="2" name="Vampiric Rites" />
+    <card number="1" name="Evolutionary Leap" />
+    <card number="1" name="Corpseweft" />
+    <card number="4" name="Evolving Wilds" />
+    <card number="4" name="Jungle Hollow" />
+    <card number="1" name="Llanowar Wastes" />
+    <card number="2" name="Rogue's Passage" />
+    <card number="7" name="Forest" />
+    <card number="6" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="3" name="Duress" />
+    <card number="3" name="Caustic Caterpillar" />
+    <card number="4" name="Jaddi Offshoot" />
+    <card number="3" name="Cranial Archive" />
+    <card number="2" name="Ultimate Price" />
+  </zone>
+</cockatrice_deck>

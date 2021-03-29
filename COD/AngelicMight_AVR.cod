@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Angelic Might</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Cathedral Sanctifier" />
+    <card number="2" name="Gideon's Lawkeeper" />
+    <card number="2" name="Angelic Wall" />
+    <card number="1" name="Timberland Guide" />
+    <card number="3" name="Borderland Ranger" />
+    <card number="2" name="Emancipation Angel" />
+    <card number="2" name="Seraph of Dawn" />
+    <card number="1" name="Herald of War" />
+    <card number="2" name="Serra Angel" />
+    <card number="1" name="Goldnight Redeemer" />
+    <card number="1" name="Voice of the Provinces" />
+    <card number="1" name="Angel of Glory's Rise" />
+    <card number="1" name="Archangel" />
+    <card number="2" name="Rampant Growth" />
+    <card number="1" name="Defy Death" />
+    <card number="2" name="Righteous Blow" />
+    <card number="1" name="Bladed Bracers" />
+    <card number="1" name="Scroll of Avacyn" />
+    <card number="2" name="Angel's Tomb" />
+    <card number="2" name="Defang" />
+    <card number="1" name="Oblivion Ring" />
+    <card number="1" name="Triumph of Ferocity" />
+    <card number="1" name="Builder's Blessing" />
+    <card number="1" name="Seraph Sanctuary" />
+    <card number="13" name="Plains" />
+    <card number="11" name="Forest" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Insatiable Hunger</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Cyclops of One-Eyed Pass" />
+    <card number="2" name="Fanatic of Xenagos" />
+    <card number="1" name="Mistcutter Hydra" />
+    <card number="1" name="Nessian Courser" />
+    <card number="2" name="Nessian Demolok" />
+    <card number="1" name="Nessian Wilds Ravager" />
+    <card number="1" name="Opaline Unicorn" />
+    <card number="1" name="Pharagax Giant" />
+    <card number="2" name="Reckless Reveler" />
+    <card number="1" name="Satyr Piper" />
+    <card number="1" name="Setessan Starbreaker" />
+    <card number="2" name="Snake of the Golden Grove" />
+    <card number="2" name="Swordwise Centaur" />
+    <card number="1" name="Thunder Brute" />
+    <card number="2" name="Voyaging Satyr" />
+    <card number="1" name="Mischief and Mayhem" />
+    <card number="1" name="Pinnacle of Rage" />
+    <card number="1" name="Destructive Revelry" />
+    <card number="1" name="Fall of the Hammer" />
+    <card number="2" name="Lightning Strike" />
+    <card number="2" name="Mortal's Resolve" />
+    <card number="1" name="Searing Blood" />
+    <card number="1" name="Messenger's Speed" />
+    <card number="2" name="Ordeal of Nylea" />
+    <card number="14" name="Forest" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

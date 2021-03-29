@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spooky (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Harvester of Souls" />
+    <card number="1" name="Bone Picker" />
+    <card number="1" name="Eternal Taskmaster" />
+    <card number="1" name="Gristle Grinner" />
+    <card number="1" name="Dutiful Attendant" />
+    <card number="1" name="Sanitarium Skeleton" />
+    <card number="1" name="Crypt Lurker" />
+    <card number="1" name="Caged Zombie" />
+    <card number="1" name="Barter in Blood" />
+    <card number="1" name="Bone Splinters" />
+    <card number="1" name="Finishing Blow" />
+    <card number="1" name="Malefic Scythe" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

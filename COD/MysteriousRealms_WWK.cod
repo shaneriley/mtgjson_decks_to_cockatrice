@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mysterious Realms</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Walking Atlas" />
+    <card number="1" name="Coral Merfolk" />
+    <card number="1" name="Frontier Guide" />
+    <card number="1" name="Merfolk Wayfinder" />
+    <card number="1" name="Tideforce Elemental" />
+    <card number="2" name="Calcite Snapper" />
+    <card number="1" name="Hedron Rover" />
+    <card number="1" name="Living Tsunami" />
+    <card number="1" name="Territorial Baloth" />
+    <card number="1" name="Baloth Woodcrasher" />
+    <card number="1" name="Goliath Sphinx" />
+    <card number="2" name="Treasure Hunt" />
+    <card number="1" name="Aether Tradewinds" />
+    <card number="1" name="Mysteries of the Deep" />
+    <card number="1" name="Seer's Sundial" />
+    <card number="2" name="Wind Zendikon" />
+    <card number="1" name="Telepathy" />
+    <card number="2" name="Paralyzing Grasp" />
+    <card number="1" name="Vapor Snare" />
+    <card number="8" name="Island" />
+    <card number="8" name="Forest" />
+    <card number="2" name="Halimar Depths" />
+  </zone>
+</cockatrice_deck>

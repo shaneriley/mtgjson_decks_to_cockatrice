@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vehicle Rush</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Bomat Courier" />
+    <card number="4" name="Toolcraft Exemplar" />
+    <card number="4" name="Scrapheap Scrounger" />
+    <card number="2" name="Pia Nalaar" />
+    <card number="3" name="Depala, Pilot Exemplar" />
+    <card number="4" name="Veteran Motorist" />
+    <card number="4" name="Unlicensed Disintegration" />
+    <card number="4" name="Lightning Strike" />
+    <card number="4" name="Heart of Kiran" />
+    <card number="1" name="Cultivator's Caravan" />
+    <card number="1" name="Aethersphere Harvester" />
+    <card number="1" name="Skysovereign, Consul Flagship" />
+    <card number="4" name="Spire of Industry" />
+    <card number="1" name="Dragonskull Summit" />
+    <card number="1" name="Inspiring Vantage" />
+    <card number="1" name="Concealed Courtyard" />
+    <card number="3" name="Aether Hub" />
+    <card number="3" name="Unclaimed Territory" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="5" name="Plains" />
+    <card number="3" name="Mountain" />
+    <card number="1" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Aethersphere Harvester" />
+    <card number="3" name="Harsh Mentor" />
+    <card number="2" name="Crook of Condemnation" />
+    <card number="4" name="Duress" />
+    <card number="2" name="Chandra's Defeat" />
+    <card number="2" name="Magma Spray" />
+    <card number="1" name="Cast Out" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Little Bashers</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Auriok Transfixer" />
+    <card number="2" name="Auriok Bladewarden" />
+    <card number="1" name="Auriok Steelshaper" />
+    <card number="4" name="Leonin Den-Guard" />
+    <card number="2" name="Leonin Skyhunter" />
+    <card number="3" name="Skyhunter Cub" />
+    <card number="2" name="Slith Ascendant" />
+    <card number="1" name="Loxodon Punisher" />
+    <card number="1" name="Taj-Nar Swordsmith" />
+    <card number="1" name="Skyhunter Patrol" />
+    <card number="2" name="Gold Myr" />
+    <card number="2" name="Myr Adapter" />
+    <card number="2" name="Soldier Replica" />
+    <card number="1" name="Roar of the Kha" />
+    <card number="2" name="Arrest" />
+    <card number="2" name="Altar's Light" />
+    <card number="2" name="Bonesplitter" />
+    <card number="2" name="Leonin Scimitar" />
+    <card number="1" name="Viridian Longbow" />
+    <card number="1" name="Banshee's Blade" />
+    <card number="1" name="Fireshrieker" />
+    <card number="1" name="Loxodon Warhammer" />
+    <card number="22" name="Plains" />
+  </zone>
+</cockatrice_deck>

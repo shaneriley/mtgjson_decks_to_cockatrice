@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dimir</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Lazav, Dimir Mastermind" />
+    <card number="1" name="Etrata, the Silencer" />
+    <card number="1" name="Blood Operative" />
+    <card number="1" name="Dimir Doppelganger" />
+    <card number="1" name="Nightveil Specter" />
+    <card number="1" name="Circu, Dimir Lobotomist" />
+    <card number="1" name="Consuming Aberration" />
+    <card number="1" name="Mirko Vosk, Mind Drinker" />
+    <card number="1" name="Szadek, Lord of Secrets" />
+    <card number="1" name="Barrier of Bones" />
+    <card number="1" name="Wall of Mist" />
+    <card number="2" name="Dimir Guildmage" />
+    <card number="1" name="Moroii" />
+    <card number="1" name="Nightveil Predator" />
+    <card number="1" name="Netherborn Phalanx" />
+    <card number="1" name="Dinrova Horror" />
+    <card number="1" name="Glimpse the Unthinkable" />
+    <card number="1" name="Stolen Identity" />
+    <card number="1" name="Mephitic Vapors" />
+    <card number="1" name="Notion Rain" />
+    <card number="1" name="Call of the Nightwing" />
+    <card number="2" name="Ribbons of Night" />
+    <card number="1" name="Mission Briefing" />
+    <card number="1" name="Disdainful Stroke" />
+    <card number="1" name="Unexplained Disappearance" />
+    <card number="1" name="Telling Time" />
+    <card number="1" name="Last Gasp" />
+    <card number="1" name="Dimir Charm" />
+    <card number="1" name="Warped Physique" />
+    <card number="1" name="Price of Fame" />
+    <card number="1" name="Syncopate" />
+    <card number="1" name="Discovery // Dispersal" />
+    <card number="2" name="Dimir Signet" />
+    <card number="4" name="Dimir Aqueduct" />
+    <card number="4" name="Dimir Guildgate" />
+    <card number="8" name="Island" />
+    <card number="8" name="Swamp" />
+  </zone>
+</cockatrice_deck>

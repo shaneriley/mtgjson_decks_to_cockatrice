@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Path of Blight</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Plague Myr" />
+    <card number="2" name="Blight Mamba" />
+    <card number="2" name="Phyrexian Digester" />
+    <card number="2" name="Rot Wolf" />
+    <card number="2" name="Priests of Norn" />
+    <card number="1" name="Viridian Corrupter" />
+    <card number="1" name="Corpse Cur" />
+    <card number="1" name="Core Prowler" />
+    <card number="1" name="Blightwidow" />
+    <card number="2" name="Tangle Angler" />
+    <card number="2" name="Tine Shrike" />
+    <card number="1" name="Phyrexian Hydra" />
+    <card number="2" name="Phyrexian Juggernaut" />
+    <card number="2" name="Hunters' Feast" />
+    <card number="2" name="Unnatural Predation" />
+    <card number="1" name="Mighty Leap" />
+    <card number="1" name="Pistus Strike" />
+    <card number="2" name="Choking Fumes" />
+    <card number="1" name="Safe Passage" />
+    <card number="2" name="Banishment Decree" />
+    <card number="1" name="Decimator Web" />
+    <card number="2" name="Trigon of Infestation" />
+    <card number="14" name="Forest" />
+    <card number="11" name="Plains" />
+  </zone>
+</cockatrice_deck>

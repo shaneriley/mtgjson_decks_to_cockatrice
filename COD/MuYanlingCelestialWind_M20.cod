@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mu Yanling, Celestial Wind</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Riddlemaster Sphinx" />
+    <card number="1" name="Dungeon Geists" />
+    <card number="2" name="Air Elemental" />
+    <card number="2" name="Frost Lynx" />
+    <card number="3" name="Warden of Evos Isle" />
+    <card number="4" name="Unsummon" />
+    <card number="25" name="Island" />
+    <card number="2" name="Yanling's Harbinger" />
+    <card number="3" name="Brineborn Cutthroat" />
+    <card number="3" name="Cloudkin Seer" />
+    <card number="3" name="Spectral Sailor" />
+    <card number="4" name="Celestial Messenger" />
+    <card number="3" name="Waterkin Shaman" />
+    <card number="3" name="Winged Words" />
+    <card number="1" name="Mu Yanling, Celestial Wind" />
+  </zone>
+</cockatrice_deck>

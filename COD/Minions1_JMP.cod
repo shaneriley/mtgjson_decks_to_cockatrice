@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Minions (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ghoulcaller's Accomplice" />
+    <card number="1" name="Kels, Fight Fixer" />
+    <card number="1" name="Bone Picker" />
+    <card number="1" name="Dutiful Attendant" />
+    <card number="1" name="Nocturnal Feeder" />
+    <card number="1" name="Shambling Goblin" />
+    <card number="1" name="Goremand" />
+    <card number="1" name="Crypt Lurker" />
+    <card number="1" name="Innocent Blood" />
+    <card number="1" name="Eliminate" />
+    <card number="1" name="Village Rites" />
+    <card number="1" name="Witch's Cauldron" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

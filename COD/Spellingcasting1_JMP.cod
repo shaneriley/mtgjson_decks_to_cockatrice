@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spellingcasting (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Thermo-Alchemist" />
+    <card number="1" name="Living Lightning" />
+    <card number="1" name="Lightning Visionary" />
+    <card number="1" name="Chandra's Pyreling" />
+    <card number="1" name="Kinetic Augur" />
+    <card number="1" name="Heartfire Immolator" />
+    <card number="1" name="Blindblast" />
+    <card number="1" name="Hungry Flames" />
+    <card number="1" name="Goblin Wizardry" />
+    <card number="1" name="Shock" />
+    <card number="1" name="Thrill of Possibility" />
+    <card number="1" name="Double Vision" />
+    <card number="1" name="Thriving Bluff" />
+    <card number="6" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Bestial Strength</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Deadly Recluse" />
+    <card number="2" name="Brindle Boar" />
+    <card number="2" name="Rootwalla" />
+    <card number="2" name="Briarpack Alpha" />
+    <card number="2" name="Giant Spider" />
+    <card number="1" name="Elvish Mystic" />
+    <card number="1" name="Corpse Hauler" />
+    <card number="2" name="Kalonian Tusker" />
+    <card number="1" name="Advocate of the Beast" />
+    <card number="2" name="Accursed Spirit" />
+    <card number="2" name="Rumbling Baloth" />
+    <card number="2" name="Woodborn Behemoth" />
+    <card number="1" name="Garruk's Horde" />
+    <card number="1" name="Mind Rot" />
+    <card number="1" name="Enlarge" />
+    <card number="1" name="Fog" />
+    <card number="2" name="Giant Growth" />
+    <card number="1" name="Plummet" />
+    <card number="2" name="Doom Blade" />
+    <card number="2" name="Vial of Poison" />
+    <card number="1" name="Staff of the Wild Magus" />
+    <card number="1" name="Into the Wilds" />
+    <card number="17" name="Forest" />
+    <card number="9" name="Swamp" />
+  </zone>
+</cockatrice_deck>

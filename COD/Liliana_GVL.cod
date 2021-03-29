@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Liliana</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Liliana Vess" />
+    <card number="1" name="Deathgreeter" />
+    <card number="1" name="Drudge Skeletons" />
+    <card number="1" name="Faerie Macabre" />
+    <card number="2" name="Fleshbag Marauder" />
+    <card number="2" name="Ghost-Lit Stalker" />
+    <card number="1" name="Howling Banshee" />
+    <card number="1" name="Keening Banshee" />
+    <card number="2" name="Phyrexian Rager" />
+    <card number="1" name="Ravenous Rats" />
+    <card number="1" name="Skeletal Vampire" />
+    <card number="2" name="Twisted Abomination" />
+    <card number="1" name="Urborg Syphon-Mage" />
+    <card number="2" name="Vampire Bats" />
+    <card number="1" name="Wall of Bone" />
+    <card number="2" name="Corrupt" />
+    <card number="1" name="Ichor Slick" />
+    <card number="1" name="Mutilate" />
+    <card number="1" name="Rise from the Grave" />
+    <card number="2" name="Sign in Blood" />
+    <card number="1" name="Vicious Hunger" />
+    <card number="1" name="Hideous End" />
+    <card number="1" name="Snuff Out" />
+    <card number="2" name="Tendrils of Corruption" />
+    <card number="1" name="Bad Moon" />
+    <card number="1" name="Enslave" />
+    <card number="1" name="Genju of the Fens" />
+    <card number="2" name="Polluted Mire" />
+    <card number="23" name="Swamp" />
+  </zone>
+</cockatrice_deck>

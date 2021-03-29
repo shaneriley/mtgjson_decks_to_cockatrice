@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Chaos Reigns</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Bloodbraid Elf" />
+    <card number="1" name="Brutalizer Exarch" />
+    <card number="1" name="Enigma Sphinx" />
+    <card number="1" name="Enlisted Wurm" />
+    <card number="1" name="Etherium-Horn Sorcerer" />
+    <card number="1" name="Fusion Elemental" />
+    <card number="1" name="Guard Gomazoa" />
+    <card number="2" name="Illusory Angel" />
+    <card number="1" name="Kathari Remnant" />
+    <card number="1" name="Maelstrom Wanderer" />
+    <card number="1" name="Noggle Ransacker" />
+    <card number="1" name="Ondu Giant" />
+    <card number="1" name="Peregrine Drake" />
+    <card number="1" name="Primal Plasma" />
+    <card number="2" name="Shardless Agent" />
+    <card number="1" name="Whirlpool Warrior" />
+    <card number="1" name="Arc Trail" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Deny Reality" />
+    <card number="1" name="Erratic Explosion" />
+    <card number="1" name="Last Stand" />
+    <card number="1" name="Mass Mutiny" />
+    <card number="1" name="Rivals' Duel" />
+    <card number="2" name="See Beyond" />
+    <card number="1" name="Beast Within" />
+    <card number="1" name="Bituminous Blast" />
+    <card number="2" name="Fiery Fall" />
+    <card number="2" name="Armillary Sphere" />
+    <card number="1" name="Fractured Powerstone" />
+    <card number="1" name="Sunken Hope" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="4" name="Forest" />
+    <card number="5" name="Island" />
+    <card number="4" name="Mountain" />
+    <card number="2" name="Plains" />
+    <card number="2" name="Rupture Spire" />
+    <card number="2" name="Shimmering Grotto" />
+    <card number="2" name="Swamp" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Vivid Creek" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Grand Ossuary" />
+    <card number="1" name="Hedron Fields of Agadeem" />
+    <card number="1" name="Mount Keralia" />
+    <card number="1" name="Nephalia" />
+    <card number="1" name="Orzhova" />
+    <card number="1" name="Trail of the Mage-Rings" />
+    <card number="1" name="Truga Jungle" />
+    <card number="1" name="Windriddle Palaces" />
+    <card number="1" name="Mutual Epiphany" />
+    <card number="1" name="Time Distortion" />
+  </zone>
+</cockatrice_deck>

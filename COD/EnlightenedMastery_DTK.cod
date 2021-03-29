@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Enlightened Mastery</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Dragon's Eye Sentry" />
+    <card number="3" name="Elusive Spellfist" />
+    <card number="1" name="Orator of Ojutai" />
+    <card number="2" name="Updraft Elemental" />
+    <card number="2" name="Zephyr Scribe" />
+    <card number="2" name="Student of Ojutai" />
+    <card number="1" name="Ancient Carp" />
+    <card number="2" name="Strongarm Monk" />
+    <card number="2" name="Cunning Breezedancer" />
+    <card number="1" name="Pristine Skywise" />
+    <card number="1" name="Mystic Meditation" />
+    <card number="1" name="Sight Beyond Sight" />
+    <card number="1" name="Taigam's Strike" />
+    <card number="1" name="Great Teacher's Decree" />
+    <card number="1" name="Void Squall" />
+    <card number="2" name="Ojutai's Summons" />
+    <card number="2" name="Anticipate" />
+    <card number="2" name="Artful Maneuver" />
+    <card number="2" name="Ojutai's Breath" />
+    <card number="1" name="Ojutai Monument" />
+    <card number="1" name="Myth Realized" />
+    <card number="2" name="Silkwrap" />
+    <card number="1" name="Skywise Teachings" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="13" name="Island" />
+    <card number="11" name="Plains" />
+  </zone>
+</cockatrice_deck>

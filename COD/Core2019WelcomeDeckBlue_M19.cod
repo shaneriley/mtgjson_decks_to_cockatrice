@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Core 2019 Welcome Deck - Blue</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Riddlemaster Sphinx" />
+    <card number="1" name="Aven Wind Mage" />
+    <card number="1" name="Frilled Sea Serpent" />
+    <card number="2" name="Snapping Drake" />
+    <card number="2" name="Tolarian Scholar" />
+    <card number="1" name="Wall of Mist" />
+    <card number="1" name="Air Elemental" />
+    <card number="1" name="Mist-Cloaked Herald" />
+    <card number="2" name="Divination" />
+    <card number="1" name="Sleep" />
+    <card number="1" name="Uncomfortable Chill" />
+    <card number="1" name="Befuddle" />
+    <card number="2" name="Waterknot" />
+    <card number="13" name="Island" />
+  </zone>
+</cockatrice_deck>

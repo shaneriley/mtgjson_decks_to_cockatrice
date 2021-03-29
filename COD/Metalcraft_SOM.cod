@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Metalcraft</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Memnite" />
+    <card number="2" name="Iron Myr" />
+    <card number="2" name="Silver Myr" />
+    <card number="2" name="Riddlesmith" />
+    <card number="2" name="Embersmith" />
+    <card number="1" name="Etched Champion" />
+    <card number="3" name="Snapsail Glider" />
+    <card number="2" name="Trinket Mage" />
+    <card number="3" name="Chrome Steed" />
+    <card number="2" name="Lumengrid Drake" />
+    <card number="2" name="Blade-Tribe Berserkers" />
+    <card number="1" name="Argent Sphinx" />
+    <card number="3" name="Galvanic Blast" />
+    <card number="1" name="Disperse" />
+    <card number="1" name="Accorder's Shield" />
+    <card number="1" name="Darksteel Axe" />
+    <card number="1" name="Sylvok Lifestaff" />
+    <card number="1" name="Echo Circlet" />
+    <card number="1" name="Golem's Heart" />
+    <card number="1" name="Golem Foundry" />
+    <card number="2" name="Rusted Relic" />
+    <card number="12" name="Island" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

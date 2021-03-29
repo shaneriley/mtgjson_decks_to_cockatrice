@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Replicator</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Cackling Witch" />
+    <card number="2" name="Plague Witch" />
+    <card number="1" name="Bog Witch" />
+    <card number="2" name="Stampede Driver" />
+    <card number="2" name="Deepwood Drummer" />
+    <card number="1" name="Coiling Woodworm" />
+    <card number="4" name="Skyshroud Sentinel" />
+    <card number="1" name="Hunted Wumpus" />
+    <card number="1" name="Squallmonger" />
+    <card number="4" name="Blastoderm" />
+    <card number="4" name="Howling Wolf" />
+    <card number="4" name="Nesting Wurm" />
+    <card number="2" name="Seal of Doom" />
+    <card number="1" name="Saproling Cluster" />
+    <card number="2" name="Invigorate" />
+    <card number="1" name="Saproling Burst" />
+    <card number="1" name="Flowstone Armor" />
+    <card number="17" name="Forest" />
+    <card number="7" name="Swamp" />
+    <card number="1" name="Subterranean Hangar" />
+  </zone>
+</cockatrice_deck>

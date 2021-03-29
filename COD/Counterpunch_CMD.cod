@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Counterpunch</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Aquastrand Spider" />
+    <card number="1" name="Deadly Recluse" />
+    <card number="1" name="Sakura-Tribe Elder" />
+    <card number="1" name="Scavenging Ooze" />
+    <card number="1" name="Monk Realist" />
+    <card number="1" name="Selesnya Evangel" />
+    <card number="1" name="Golgari Guildmage" />
+    <card number="1" name="Selesnya Guildmage" />
+    <card number="1" name="Nantuko Husk" />
+    <card number="1" name="Fertilid" />
+    <card number="1" name="Spawnwrithe" />
+    <card number="1" name="Vampire Nighthawk" />
+    <card number="1" name="Spike Feeder" />
+    <card number="1" name="Yavimaya Elder" />
+    <card number="1" name="Squallmonger" />
+    <card number="1" name="Penumbra Spider" />
+    <card number="1" name="Sigil Captain" />
+    <card number="1" name="Shriekmaw" />
+    <card number="1" name="Dark Hatchling" />
+    <card number="1" name="Teneb, the Harvester" />
+    <card number="1" name="Hornet Queen" />
+    <card number="1" name="Vish Kal, Blood Arbiter" />
+    <card number="1" name="Symbiotic Wurm" />
+    <card number="1" name="Celestial Force" />
+    <card number="1" name="Karador, Ghost Chieftain" />
+    <card number="1" name="Chorus of the Conclave" />
+    <card number="1" name="Alliance of Arms" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Harmonize" />
+    <card number="1" name="Syphon Flesh" />
+    <card number="1" name="Bestial Menace" />
+    <card number="1" name="Hex" />
+    <card number="1" name="Hour of Reckoning" />
+    <card number="1" name="Death Mutation" />
+    <card number="1" name="Storm Herd" />
+    <card number="1" name="Doom Blade" />
+    <card number="1" name="Tribute to the Wild" />
+    <card number="1" name="Footbottom Feast" />
+    <card number="1" name="Afterlife" />
+    <card number="1" name="Mortify" />
+    <card number="1" name="Nemesis Trap" />
+    <card number="1" name="Cobra Trap" />
+    <card number="1" name="Skullclamp" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Golgari Signet" />
+    <card number="1" name="Lightning Greaves" />
+    <card number="1" name="Orzhov Signet" />
+    <card number="1" name="Selesnya Signet" />
+    <card number="1" name="Darksteel Ingot" />
+    <card number="1" name="Acorn Catapult" />
+    <card number="1" name="Soul Snare" />
+    <card number="1" name="Fists of Ironwood" />
+    <card number="1" name="Necrogenesis" />
+    <card number="1" name="Vow of Malice" />
+    <card number="1" name="Awakening Zone" />
+    <card number="1" name="Vow of Wildness" />
+    <card number="1" name="Oblivion Ring" />
+    <card number="1" name="Vow of Duty" />
+    <card number="1" name="Attrition" />
+    <card number="1" name="Aura Shards" />
+    <card number="1" name="Barren Moor" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Golgari Rot Farm" />
+    <card number="1" name="Orzhov Basilica" />
+    <card number="1" name="Rupture Spire" />
+    <card number="1" name="Secluded Steppe" />
+    <card number="1" name="Selesnya Sanctuary" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Tranquil Thicket" />
+    <card number="1" name="Vivid Grove" />
+    <card number="1" name="Vivid Marsh" />
+    <card number="1" name="Vivid Meadow" />
+    <card number="8" name="Swamp" />
+    <card number="10" name="Forest" />
+    <card number="8" name="Plains" />
+  </zone>
+</cockatrice_deck>

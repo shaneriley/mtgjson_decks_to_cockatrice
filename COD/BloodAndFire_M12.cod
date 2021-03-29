@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Blood and Fire</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Goblin Arsonist" />
+    <card number="2" name="Goblin Fireslinger" />
+    <card number="1" name="Tormented Soul" />
+    <card number="1" name="Goblin Tunneler" />
+    <card number="2" name="Stormblood Berserker" />
+    <card number="3" name="Duskhunter Bat" />
+    <card number="1" name="Onyx Mage" />
+    <card number="3" name="Blood Ogre" />
+    <card number="1" name="Manic Vandal" />
+    <card number="2" name="Bloodrage Vampire" />
+    <card number="1" name="Goblin Bangchuckers" />
+    <card number="2" name="Gorehorn Minotaurs" />
+    <card number="2" name="Vampire Outcasts" />
+    <card number="2" name="Crumbling Colossus" />
+    <card number="1" name="Flameblast Dragon" />
+    <card number="1" name="Volcanic Dragon" />
+    <card number="1" name="Taste of Blood" />
+    <card number="1" name="Hideous Visage" />
+    <card number="2" name="Tectonic Rift" />
+    <card number="3" name="Shock" />
+    <card number="1" name="Incinerate" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="1" name="Warstorm Surge" />
+    <card number="14" name="Mountain" />
+    <card number="10" name="Swamp" />
+  </zone>
+</cockatrice_deck>

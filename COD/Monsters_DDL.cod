@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Monsters</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Blood Ogre" />
+    <card number="1" name="Conquering Manticore" />
+    <card number="1" name="Crater Hellion" />
+    <card number="1" name="Crowned Ceratok" />
+    <card number="2" name="Deadly Recluse" />
+    <card number="1" name="Deus of Calamity" />
+    <card number="1" name="Ghor-Clan Savage" />
+    <card number="2" name="Gorehorn Minotaurs" />
+    <card number="1" name="Kavu Predator" />
+    <card number="1" name="Krosan Tusker" />
+    <card number="1" name="Orcish Lumberjack" />
+    <card number="1" name="Polukranos, World Eater" />
+    <card number="1" name="Satyr Hedonist" />
+    <card number="1" name="Skarrgan Firebird" />
+    <card number="1" name="Skarrgan Skybreaker" />
+    <card number="1" name="Troll Ascetic" />
+    <card number="2" name="Valley Rannet" />
+    <card number="1" name="Zhur-Taa Druid" />
+    <card number="2" name="Prey Upon" />
+    <card number="1" name="Pyroclasm" />
+    <card number="1" name="Regrowth" />
+    <card number="1" name="Beast Within" />
+    <card number="1" name="Destructive Revelry" />
+    <card number="1" name="Shower of Sparks" />
+    <card number="1" name="Terrifying Presence" />
+    <card number="2" name="Volt Charge" />
+    <card number="1" name="Dragon Blood" />
+    <card number="1" name="Fires of Yavimaya" />
+    <card number="11" name="Forest" />
+    <card number="2" name="Kazandu Refuge" />
+    <card number="2" name="Llanowar Reborn" />
+    <card number="10" name="Mountain" />
+    <card number="1" name="Skarrg, the Rage Pits" />
+  </zone>
+</cockatrice_deck>

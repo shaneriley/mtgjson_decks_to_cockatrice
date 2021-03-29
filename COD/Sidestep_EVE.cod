@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sidestep</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Merrow Levitator" />
+    <card number="1" name="Hatchet Bully" />
+    <card number="1" name="Outrage Shaman" />
+    <card number="2" name="Stream Hopper" />
+    <card number="3" name="Riverfall Mimic" />
+    <card number="2" name="Noggle Hedge-Mage" />
+    <card number="3" name="Noggle Bandit" />
+    <card number="1" name="Crag Puca" />
+    <card number="3" name="Shrewd Hatchling" />
+    <card number="2" name="Noggle Bridgebreaker" />
+    <card number="1" name="Dominus of Fealty" />
+    <card number="2" name="Nucklavee" />
+    <card number="1" name="Mindwrack Liege" />
+    <card number="1" name="Flame Jab" />
+    <card number="2" name="Burn Trail" />
+    <card number="1" name="Jaws of Stone" />
+    <card number="2" name="Unwilling Recruit" />
+    <card number="1" name="Spell Syphon" />
+    <card number="1" name="Oona's Grace" />
+    <card number="1" name="Inside Out" />
+    <card number="3" name="Clout of the Dominus" />
+    <card number="11" name="Island" />
+    <card number="14" name="Mountain" />
+  </zone>
+</cockatrice_deck>

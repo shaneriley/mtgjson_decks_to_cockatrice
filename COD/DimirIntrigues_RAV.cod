@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dimir Intrigues</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Lore Broker" />
+    <card number="3" name="Vedalken Entrancer" />
+    <card number="2" name="Wizened Snitches" />
+    <card number="2" name="Belltower Sphinx" />
+    <card number="2" name="Dimir House Guard" />
+    <card number="1" name="Mausoleum Turnkey" />
+    <card number="2" name="Sewerdreg" />
+    <card number="2" name="Dimir Infiltrator" />
+    <card number="1" name="Szadek, Lord of Secrets" />
+    <card number="3" name="Lurking Informant" />
+    <card number="1" name="Dimir Guildmage" />
+    <card number="2" name="Induce Paranoia" />
+    <card number="1" name="Dream Leash" />
+    <card number="2" name="Last Gasp" />
+    <card number="1" name="Ribbons of Night" />
+    <card number="2" name="Disembowel" />
+    <card number="3" name="Consult the Necrosages" />
+    <card number="1" name="Clutch of the Undercity" />
+    <card number="2" name="Psychic Drain" />
+    <card number="1" name="Dimir Signet" />
+    <card number="11" name="Island" />
+    <card number="10" name="Swamp" />
+    <card number="2" name="Dimir Aqueduct" />
+    <card number="1" name="Duskmantle, House of Shadow" />
+  </zone>
+</cockatrice_deck>

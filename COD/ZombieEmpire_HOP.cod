@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Zombie Empire</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Festering Goblin" />
+    <card number="1" name="Dregscape Zombie" />
+    <card number="1" name="Rotting Rats" />
+    <card number="1" name="Shepherd of Rot" />
+    <card number="1" name="Withered Wretch" />
+    <card number="2" name="Cadaverous Knight" />
+    <card number="2" name="Phyrexian Ghoul" />
+    <card number="1" name="Death Baron" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Soulless One" />
+    <card number="2" name="Undead Warchief" />
+    <card number="1" name="Corpse Harvester" />
+    <card number="1" name="Noxious Ghoul" />
+    <card number="1" name="Ascendant Evincar" />
+    <card number="1" name="Nefashu" />
+    <card number="1" name="Helldozer" />
+    <card number="1" name="Innocent Blood" />
+    <card number="1" name="Syphon Soul" />
+    <card number="1" name="Beseech the Queen" />
+    <card number="1" name="Syphon Mind" />
+    <card number="1" name="Beacon of Unrest" />
+    <card number="1" name="Incremental Blight" />
+    <card number="1" name="Consume Spirit" />
+    <card number="1" name="Profane Command" />
+    <card number="2" name="Dark Ritual" />
+    <card number="1" name="Hideous End" />
+    <card number="1" name="Cruel Revival" />
+    <card number="1" name="Phyrexian Arena" />
+    <card number="1" name="Grave Pact" />
+    <card number="23" name="Swamp" />
+    <card number="1" name="Cabal Coffers" />
+    <card number="2" name="Leechridden Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="The Aether Flues" />
+    <card number="1" name="Cliffside Market" />
+    <card number="1" name="The Dark Barony" />
+    <card number="1" name="Fields of Summer" />
+    <card number="1" name="The Fourth Sphere" />
+    <card number="1" name="Grixis" />
+    <card number="1" name="Lethe Lake" />
+    <card number="1" name="Pools of Becoming" />
+    <card number="1" name="Raven's Run" />
+    <card number="1" name="Sea of Sand" />
+  </zone>
+</cockatrice_deck>

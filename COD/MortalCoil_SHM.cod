@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mortal Coil</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Leech Bonder" />
+    <card number="1" name="River Kelpie" />
+    <card number="1" name="Sickle Ripper" />
+    <card number="1" name="Faerie Macabre" />
+    <card number="1" name="Loch Korrigan" />
+    <card number="1" name="Oona's Gatewarden" />
+    <card number="1" name="Inkfathom Witch" />
+    <card number="2" name="Wasp Lancer" />
+    <card number="2" name="Wanderbrine Rootcutters" />
+    <card number="3" name="Gravelgill Axeshark" />
+    <card number="2" name="Chainbreaker" />
+    <card number="3" name="Wingrattle Scarecrow" />
+    <card number="1" name="Grim Poppet" />
+    <card number="1" name="Gloomlance" />
+    <card number="1" name="Incremental Blight" />
+    <card number="2" name="Scarscale Ritual" />
+    <card number="2" name="River's Grasp" />
+    <card number="2" name="Fate Transfer" />
+    <card number="2" name="Trip Noose" />
+    <card number="1" name="Gnarled Effigy" />
+    <card number="1" name="Biting Tether" />
+    <card number="1" name="Torture" />
+    <card number="1" name="Helm of the Ghastlord" />
+    <card number="12" name="Island" />
+    <card number="12" name="Swamp" />
+    <card number="1" name="Inkfathom Infiltrator" />
+  </zone>
+</cockatrice_deck>

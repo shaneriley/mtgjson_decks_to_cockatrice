@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Special Forces</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Plasma Elemental" />
+    <card number="1" name="Ebon Drake" />
+    <card number="2" name="Emissary of Despair" />
+    <card number="3" name="Dross Crocodile" />
+    <card number="1" name="Steel Wall" />
+    <card number="3" name="Leaden Myr" />
+    <card number="1" name="Silver Myr" />
+    <card number="1" name="Wizard Replica" />
+    <card number="3" name="Yotian Soldier" />
+    <card number="2" name="Myr Quadropod" />
+    <card number="1" name="Pewter Golem" />
+    <card number="2" name="Arachnoid" />
+    <card number="1" name="Annul" />
+    <card number="1" name="Acquire" />
+    <card number="1" name="Shattered Dreams" />
+    <card number="1" name="Plunge into Darkness" />
+    <card number="2" name="Devour in Shadow" />
+    <card number="1" name="Murderous Spoils" />
+    <card number="2" name="Consume Spirit" />
+    <card number="1" name="Slagwurm Armor" />
+    <card number="1" name="Vulshok Gauntlets" />
+    <card number="1" name="Ensouled Scimitar" />
+    <card number="1" name="Loxodon Warhammer" />
+    <card number="1" name="Whispersilk Cloak" />
+    <card number="8" name="Island" />
+    <card number="16" name="Swamp" />
+  </zone>
+</cockatrice_deck>

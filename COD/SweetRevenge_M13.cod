@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sweet Revenge</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Armored Skaab" />
+    <card number="4" name="Fettergeist" />
+    <card number="1" name="Firewing Phoenix" />
+    <card number="1" name="Silent Departure" />
+    <card number="4" name="Faithless Looting" />
+    <card number="3" name="Pillar of Flame" />
+    <card number="1" name="Rolling Temblor" />
+    <card number="2" name="Slagstorm" />
+    <card number="1" name="Red Sun's Zenith" />
+    <card number="2" name="Geistflame" />
+    <card number="4" name="Think Twice" />
+    <card number="4" name="Desperate Ravings" />
+    <card number="3" name="Forbidden Alchemy" />
+    <card number="4" name="Burning Vengeance" />
+    <card number="1" name="Darkslick Shores" />
+    <card number="1" name="Desolate Lighthouse" />
+    <card number="4" name="Evolving Wilds" />
+    <card number="1" name="Sulfur Falls" />
+    <card number="9" name="Mountain" />
+    <card number="7" name="Island" />
+    <card number="1" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="4" name="Screeching Skaab" />
+    <card number="2" name="Arc Trail" />
+    <card number="4" name="Bloodcrazed Neonate" />
+    <card number="3" name="Secrets of the Dead" />
+    <card number="2" name="Dismember" />
+  </zone>
+</cockatrice_deck>

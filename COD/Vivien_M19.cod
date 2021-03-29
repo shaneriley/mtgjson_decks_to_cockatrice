@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vivien</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Pelakka Wurm" />
+    <card number="1" name="Aggressive Mammoth" />
+    <card number="2" name="Skalla Wolf" />
+    <card number="2" name="Bristling Boar" />
+    <card number="2" name="Colossal Dreadmaw" />
+    <card number="2" name="Druid of the Cowl" />
+    <card number="2" name="Elvish Rejuvenator" />
+    <card number="1" name="Ghastbark Twins" />
+    <card number="1" name="Reclamation Sage" />
+    <card number="1" name="Thornhide Wolves" />
+    <card number="2" name="Meteor Golem" />
+    <card number="4" name="Ursine Champion" />
+    <card number="3" name="Vivien's Jaguar" />
+    <card number="1" name="Declare Dominance" />
+    <card number="2" name="Rabid Bite" />
+    <card number="2" name="Plummet" />
+    <card number="2" name="Titanic Growth" />
+    <card number="1" name="Colossal Majesty" />
+    <card number="1" name="Oakenform" />
+    <card number="26" name="Forest" />
+    <card number="1" name="Vivien of the Arkbow" />
+  </zone>
+</cockatrice_deck>

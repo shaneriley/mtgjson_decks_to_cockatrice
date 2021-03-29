@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Garfield</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Storm Shaman" />
+    <card number="2" name="Fyndhorn Elves" />
+    <card number="2" name="Balduvian Bears" />
+    <card number="2" name="Woolly Spider" />
+    <card number="1" name="Lhurgoyf" />
+    <card number="2" name="Yavimaya Ants" />
+    <card number="1" name="Folk of the Pines" />
+    <card number="1" name="Elvish Bard" />
+    <card number="1" name="Yavimaya Ancients" />
+    <card number="1" name="Yavimaya Ancients" />
+    <card number="2" name="Giant Trap Door Spider" />
+    <card number="2" name="Phyrexian War Beast" />
+    <card number="2" name="Walking Wall" />
+    <card number="2" name="Death Spark" />
+    <card number="1" name="Incinerate" />
+    <card number="1" name="Incinerate" />
+    <card number="1" name="Shatter" />
+    <card number="1" name="Pillage" />
+    <card number="1" name="Jokulhaups" />
+    <card number="2" name="Lava Burst" />
+    <card number="2" name="Giant Growth" />
+    <card number="1" name="Bounty of the Hunt" />
+    <card number="1" name="Hurricane" />
+    <card number="2" name="Barbed Sextant" />
+    <card number="1" name="Elkin Bottle" />
+    <card number="12" name="Mountain" />
+    <card number="12" name="Forest" />
+    <card number="1" name="Karplusan Forest" />
+  </zone>
+</cockatrice_deck>

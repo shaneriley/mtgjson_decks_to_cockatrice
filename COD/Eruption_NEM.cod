@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Eruption</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Kris Mage" />
+    <card number="2" name="Laccolith Whelp" />
+    <card number="1" name="Arc Mage" />
+    <card number="3" name="Laccolith Grunt" />
+    <card number="2" name="Laccolith Warrior" />
+    <card number="2" name="Flowstone Crusher" />
+    <card number="1" name="Flowstone Overseer" />
+    <card number="2" name="Alabaster Wall" />
+    <card number="2" name="Chieftain en-Dal" />
+    <card number="1" name="Defender en-Vec" />
+    <card number="1" name="Oracle's Attendants" />
+    <card number="2" name="Trap Runner" />
+    <card number="1" name="Crenellated Wall" />
+    <card number="3" name="Seal of Fire" />
+    <card number="1" name="Flaming Sword" />
+    <card number="1" name="Downhill Charge" />
+    <card number="1" name="Thunderclap" />
+    <card number="1" name="Volcanic Wind" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Inviolability" />
+    <card number="1" name="Seal of Cleansing" />
+    <card number="1" name="Ramosian Rally" />
+    <card number="1" name="Sivvi's Ruse" />
+    <card number="1" name="Belbe's Armor" />
+    <card number="1" name="Flowstone Armor" />
+    <card number="1" name="Iron Lance" />
+    <card number="14" name="Mountain" />
+    <card number="10" name="Plains" />
+  </zone>
+</cockatrice_deck>

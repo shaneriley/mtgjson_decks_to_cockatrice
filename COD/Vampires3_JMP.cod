@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vampires (3)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sangromancer" />
+    <card number="1" name="Bloodbond Vampire" />
+    <card number="1" name="Gifted Aetherborn" />
+    <card number="1" name="Sengir Vampire" />
+    <card number="1" name="Nocturnal Feeder" />
+    <card number="1" name="Vampire Neonate" />
+    <card number="1" name="Silversmote Ghoul" />
+    <card number="1" name="Gloom Sower" />
+    <card number="1" name="Agonizing Syphon" />
+    <card number="1" name="Sanguine Indulgence" />
+    <card number="1" name="Last Gasp" />
+    <card number="1" name="Exquisite Blood" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

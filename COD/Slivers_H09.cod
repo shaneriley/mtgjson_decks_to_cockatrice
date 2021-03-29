@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Slivers</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Metallic Sliver" />
+    <card number="2" name="Virulent Sliver" />
+    <card number="1" name="Amoeboid Changeling" />
+    <card number="1" name="Winged Sliver" />
+    <card number="1" name="Clot Sliver" />
+    <card number="1" name="Frenzy Sliver" />
+    <card number="1" name="Heart Sliver" />
+    <card number="2" name="Gemhide Sliver" />
+    <card number="2" name="Muscle Sliver" />
+    <card number="1" name="Quick Sliver" />
+    <card number="1" name="Crystalline Sliver" />
+    <card number="1" name="Hibernation Sliver" />
+    <card number="1" name="Acidic Sliver" />
+    <card number="1" name="Spined Sliver" />
+    <card number="1" name="Victual Sliver" />
+    <card number="1" name="Armor Sliver" />
+    <card number="2" name="Spectral Sliver" />
+    <card number="1" name="Barbed Sliver" />
+    <card number="1" name="Homing Sliver" />
+    <card number="1" name="Necrotic Sliver" />
+    <card number="1" name="Fungus Sliver" />
+    <card number="1" name="Brood Sliver" />
+    <card number="1" name="Might Sliver" />
+    <card number="1" name="Sliver Overlord" />
+    <card number="1" name="Fury Sliver" />
+    <card number="1" name="Distant Melody" />
+    <card number="1" name="Aphetto Dredging" />
+    <card number="1" name="Heartstone" />
+    <card number="1" name="Coat of Arms" />
+    <card number="1" name="Wild Pair" />
+    <card number="2" name="Ancient Ziggurat" />
+    <card number="1" name="Rootbound Crag" />
+    <card number="2" name="Rupture Spire" />
+    <card number="2" name="Terramorphic Expanse" />
+    <card number="2" name="Vivid Creek" />
+    <card number="2" name="Vivid Grove" />
+    <card number="2" name="Plains" />
+    <card number="2" name="Island" />
+    <card number="2" name="Swamp" />
+    <card number="3" name="Mountain" />
+    <card number="5" name="Forest" />
+  </zone>
+</cockatrice_deck>

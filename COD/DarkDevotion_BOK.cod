@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dark Devotion</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Bile Urchin" />
+    <card number="1" name="Bloodthirsty Ogre" />
+    <card number="3" name="Takenuma Bleeder" />
+    <card number="3" name="Villainous Ogre" />
+    <card number="1" name="Blood Speaker" />
+    <card number="2" name="Scourge of Numai" />
+    <card number="1" name="Yukora, the Prisoner" />
+    <card number="2" name="Painwracker Oni" />
+    <card number="1" name="Deathcurse Ogre" />
+    <card number="3" name="Hearth Kami" />
+    <card number="1" name="Shinka Gatekeeper" />
+    <card number="1" name="Initiate of Blood // Goka the Unjust" />
+    <card number="1" name="Sokenzan Bruiser" />
+    <card number="2" name="Frost Ogre" />
+    <card number="1" name="Heartless Hidetsugu" />
+    <card number="1" name="Mark of the Oni" />
+    <card number="2" name="Oni Possession" />
+    <card number="2" name="Call for Blood" />
+    <card number="2" name="Swallowing Plague" />
+    <card number="1" name="Kumano's Blessing" />
+    <card number="1" name="Overblaze" />
+    <card number="2" name="Torrent of Stone" />
+    <card number="14" name="Swamp" />
+    <card number="10" name="Mountain" />
+  </zone>
+</cockatrice_deck>

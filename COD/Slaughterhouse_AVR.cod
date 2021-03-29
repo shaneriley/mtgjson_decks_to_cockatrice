@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Slaughterhouse</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Hunted Ghoul" />
+    <card number="2" name="Goblin Arsonist" />
+    <card number="1" name="Blood Artist" />
+    <card number="3" name="Butcher Ghoul" />
+    <card number="2" name="Reassembling Skeleton" />
+    <card number="1" name="Bloodflow Connoisseur" />
+    <card number="2" name="Demonic Taskmaster" />
+    <card number="3" name="Soulcage Fiend" />
+    <card number="1" name="Driver of the Dead" />
+    <card number="2" name="Evernight Shade" />
+    <card number="1" name="Havengul Vampire" />
+    <card number="1" name="Demonlord of Ashmouth" />
+    <card number="2" name="Raging Poltergeist" />
+    <card number="1" name="Maalfeld Twins" />
+    <card number="1" name="Gang of Devils" />
+    <card number="1" name="Harvester of Souls" />
+    <card number="2" name="Bone Splinters" />
+    <card number="2" name="Barter in Blood" />
+    <card number="2" name="Grave Exchange" />
+    <card number="2" name="Fling" />
+    <card number="1" name="Scroll of Griselbrand" />
+    <card number="1" name="Unhallowed Pact" />
+    <card number="13" name="Swamp" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

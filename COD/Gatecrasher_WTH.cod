@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Gatecrasher</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="15" name="Forest" />
+    <card number="7" name="Mountain" />
+    <card number="1" name="Aboroth" />
+    <card number="3" name="Arctic Wolves" />
+    <card number="1" name="Bogardan Firefiend" />
+    <card number="2" name="Granger Guildmage" />
+    <card number="1" name="Llanowar Behemoth" />
+    <card number="3" name="Llanowar Sentinel" />
+    <card number="1" name="Maraxus of Keld" />
+    <card number="2" name="Redwood Treefolk" />
+    <card number="2" name="Stampeding Wildebeests" />
+    <card number="2" name="Striped Bears" />
+    <card number="2" name="Uktabi Efreet" />
+    <card number="1" name="Uktabi Orangutan" />
+    <card number="3" name="Wall of Roots" />
+    <card number="2" name="Fire Whip" />
+    <card number="2" name="Incinerate" />
+    <card number="2" name="Cone of Flame" />
+    <card number="1" name="Creeping Mold" />
+    <card number="1" name="Kaervek's Torch" />
+    <card number="3" name="Rampant Growth" />
+    <card number="1" name="Savage Twister" />
+    <card number="2" name="Dragon Mask" />
+  </zone>
+</cockatrice_deck>

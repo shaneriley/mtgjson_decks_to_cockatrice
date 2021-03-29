@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Kjeldoran Cunning</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Jötun Grunt" />
+    <card number="3" name="Kjeldoran Outrider" />
+    <card number="1" name="Jötun Owl Keeper" />
+    <card number="4" name="Surging Sentinels" />
+    <card number="1" name="Field Marshal" />
+    <card number="2" name="Kjeldoran Elite Guard" />
+    <card number="1" name="Kjeldoran Home Guard" />
+    <card number="1" name="Kjeldoran Gargoyle" />
+    <card number="1" name="Darien, King of Kjeldor" />
+    <card number="2" name="Zuran Spellcaster" />
+    <card number="1" name="Reinforcements" />
+    <card number="1" name="Swords to Plowshares" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Kjeldoran Pride" />
+    <card number="1" name="Scars of the Veteran" />
+    <card number="3" name="Brainstorm" />
+    <card number="2" name="Portent" />
+    <card number="2" name="Lat-Nam's Legacy" />
+    <card number="1" name="Binding Grasp" />
+    <card number="4" name="Surging Aether" />
+    <card number="2" name="Wings of Aesthir" />
+    <card number="11" name="Plains" />
+    <card number="11" name="Island" />
+    <card number="2" name="Boreal Shelf" />
+  </zone>
+</cockatrice_deck>

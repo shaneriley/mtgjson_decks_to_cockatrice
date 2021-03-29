@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spellslinger Starter Kit - White Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Serra's Guardian" />
+    <card number="2" name="Inspiring Unicorn" />
+    <card number="1" name="Intrusive Packbeast" />
+    <card number="3" name="Bastion Enforcer" />
+    <card number="2" name="Concordia Pegasus" />
+    <card number="3" name="Haazda Officer" />
+    <card number="2" name="Prowling Caracal" />
+    <card number="2" name="Trusted Pegasus" />
+    <card number="1" name="Citywide Bust" />
+    <card number="2" name="Bond of Discipline" />
+    <card number="3" name="Take Vengeance" />
+    <card number="2" name="Righteous Blow" />
+    <card number="1" name="Inspired Charge" />
+    <card number="3" name="Show of Valor" />
+    <card number="26" name="Plains" />
+    <card number="2" name="Dawning Angel" />
+    <card number="1" name="Loxodon Lifechanter" />
+    <card number="1" name="Sephara, Sky's Blade" />
+    <card number="1" name="Angelic Guardian" />
+    <card number="1" name="Imperial Outrider" />
+  </zone>
+</cockatrice_deck>

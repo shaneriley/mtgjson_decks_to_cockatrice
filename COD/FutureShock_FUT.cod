@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Future Shock</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Grinning Ignus" />
+    <card number="2" name="Bloodshot Trainee" />
+    <card number="1" name="Fomori Nomad" />
+    <card number="1" name="Skizzik Surger" />
+    <card number="1" name="Boldwyr Intimidator" />
+    <card number="1" name="Spellwild Ouphe" />
+    <card number="3" name="Thornweald Archer" />
+    <card number="3" name="Nessian Courser" />
+    <card number="2" name="Centaur Omenreader" />
+    <card number="2" name="Imperiosaur" />
+    <card number="1" name="Baru, Fist of Krosa" />
+    <card number="3" name="Sporoloth Ancient" />
+    <card number="1" name="Nacatl War-Pride" />
+    <card number="1" name="Quagnoth" />
+    <card number="1" name="Emblem of the Warmind" />
+    <card number="3" name="Flowstone Embrace" />
+    <card number="3" name="Ghostfire" />
+    <card number="3" name="Edge of Autumn" />
+    <card number="1" name="Phosphorescent Feast" />
+    <card number="9" name="Mountain" />
+    <card number="14" name="Forest" />
+    <card number="1" name="Dryad Arbor" />
+  </zone>
+</cockatrice_deck>

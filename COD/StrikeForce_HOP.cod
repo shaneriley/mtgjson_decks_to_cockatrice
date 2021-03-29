@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Strike Force</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Soul Warden" />
+    <card number="1" name="Battlegate Mimic" />
+    <card number="2" name="Boros Swiftblade" />
+    <card number="1" name="Cerodon Yearling" />
+    <card number="1" name="Boros Guildmage" />
+    <card number="1" name="Kor Sanctifiers" />
+    <card number="1" name="Duergar Hedge-Mage" />
+    <card number="1" name="Hearthfire Hobgoblin" />
+    <card number="1" name="Flametongue Kavu" />
+    <card number="1" name="Keldon Champion" />
+    <card number="1" name="Menacing Ogre" />
+    <card number="1" name="Balefire Liege" />
+    <card number="1" name="Bull Cerodon" />
+    <card number="1" name="Rorix Bladewing" />
+    <card number="1" name="Razia, Boros Archangel" />
+    <card number="1" name="Reckless Charge" />
+    <card number="1" name="Arc Lightning" />
+    <card number="1" name="Cone of Flame" />
+    <card number="1" name="Akroma's Vengeance" />
+    <card number="1" name="Insurrection" />
+    <card number="1" name="Rolling Thunder" />
+    <card number="1" name="Goblin Offensive" />
+    <card number="1" name="Double Cleave" />
+    <card number="2" name="Lightning Helix" />
+    <card number="1" name="Orim's Thunder" />
+    <card number="1" name="Congregate" />
+    <card number="1" name="Captain's Maneuver" />
+    <card number="1" name="Relic of Progenitus" />
+    <card number="1" name="Boros Signet" />
+    <card number="1" name="Oblivion Ring" />
+    <card number="1" name="Prison Term" />
+    <card number="1" name="Glory of Warfare" />
+    <card number="1" name="Furnace of Rath" />
+    <card number="9" name="Mountain" />
+    <card number="9" name="Plains" />
+    <card number="2" name="Boros Garrison" />
+    <card number="2" name="Sunhome, Fortress of the Legion" />
+    <card number="2" name="Terramorphic Expanse" />
+    <card number="1" name="Order // Chaos" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Academy at Tolaria West" />
+    <card number="1" name="Agyrem" />
+    <card number="1" name="Glimmervoid Basin" />
+    <card number="1" name="Izzet Steam Maze" />
+    <card number="1" name="Naar Isle" />
+    <card number="1" name="Otaria" />
+    <card number="1" name="Shiv" />
+    <card number="1" name="Skybreen" />
+    <card number="1" name="Sokenzan" />
+    <card number="1" name="Stronghold Furnace" />
+  </zone>
+</cockatrice_deck>

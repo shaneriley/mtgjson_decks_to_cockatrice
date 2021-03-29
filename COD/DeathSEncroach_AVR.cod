@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Death's Encroach</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Cemetery Reaper" />
+    <card number="2" name="Crypt Creeper" />
+    <card number="4" name="Diregraf Ghoul" />
+    <card number="1" name="Geralf's Messenger" />
+    <card number="1" name="Ghoulraiser" />
+    <card number="1" name="Gloom Surgeon" />
+    <card number="1" name="Gravecrawler" />
+    <card number="4" name="Highborn Ghoul" />
+    <card number="4" name="Skinrender" />
+    <card number="1" name="Despise" />
+    <card number="3" name="Altar's Reap" />
+    <card number="2" name="Dismember" />
+    <card number="2" name="Doom Blade" />
+    <card number="3" name="Go for the Throat" />
+    <card number="2" name="Lashwrithe" />
+    <card number="24" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Crypt Creeper" />
+    <card number="1" name="Ghoulraiser" />
+    <card number="1" name="Despise" />
+    <card number="2" name="Appetite for Brains" />
+    <card number="3" name="Deathmark" />
+    <card number="2" name="Distress" />
+    <card number="1" name="Surgical Extraction" />
+    <card number="3" name="Triumph of Cruelty" />
+  </zone>
+</cockatrice_deck>

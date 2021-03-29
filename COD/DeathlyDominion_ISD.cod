@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Deathly Dominion</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Typhoid Rats" />
+    <card number="2" name="Disciple of Griselbrand" />
+    <card number="2" name="Reassembling Skeleton" />
+    <card number="1" name="Skirsdag High Priest" />
+    <card number="1" name="Ambush Viper" />
+    <card number="2" name="Warpath Ghoul" />
+    <card number="2" name="Devouring Swarm" />
+    <card number="1" name="Brain Weevil" />
+    <card number="2" name="Festerhide Boar" />
+    <card number="2" name="Woodland Sleuth" />
+    <card number="2" name="Lumberknot" />
+    <card number="1" name="Somberwald Spider" />
+    <card number="2" name="Morkrut Banshee" />
+    <card number="2" name="Hollowhenge Scavenger" />
+    <card number="1" name="Moldgraf Monstrosity" />
+    <card number="2" name="Caravan Vigil" />
+    <card number="1" name="Prey Upon" />
+    <card number="2" name="Rampant Growth" />
+    <card number="1" name="Make a Wish" />
+    <card number="1" name="Altar's Reap" />
+    <card number="1" name="Doom Blade" />
+    <card number="1" name="Naturalize" />
+    <card number="1" name="Demonmail Hauberk" />
+    <card number="2" name="Dead Weight" />
+    <card number="11" name="Swamp" />
+    <card number="13" name="Forest" />
+  </zone>
+</cockatrice_deck>

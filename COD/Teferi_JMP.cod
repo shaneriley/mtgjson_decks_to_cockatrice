@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Teferi</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Teferi, Master of Time" />
+    <card number="1" name="Prescient Chimera" />
+    <card number="1" name="Sage's Row Savant" />
+    <card number="1" name="Tolarian Kraken" />
+    <card number="1" name="Vodalian Arcanist" />
+    <card number="1" name="Teferi's Protege" />
+    <card number="1" name="Talrand's Invocation" />
+    <card number="1" name="Exclude" />
+    <card number="1" name="Leave in the Dust" />
+    <card number="1" name="Opt" />
+    <card number="1" name="Teferi's Ageless Insight" />
+    <card number="1" name="Teferi's Tutelage" />
+    <card number="1" name="Thriving Isle" />
+    <card number="6" name="Island" />
+    <card number="1" name="Island" />
+  </zone>
+</cockatrice_deck>

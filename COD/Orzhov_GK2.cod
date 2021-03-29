@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Orzhov</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Teysa, Orzhov Scion" />
+    <card number="1" name="Orzhov Pontiff" />
+    <card number="1" name="Teysa Karlov" />
+    <card number="1" name="Ghost Council of Orzhova" />
+    <card number="1" name="Pontiff of Blight" />
+    <card number="1" name="Skeletal Vampire" />
+    <card number="1" name="Treasury Thrull" />
+    <card number="1" name="Deathpact Angel" />
+    <card number="1" name="Angel of Despair" />
+    <card number="1" name="Martyred Rusalka" />
+    <card number="1" name="Plagued Rusalka" />
+    <card number="1" name="Orzhov Enforcer" />
+    <card number="2" name="Imperious Oligarch" />
+    <card number="1" name="Pitiless Pontiff" />
+    <card number="2" name="Vizkopa Guildmage" />
+    <card number="1" name="Ministrant of Obligation" />
+    <card number="1" name="Sin Collector" />
+    <card number="1" name="Vindictive Vampire" />
+    <card number="1" name="Keening Banshee" />
+    <card number="1" name="Basilica Bell-Haunt" />
+    <card number="1" name="Belfry Spirit" />
+    <card number="1" name="Consecrate // Consume" />
+    <card number="1" name="Ultimate Price" />
+    <card number="1" name="Final Payment" />
+    <card number="1" name="Orzhov Charm" />
+    <card number="1" name="Mortify" />
+    <card number="2" name="Orzhov Signet" />
+    <card number="1" name="Smothering Tithe" />
+    <card number="1" name="Ethereal Absolution" />
+    <card number="1" name="Debtors' Knell" />
+    <card number="1" name="Stab Wound" />
+    <card number="1" name="Pillory of the Sleepless" />
+    <card number="1" name="One Thousand Lashes" />
+    <card number="4" name="Orzhov Basilica" />
+    <card number="4" name="Orzhov Guildgate" />
+    <card number="8" name="Plains" />
+    <card number="8" name="Swamp" />
+  </zone>
+</cockatrice_deck>

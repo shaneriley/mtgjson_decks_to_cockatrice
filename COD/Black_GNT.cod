@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Black</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Death Baron" />
+    <card number="1" name="Graveyard Marshal" />
+    <card number="2" name="Doomed Dissenter" />
+    <card number="1" name="Gravedigger" />
+    <card number="2" name="Infectious Horror" />
+    <card number="2" name="Reassembling Skeleton" />
+    <card number="2" name="Stitcher's Supplier" />
+    <card number="1" name="Fleshbag Marauder" />
+    <card number="2" name="Lord of the Accursed" />
+    <card number="2" name="Tattered Mummy" />
+    <card number="2" name="Thallid Soothsayer" />
+    <card number="2" name="Zulaport Cutthroat" />
+    <card number="2" name="Filigree Familiar" />
+    <card number="1" name="Languish" />
+    <card number="2" name="Blood Divination" />
+    <card number="1" name="Bone Splinters" />
+    <card number="1" name="Gruesome Fate" />
+    <card number="3" name="Murder" />
+    <card number="2" name="Cruel Revival" />
+    <card number="1" name="Liliana's Mastery" />
+    <card number="1" name="Open the Graves" />
+    <card number="25" name="Swamp" />
+    <card number="1" name="Rot Hulk" />
+  </zone>
+</cockatrice_deck>

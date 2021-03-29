@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Golgari</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Jarad, Golgari Lich Lord" />
+    <card number="1" name="Izoni, Thousand-Eyed" />
+    <card number="1" name="Deathrite Shaman" />
+    <card number="1" name="Lotleth Troll" />
+    <card number="1" name="Charnel Troll" />
+    <card number="1" name="Deadbridge Goliath" />
+    <card number="1" name="Savra, Queen of the Golgari" />
+    <card number="1" name="Grave-Shell Scarab" />
+    <card number="1" name="Hatchery Spider" />
+    <card number="1" name="Sisters of Stone Death" />
+    <card number="2" name="Elves of Deep Shadow" />
+    <card number="1" name="Glowspore Shaman" />
+    <card number="2" name="Korozda Guildmage" />
+    <card number="1" name="Plaguecrafter" />
+    <card number="1" name="Stinkweed Imp" />
+    <card number="1" name="Shambling Shell" />
+    <card number="1" name="Slum Reaper" />
+    <card number="1" name="Rhizome Lurcher" />
+    <card number="1" name="Golgari Findbroker" />
+    <card number="1" name="Gaze of Granite" />
+    <card number="1" name="Drown in Filth" />
+    <card number="1" name="Treasured Find" />
+    <card number="1" name="Vigor Mortis" />
+    <card number="1" name="Abrupt Decay" />
+    <card number="2" name="Darkblast" />
+    <card number="1" name="Necrotic Wound" />
+    <card number="1" name="Golgari Charm" />
+    <card number="1" name="Grisly Salvage" />
+    <card number="1" name="Putrefy" />
+    <card number="1" name="Status // Statue" />
+    <card number="2" name="Golgari Signet" />
+    <card number="1" name="Deadbridge Chant" />
+    <card number="4" name="Golgari Guildgate" />
+    <card number="4" name="Golgari Rot Farm" />
+    <card number="8" name="Swamp" />
+    <card number="8" name="Forest" />
+  </zone>
+</cockatrice_deck>

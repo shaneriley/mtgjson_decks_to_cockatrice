@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>White</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Benalish Marshal" />
+    <card number="1" name="Mentor of the Meek" />
+    <card number="1" name="Valiant Knight" />
+    <card number="2" name="Dwarven Priest" />
+    <card number="2" name="Gallant Cavalry" />
+    <card number="3" name="Militia Bugler" />
+    <card number="2" name="Pegasus Courser" />
+    <card number="1" name="Aerial Responder" />
+    <card number="1" name="Everdawn Champion" />
+    <card number="2" name="Fan Bearer" />
+    <card number="1" name="Inspiring Captain" />
+    <card number="2" name="Mesa Unicorn" />
+    <card number="2" name="Serra Angel" />
+    <card number="1" name="Subjugator Angel" />
+    <card number="1" name="Cleansing Nova" />
+    <card number="2" name="Call the Cavalry" />
+    <card number="2" name="Bright Reprisal" />
+    <card number="1" name="Inspired Charge" />
+    <card number="1" name="Always Watching" />
+    <card number="1" name="Hieromancer's Cage" />
+    <card number="2" name="Knightly Valor" />
+    <card number="2" name="Luminous Bonds" />
+    <card number="25" name="Plains" />
+    <card number="1" name="Militant Angel" />
+  </zone>
+</cockatrice_deck>

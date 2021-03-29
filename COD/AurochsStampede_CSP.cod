@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Aurochs Stampede</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Gorilla Shaman" />
+    <card number="1" name="Orcish Lumberjack" />
+    <card number="2" name="Earthen Goo" />
+    <card number="1" name="Stalking Yeti" />
+    <card number="2" name="Boreal Druid" />
+    <card number="2" name="Tinder Wall" />
+    <card number="4" name="Bull Aurochs" />
+    <card number="2" name="Frostweb Spider" />
+    <card number="2" name="Woolly Mammoths" />
+    <card number="3" name="Aurochs" />
+    <card number="1" name="Deadly Insect" />
+    <card number="2" name="Rimehorn Aurochs" />
+    <card number="3" name="Aurochs Herd" />
+    <card number="1" name="Giant Trap Door Spider" />
+    <card number="2" name="Incinerate" />
+    <card number="2" name="Balduvian Rage" />
+    <card number="1" name="Resize" />
+    <card number="1" name="Hibernation's End" />
+    <card number="1" name="Bounty of the Hunt" />
+    <card number="1" name="Shape of the Wiitigo" />
+    <card number="1" name="Whalebone Glider" />
+    <card number="8" name="Snow-Covered Mountain" />
+    <card number="14" name="Snow-Covered Forest" />
+    <card number="2" name="Highland Weald" />
+  </zone>
+</cockatrice_deck>

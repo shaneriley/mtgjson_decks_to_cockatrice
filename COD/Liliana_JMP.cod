@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Liliana</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Liliana, Waker of the Dead" />
+    <card number="1" name="Liliana's Elite" />
+    <card number="1" name="Blighted Bat" />
+    <card number="1" name="Ghoulraiser" />
+    <card number="1" name="Wailing Ghoul" />
+    <card number="1" name="Liliana's Standard Bearer" />
+    <card number="1" name="Goremand" />
+    <card number="1" name="Liliana's Devotee" />
+    <card number="1" name="Liliana's Steward" />
+    <card number="1" name="Settle the Score" />
+    <card number="1" name="Cemetery Recruitment" />
+    <card number="1" name="Rise Again" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

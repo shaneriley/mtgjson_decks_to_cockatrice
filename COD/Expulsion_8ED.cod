@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Expulsion</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Maggot Carrier" />
+    <card number="4" name="Ravenous Rats" />
+    <card number="2" name="Dusk Imp" />
+    <card number="2" name="Severed Legion" />
+    <card number="2" name="Deathgazer" />
+    <card number="2" name="Abyssal Specter" />
+    <card number="1" name="Coercion" />
+    <card number="2" name="Dark Banishing" />
+    <card number="2" name="Megrim" />
+    <card number="1" name="Larceny" />
+    <card number="1" name="Sever Soul" />
+    <card number="1" name="Disrupting Scepter" />
+    <card number="17" name="Swamp" />
+  </zone>
+</cockatrice_deck>

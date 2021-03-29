@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Allied Fires</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sarkhan the Masterless" />
+    <card number="1" name="Ugin, the Ineffable" />
+    <card number="3" name="Kasmina, Enigmatic Mentor" />
+    <card number="4" name="Narset, Parter of Veils" />
+    <card number="2" name="Saheeli, Sublime Artificer" />
+    <card number="1" name="Kenrith, the Returned King" />
+    <card number="2" name="Fae of Wishes // Granted" />
+    <card number="3" name="Deafening Clarion" />
+    <card number="2" name="Drawn from Dreams" />
+    <card number="1" name="Time Wipe" />
+    <card number="4" name="Fires of Invention" />
+    <card number="2" name="Banishing Light" />
+    <card number="4" name="Omen of the Sea" />
+    <card number="1" name="Steam Vents" />
+    <card number="1" name="Temple of Enlightenment" />
+    <card number="1" name="Temple of Epiphany" />
+    <card number="1" name="Temple of Triumph" />
+    <card number="4" name="Interplanar Beacon" />
+    <card number="3" name="Swiftwater Cliffs" />
+    <card number="3" name="Tranquil Cove" />
+    <card number="4" name="Wind-Scarred Crag" />
+    <card number="5" name="Island" />
+    <card number="2" name="Mountain" />
+    <card number="2" name="Plains" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Sarkhan the Masterless" />
+    <card number="1" name="Time Wipe" />
+    <card number="1" name="Mass Manipulation" />
+    <card number="1" name="Ashiok, Dream Render" />
+    <card number="2" name="Devout Decree" />
+    <card number="1" name="Dovin, Hand of Control" />
+    <card number="1" name="Dovin's Veto" />
+    <card number="2" name="Fry" />
+    <card number="2" name="Revoke Existence" />
+    <card number="3" name="Thirst for Meaning" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mu Yanling</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Welkin Tern" />
+    <card number="2" name="Brilliant Plan" />
+    <card number="1" name="Cloak of Mists" />
+    <card number="4" name="Meandering River" />
+    <card number="9" name="Plains" />
+    <card number="12" name="Island" />
+    <card number="1" name="Mu Yanling" />
+    <card number="2" name="Colorful Feiyi Sparrow" />
+    <card number="2" name="Purple-Crystal Crab" />
+    <card number="2" name="Vivid Flying Fish" />
+    <card number="2" name="Heavenly Qilin" />
+    <card number="2" name="Armored Whirl Turtle" />
+    <card number="2" name="Nine-Tail White Fox" />
+    <card number="2" name="Earth-Origin Yak" />
+    <card number="3" name="Moon-Eating Dog" />
+    <card number="2" name="Stormcloud Spirit" />
+    <card number="1" name="Ancestor Dragon" />
+    <card number="2" name="Qilin's Blessing" />
+    <card number="2" name="Drown in Shapelessness" />
+    <card number="3" name="Dragon's Presence" />
+    <card number="2" name="Rhythmic Water Vortex" />
+  </zone>
+</cockatrice_deck>

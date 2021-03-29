@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>White</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Flavor Judge" />
+    <card number="1" name="Frankie Peanuts" />
+    <card number="1" name="Syr Cadian, Knight Owl" />
+    <card number="1" name="Adorable Kitten" />
+    <card number="1" name="Humming-" />
+    <card number="1" name="Knight of the Hokey Pokey" />
+    <card number="1" name="Old Guard" />
+    <card number="1" name="Ordinary Pony" />
+    <card number="1" name="Paper Tiger" />
+    <card number="1" name="Strutting Turkey" />
+    <card number="1" name="Emcee" />
+    <card number="1" name="AWOL" />
+    <card number="1" name="Look at Me, I'm the DCI" />
+    <card number="1" name="Look at Me, I'm R&D" />
+    <card number="1" name="Staying Power" />
+    <card number="1" name="GO TO JAIL" />
+    <card number="1" name="Sword of Dungeons & Dragons" />
+    <card number="1" name="Underdome" />
+    <card number="12" name="Plains" />
+  </zone>
+</cockatrice_deck>

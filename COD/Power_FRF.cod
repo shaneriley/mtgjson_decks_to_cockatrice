@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Power</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Typhoid Rats" />
+    <card number="4" name="Satyr Wayfinder" />
+    <card number="2" name="Necromancer's Assistant" />
+    <card number="1" name="Herald of Torment" />
+    <card number="1" name="Returned Centaur" />
+    <card number="2" name="Sultai Soothsayer" />
+    <card number="2" name="Sultai Scavenger" />
+    <card number="1" name="Scuttling Doom Engine" />
+    <card number="1" name="Necropolis Fiend" />
+    <card number="1" name="Sultai Skullkeeper" />
+    <card number="1" name="Merciless Executioner" />
+    <card number="1" name="Gurmag Angler" />
+    <card number="1" name="Annul" />
+    <card number="1" name="Naturalize" />
+    <card number="2" name="Sultai Charm" />
+    <card number="2" name="Murderous Cut" />
+    <card number="1" name="Hero's Downfall" />
+    <card number="1" name="Neutralizing Blast" />
+    <card number="1" name="Despise" />
+    <card number="2" name="Taigam's Scheming" />
+    <card number="1" name="Set Adrift" />
+    <card number="1" name="Treasure Cruise" />
+    <card number="1" name="Dead Drop" />
+    <card number="1" name="Sultai Ascendancy" />
+    <card number="1" name="Monastery Siege" />
+    <card number="1" name="Sultai Banner" />
+    <card number="4" name="Opulent Palace" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="2" name="Dismal Backwater" />
+    <card number="7" name="Swamp" />
+    <card number="5" name="Island" />
+    <card number="5" name="Forest" />
+  </zone>
+</cockatrice_deck>

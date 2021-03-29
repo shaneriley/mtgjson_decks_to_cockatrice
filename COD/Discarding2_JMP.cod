@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Discarding 2</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Liliana's Reaver" />
+    <card number="1" name="Nyxathid" />
+    <card number="1" name="Fell Specter" />
+    <card number="1" name="Ravenous Chupacabra" />
+    <card number="1" name="Entomber Exarch" />
+    <card number="1" name="Burglar Rat" />
+    <card number="1" name="Phyrexian Rager" />
+    <card number="1" name="Slate Street Ruffian" />
+    <card number="2" name="Wight of Precinct Six" />
+    <card number="1" name="Assassin's Strike" />
+    <card number="1" name="Death's Approach" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Azorius Authority</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Ascended Lawmage" />
+    <card number="2" name="Azorius Arrester" />
+    <card number="1" name="Azorius Justiciar" />
+    <card number="2" name="Haazda Snare Squad" />
+    <card number="2" name="Jelenn Sphinx" />
+    <card number="1" name="Lavinia of the Tenth" />
+    <card number="1" name="Lyev Skyknight" />
+    <card number="3" name="Silvercoat Lion" />
+    <card number="1" name="Soulsworn Spirit" />
+    <card number="2" name="Stealer of Secrets" />
+    <card number="2" name="Sunspire Gatekeepers" />
+    <card number="3" name="Wind Drake" />
+    <card number="2" name="Lyev Decree" />
+    <card number="2" name="Righteous Charge" />
+    <card number="2" name="Avenging Arrow" />
+    <card number="1" name="Protect // Serve" />
+    <card number="1" name="Restore the Peace" />
+    <card number="2" name="Azorius Cluestone" />
+    <card number="1" name="Arrest" />
+    <card number="1" name="Martial Law" />
+    <card number="4" name="Azorius Guildgate" />
+    <card number="10" name="Island" />
+    <card number="12" name="Plains" />
+  </zone>
+</cockatrice_deck>

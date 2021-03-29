@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Night Terrors</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Blighted Shaman" />
+    <card number="2" name="Restless Dead" />
+    <card number="2" name="Skulking Ghost" />
+    <card number="3" name="Breathstealer" />
+    <card number="3" name="Feral Shadow" />
+    <card number="3" name="Urborg Panther" />
+    <card number="2" name="Dread Specter" />
+    <card number="1" name="Fetid Horror" />
+    <card number="1" name="Gravebane Zombie" />
+    <card number="1" name="Ravenous Vampire" />
+    <card number="1" name="Spirit of the Night" />
+    <card number="1" name="Soulshriek" />
+    <card number="1" name="Shallow Grave" />
+    <card number="2" name="Wall of Corpses" />
+    <card number="1" name="Withering Boon" />
+    <card number="2" name="Bone Harvest" />
+    <card number="2" name="Dark Banishing" />
+    <card number="2" name="Stupor" />
+    <card number="1" name="Kaervek's Hex" />
+    <card number="1" name="Nocturnal Raid" />
+    <card number="1" name="Drain Life" />
+    <card number="3" name="Charcoal Diamond" />
+    <card number="1" name="Phyrexian Vault" />
+    <card number="22" name="Swamp" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Deadspread</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Fume Spitter" />
+    <card number="2" name="Leaden Myr" />
+    <card number="2" name="Silver Myr" />
+    <card number="2" name="Maritime Guard" />
+    <card number="2" name="Moriok Reaver" />
+    <card number="1" name="Darkslick Drake" />
+    <card number="1" name="Skinrender" />
+    <card number="2" name="Sky-Eel School" />
+    <card number="1" name="Harbor Serpent" />
+    <card number="1" name="Carnifex Demon" />
+    <card number="1" name="Twisted Image" />
+    <card number="1" name="Doom Blade" />
+    <card number="2" name="Steady Progress" />
+    <card number="2" name="Instill Infection" />
+    <card number="2" name="Contagion Clasp" />
+    <card number="1" name="Culling Dais" />
+    <card number="1" name="Throne of Geth" />
+    <card number="2" name="Necrogen Censer" />
+    <card number="1" name="Trigon of Corruption" />
+    <card number="1" name="Contagion Engine" />
+    <card number="13" name="Island" />
+    <card number="13" name="Swamp" />
+    <card number="2" name="Thrummingbird" />
+    <card number="1" name="Sorcerer's Strongbox" />
+    <card number="1" name="Trigon of Thought" />
+  </zone>
+</cockatrice_deck>

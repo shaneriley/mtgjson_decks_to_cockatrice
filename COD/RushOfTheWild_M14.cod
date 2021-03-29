@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rush of the Wild</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Elvish Mystic" />
+    <card number="2" name="Rakdos Cackler" />
+    <card number="2" name="Dryad Militant" />
+    <card number="2" name="Kalonian Tusker" />
+    <card number="2" name="Skarrg Guildmage" />
+    <card number="2" name="Burning-Tree Emissary" />
+    <card number="1" name="Pyrewild Shaman" />
+    <card number="3" name="Slaughterhorn" />
+    <card number="1" name="Wild Beastmaster" />
+    <card number="1" name="Ogre Battledriver" />
+    <card number="1" name="Deadbridge Goliath" />
+    <card number="4" name="Ghor-Clan Rampager" />
+    <card number="1" name="Rubblebelt Raiders" />
+    <card number="1" name="Wrecking Ogre" />
+    <card number="1" name="Mizzium Mortars" />
+    <card number="2" name="Flames of the Firebrand" />
+    <card number="1" name="Clan Defiance" />
+    <card number="1" name="Armed // Dangerous" />
+    <card number="3" name="Shock" />
+    <card number="2" name="Gruul Charm" />
+    <card number="4" name="Gruul Guildgate" />
+    <card number="1" name="Rogue's Passage" />
+    <card number="1" name="Stomping Ground" />
+    <card number="12" name="Forest" />
+    <card number="6" name="Mountain" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Gruul Charm" />
+    <card number="1" name="Savage Summoning" />
+    <card number="3" name="Skullcrack" />
+    <card number="2" name="Naturalize" />
+    <card number="2" name="Act of Treason" />
+    <card number="3" name="Annihilating Fire" />
+    <card number="2" name="Enlarge" />
+  </zone>
+</cockatrice_deck>

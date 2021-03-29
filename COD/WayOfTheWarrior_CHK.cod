@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Way of the Warrior</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Bushi Tenderfoot // Kenzo the Hardhearted" />
+    <card number="4" name="Devoted Retainer" />
+    <card number="3" name="Konda's Hatamoto" />
+    <card number="4" name="Kitsune Blademaster" />
+    <card number="4" name="Mothrider Samurai" />
+    <card number="1" name="Nagao, Bound by Honor" />
+    <card number="1" name="Takeno, Samurai General" />
+    <card number="2" name="Samurai Enforcers" />
+    <card number="1" name="Blessed Breath" />
+    <card number="2" name="Reciprocate" />
+    <card number="2" name="Vigilance" />
+    <card number="2" name="Call to Glory" />
+    <card number="1" name="Candles' Glow" />
+    <card number="2" name="Indomitable Will" />
+    <card number="1" name="Otherworldly Journey" />
+    <card number="2" name="Cage of Hands" />
+    <card number="1" name="Hold the Line" />
+    <card number="2" name="No-Dachi" />
+    <card number="24" name="Plains" />
+  </zone>
+</cockatrice_deck>

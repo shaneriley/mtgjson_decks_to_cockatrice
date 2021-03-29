@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Heavily Armored (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Patron of the Valiant" />
+    <card number="1" name="Bulwark Giant" />
+    <card number="1" name="Trusty Retriever" />
+    <card number="1" name="Lightwalker" />
+    <card number="1" name="Tempered Veteran" />
+    <card number="1" name="Siege Striker" />
+    <card number="1" name="Makeshift Battalion" />
+    <card number="1" name="Basri's Acolyte" />
+    <card number="1" name="Basri's Solidarity" />
+    <card number="1" name="Secure the Scene" />
+    <card number="1" name="Feat of Resistance" />
+    <card number="1" name="Cathars' Crusade" />
+    <card number="1" name="Thriving Heath" />
+    <card number="6" name="Plains" />
+    <card number="1" name="Plains" />
+  </zone>
+</cockatrice_deck>

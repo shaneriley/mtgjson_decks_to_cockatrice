@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Elspeth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Elspeth, Undaunted Hero" />
+    <card number="1" name="Daxos, Blessed by the Sun" />
+    <card number="3" name="Eidolon of Inspiration" />
+    <card number="1" name="Taranika, Akroan Veteran" />
+    <card number="2" name="Archon of Falling Stars" />
+    <card number="2" name="Elspeth's Devotee" />
+    <card number="2" name="Hero of the Winds" />
+    <card number="4" name="Daybreak Chimera" />
+    <card number="4" name="Leonin of the Lost Pride" />
+    <card number="4" name="Sunlit Hoplite" />
+    <card number="3" name="Karametra's Blessing" />
+    <card number="2" name="Phalanx Tactics" />
+    <card number="3" name="Indomitable Will" />
+    <card number="3" name="Dreadful Apathy" />
+    <card number="25" name="Plains" />
+  </zone>
+</cockatrice_deck>

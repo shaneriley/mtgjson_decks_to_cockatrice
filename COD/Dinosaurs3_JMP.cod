@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dinosaurs (3)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ghalta, Primal Hunger" />
+    <card number="1" name="Drover of the Mighty" />
+    <card number="1" name="Thundering Spineback" />
+    <card number="1" name="Orazca Frillback" />
+    <card number="1" name="Colossal Dreadmaw" />
+    <card number="1" name="Ornery Dilophosaur" />
+    <card number="1" name="Drowsing Tyrannodon" />
+    <card number="1" name="Savage Stomp" />
+    <card number="1" name="Commune with Dinosaurs" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Crushing Canopy" />
+    <card number="1" name="Titanic Growth" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

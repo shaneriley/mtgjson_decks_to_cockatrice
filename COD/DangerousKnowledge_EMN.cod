@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dangerous Knowledge</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sanguinary Mage" />
+    <card number="2" name="Thermo-Alchemist" />
+    <card number="2" name="Ingenious Skaab" />
+    <card number="1" name="Niblis of Dusk" />
+    <card number="2" name="Weaver of Lightning" />
+    <card number="1" name="Pyre Hound" />
+    <card number="1" name="Niblis of Frost" />
+    <card number="2" name="Mercurial Geists" />
+    <card number="1" name="Silburlind Snapper" />
+    <card number="1" name="Bedlam Reveler" />
+    <card number="3" name="Take Inventory" />
+    <card number="1" name="Incendiary Flow" />
+    <card number="1" name="Drag Under" />
+    <card number="1" name="Pieces of the Puzzle" />
+    <card number="2" name="Make Mischief" />
+    <card number="2" name="Shreds of Sanity" />
+    <card number="1" name="Reduce to Ashes" />
+    <card number="1" name="Pore Over the Pages" />
+    <card number="1" name="Rise from the Tides" />
+    <card number="1" name="Turn Aside" />
+    <card number="3" name="Galvanic Bombardment" />
+    <card number="1" name="Convolute" />
+    <card number="2" name="Geistblast" />
+    <card number="1" name="Dance with Devils" />
+    <card number="13" name="Island" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

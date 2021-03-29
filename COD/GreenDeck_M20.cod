@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Green Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Aggressive Mammoth" />
+    <card number="1" name="Bristling Boar" />
+    <card number="2" name="Canopy Spider" />
+    <card number="2" name="Centaur Courser" />
+    <card number="1" name="Frilled Sandwalla" />
+    <card number="1" name="Healer of the Glade" />
+    <card number="1" name="Mammoth Spider" />
+    <card number="1" name="Prized Unicorn" />
+    <card number="1" name="Vorstclaw" />
+    <card number="1" name="Woodland Mystic" />
+    <card number="1" name="Plummet" />
+    <card number="1" name="Titanic Growth" />
+    <card number="1" name="Overcome" />
+    <card number="1" name="Rabid Bite" />
+    <card number="1" name="Oakenform" />
+    <card number="13" name="Forest" />
+  </zone>
+</cockatrice_deck>

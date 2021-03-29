@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dead and Alive</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="24" name="Swamp" />
+    <card number="1" name="Barrow Ghoul" />
+    <card number="1" name="Circling Vultures" />
+    <card number="3" name="Crypt Rats" />
+    <card number="2" name="Fallen Askari" />
+    <card number="2" name="Fledgling Djinn" />
+    <card number="1" name="Hidden Horror" />
+    <card number="1" name="Mischievous Poltergeist" />
+    <card number="1" name="Morinfen" />
+    <card number="3" name="Necratog" />
+    <card number="2" name="Nekrataal" />
+    <card number="2" name="Sewer Rats" />
+    <card number="2" name="Shadow Rider" />
+    <card number="1" name="Skulking Ghost" />
+    <card number="1" name="Zombie Scavengers" />
+    <card number="1" name="Infernal Tribute" />
+    <card number="2" name="Necromancy" />
+    <card number="1" name="Strands of Night" />
+    <card number="1" name="Shattered Crypt" />
+    <card number="2" name="Spinning Darkness" />
+    <card number="2" name="Buried Alive" />
+    <card number="2" name="Dark Banishing" />
+    <card number="2" name="Drain Life" />
+  </zone>
+</cockatrice_deck>

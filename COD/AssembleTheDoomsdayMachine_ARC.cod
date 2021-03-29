@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Assemble The Doomsday Machine</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Architects of Will" />
+    <card number="1" name="Duplicant" />
+    <card number="1" name="Ethersworn Shieldmage" />
+    <card number="1" name="Juggernaut" />
+    <card number="1" name="Leonin Abunas" />
+    <card number="1" name="Lodestone Golem" />
+    <card number="1" name="Magister Sphinx" />
+    <card number="1" name="Master Transmuter" />
+    <card number="1" name="Memnarch" />
+    <card number="1" name="Metallurgeon" />
+    <card number="2" name="Sanctum Gargoyle" />
+    <card number="1" name="Sundering Titan" />
+    <card number="1" name="Synod Centurion" />
+    <card number="2" name="Agony Warp" />
+    <card number="1" name="Batwing Brume" />
+    <card number="1" name="Spin into Myth" />
+    <card number="1" name="Unmake" />
+    <card number="2" name="Aether Spellbomb" />
+    <card number="1" name="Azorius Signet" />
+    <card number="1" name="Dimir Signet" />
+    <card number="1" name="Dreamstone Hedron" />
+    <card number="1" name="Everflowing Chalice" />
+    <card number="1" name="Fieldmist Borderpost" />
+    <card number="1" name="Lightning Greaves" />
+    <card number="1" name="Mistvein Borderpost" />
+    <card number="1" name="Obelisk of Esper" />
+    <card number="1" name="Skullcage" />
+    <card number="1" name="Sorcerer's Strongbox" />
+    <card number="1" name="Sun Droplet" />
+    <card number="1" name="Synod Sanctum" />
+    <card number="1" name="Thunderstaff" />
+    <card number="1" name="Unbender Tine" />
+    <card number="1" name="March of the Machines" />
+    <card number="10" name="Island" />
+    <card number="7" name="Plains" />
+    <card number="5" name="Swamp" />
+    <card number="2" name="Terramorphic Expanse" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="All in Good Time" />
+    <card number="1" name="Behold the Power of Destruction" />
+    <card number="1" name="Embrace My Diabolical Vision" />
+    <card number="2" name="Feed the Machine" />
+    <card number="1" name="I Delight in Your Convulsions" />
+    <card number="2" name="Ignite the Cloneforge!" />
+    <card number="1" name="Introductions Are in Order" />
+    <card number="2" name="The Iron Guardian Stirs" />
+    <card number="1" name="My Genius Knows No Bounds" />
+    <card number="1" name="Realms Befitting My Majesty" />
+    <card number="2" name="The Pieces Are Coming Together" />
+    <card number="1" name="Your Fate Is Thrice Sealed" />
+    <card number="1" name="Your Puny Minds Cannot Fathom" />
+    <card number="2" name="I Know All, I See All" />
+    <card number="1" name="Nothing Can Stop Me Now" />
+  </zone>
+</cockatrice_deck>

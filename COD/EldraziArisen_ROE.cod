@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Eldrazi Arisen</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Akoum Boulderfoot" />
+    <card number="1" name="Conquering Manticore" />
+    <card number="1" name="Daggerback Basilisk" />
+    <card number="1" name="Goblin Piker" />
+    <card number="1" name="Hand of Emrakul" />
+    <card number="1" name="Kozilek's Predator" />
+    <card number="1" name="Nest Invader" />
+    <card number="1" name="Ondu Giant" />
+    <card number="1" name="Pathrazer of Ulamog" />
+    <card number="1" name="Rapacious One" />
+    <card number="1" name="Runed Servitor" />
+    <card number="2" name="Sporecap Spider" />
+    <card number="1" name="Ulamog's Crusher" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Bountiful Harvest" />
+    <card number="2" name="Flame Slash" />
+    <card number="1" name="Growth Spasm" />
+    <card number="1" name="Might of the Masses" />
+    <card number="1" name="Windstorm" />
+    <card number="1" name="Dreamstone Hedron" />
+    <card number="1" name="Awakening Zone" />
+    <card number="10" name="Forest" />
+    <card number="8" name="Mountain" />
+  </zone>
+</cockatrice_deck>

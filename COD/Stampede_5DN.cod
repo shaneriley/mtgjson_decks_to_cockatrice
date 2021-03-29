@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Stampede</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Spark Elemental" />
+    <card number="1" name="Slith Firewalker" />
+    <card number="2" name="Goblin Brawler" />
+    <card number="2" name="Spikeshot Goblin" />
+    <card number="1" name="Cosmic Larva" />
+    <card number="1" name="Vulshok Sorcerer" />
+    <card number="1" name="Vulshok Berserker" />
+    <card number="1" name="Iron-Barb Hellion" />
+    <card number="2" name="Sylvok Explorer" />
+    <card number="1" name="Tangle Asp" />
+    <card number="1" name="Tel-Jilad Chosen" />
+    <card number="1" name="Eternal Witness" />
+    <card number="2" name="Tel-Jilad Exile" />
+    <card number="2" name="Viridian Lorebearers" />
+    <card number="1" name="Tel-Jilad Lifebreather" />
+    <card number="1" name="Fangren Hunter" />
+    <card number="2" name="Fangren Pathcutter" />
+    <card number="2" name="Tyrranax" />
+    <card number="1" name="Goblin Replica" />
+    <card number="1" name="Magma Jet" />
+    <card number="1" name="Barbed Lightning" />
+    <card number="1" name="Grab the Reins" />
+    <card number="1" name="Rain of Rust" />
+    <card number="1" name="Tel-Jilad Justice" />
+    <card number="1" name="Ferocious Charge" />
+    <card number="1" name="Rite of Passage" />
+    <card number="1" name="Pyrite Spellbomb" />
+    <card number="2" name="Talisman of Impulse" />
+    <card number="1" name="Goblin Cannon" />
+    <card number="12" name="Mountain" />
+    <card number="11" name="Forest" />
+  </zone>
+</cockatrice_deck>

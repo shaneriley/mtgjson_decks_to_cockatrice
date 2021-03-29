@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Tree-Hugging (3)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Wall of Blossoms" />
+    <card number="1" name="Ambassador Oak" />
+    <card number="1" name="Jolrael, Mwonvuli Recluse" />
+    <card number="1" name="Burlfist Oak" />
+    <card number="1" name="Warden of the Woods" />
+    <card number="1" name="Llanowar Visionary" />
+    <card number="1" name="Snarespinner" />
+    <card number="1" name="Gnarled Sage" />
+    <card number="1" name="Nature's Way" />
+    <card number="1" name="Explore" />
+    <card number="1" name="Aggressive Urge" />
+    <card number="1" name="Crushing Canopy" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

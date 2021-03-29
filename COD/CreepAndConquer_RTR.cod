@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Creep and Conquer</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ulvenwald Tracker" />
+    <card number="2" name="Slitherhead" />
+    <card number="2" name="Daggerdrome Imp" />
+    <card number="3" name="Dawntreader Elk" />
+    <card number="4" name="Drudge Beetle" />
+    <card number="3" name="Korozda Guildmage" />
+    <card number="2" name="Trusted Forcemage" />
+    <card number="4" name="Vampire Nighthawk" />
+    <card number="2" name="Dreg Mangler" />
+    <card number="1" name="Disciple of Bolas" />
+    <card number="1" name="Druid's Familiar" />
+    <card number="1" name="Deadbridge Goliath" />
+    <card number="1" name="Wolfir Silverheart" />
+    <card number="4" name="Tragic Slip" />
+    <card number="1" name="Ultimate Price" />
+    <card number="2" name="Victim of Night" />
+    <card number="2" name="Golgari Charm" />
+    <card number="4" name="Evolving Wilds" />
+    <card number="3" name="Golgari Guildgate" />
+    <card number="1" name="Grim Backwoods" />
+    <card number="1" name="Woodland Cemetery" />
+    <card number="7" name="Swamp" />
+    <card number="8" name="Forest" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Duress" />
+    <card number="3" name="Vile Rebirth" />
+    <card number="4" name="Strangleroot Geist" />
+    <card number="3" name="Bramblecrush" />
+    <card number="1" name="Thragtusk" />
+    <card number="2" name="Ghost Quarter" />
+  </zone>
+</cockatrice_deck>

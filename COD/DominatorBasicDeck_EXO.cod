@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dominator - Basic Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="26" name="Island" />
+    <card number="2" name="Cloud Spirit" />
+    <card number="4" name="Thalakos Scout" />
+    <card number="1" name="Dominating Licid" />
+    <card number="2" name="Mirozel" />
+    <card number="2" name="Wayward Soul" />
+    <card number="2" name="Killer Whale" />
+    <card number="1" name="Erratic Portal" />
+    <card number="1" name="Equilibrium" />
+    <card number="1" name="Legacy's Allure" />
+    <card number="1" name="Propaganda" />
+    <card number="1" name="Treasure Trove" />
+    <card number="2" name="Capsize" />
+    <card number="4" name="Counterspell" />
+    <card number="2" name="Forbid" />
+    <card number="3" name="Mana Leak" />
+    <card number="2" name="Mind Games" />
+    <card number="2" name="Fade Away" />
+    <card number="1" name="Time Ebb" />
+  </zone>
+</cockatrice_deck>

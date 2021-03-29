@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Pulverize</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Mistform Warchief" />
+    <card number="1" name="Mischievous Quanar" />
+    <card number="2" name="Shoreline Ranger" />
+    <card number="1" name="Aven Fateshaper" />
+    <card number="1" name="Thundercloud Elemental" />
+    <card number="3" name="Scornful Egotist" />
+    <card number="2" name="Goblin Machinist" />
+    <card number="1" name="Bloodstoke Howler" />
+    <card number="3" name="Chartooth Cougar" />
+    <card number="1" name="Frenetic Raptor" />
+    <card number="1" name="Macetail Hystrodon" />
+    <card number="1" name="Skittish Valesk" />
+    <card number="2" name="Dispersal Shield" />
+    <card number="2" name="Rush of Knowledge" />
+    <card number="1" name="Parallel Thoughts" />
+    <card number="2" name="Dragon Breath" />
+    <card number="2" name="Pyrostatic Pillar" />
+    <card number="2" name="Carbonize" />
+    <card number="2" name="Erratic Explosion" />
+    <card number="3" name="Torrent of Fire" />
+    <card number="1" name="Slice and Dice" />
+    <card number="12" name="Island" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Blinding Fury</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="17" name="Plains" />
+    <card number="1" name="Archangel" />
+    <card number="1" name="Angel of Light" />
+    <card number="2" name="Charging Paladin" />
+    <card number="3" name="Foot Soldiers" />
+    <card number="3" name="Knight Errant" />
+    <card number="3" name="Venerable Monk" />
+    <card number="2" name="Wild Griffin" />
+    <card number="1" name="Armageddon" />
+    <card number="2" name="Angelic Blessing" />
+    <card number="1" name="Breath of Life" />
+    <card number="1" name="False Peace" />
+    <card number="2" name="Path of Peace" />
+    <card number="1" name="Vengeance" />
+  </zone>
+</cockatrice_deck>

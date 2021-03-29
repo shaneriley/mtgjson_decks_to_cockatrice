@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Painflow</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Diligent Farmhand" />
+    <card number="2" name="Krosan Wayfarer" />
+    <card number="2" name="Nantuko Tracer" />
+    <card number="3" name="Werebear" />
+    <card number="2" name="Anurid Swarmsnapper" />
+    <card number="2" name="Nantuko Elder" />
+    <card number="1" name="Anurid Barkripper" />
+    <card number="2" name="Brawn" />
+    <card number="1" name="Krosan Archer" />
+    <card number="2" name="Rabid Elephant" />
+    <card number="2" name="Battlefield Scrounger" />
+    <card number="4" name="Giant Warthog" />
+    <card number="1" name="Thriss, Nantuko Primus" />
+    <card number="2" name="Tunneler Wurm" />
+    <card number="2" name="Moment's Peace" />
+    <card number="2" name="Deep Reconnaissance" />
+    <card number="1" name="Seton's Desire" />
+    <card number="2" name="Sudden Strength" />
+    <card number="1" name="Grizzly Fate" />
+    <card number="2" name="Roar of the Wurm" />
+    <card number="1" name="Crush of Wurms" />
+    <card number="20" name="Forest" />
+  </zone>
+</cockatrice_deck>

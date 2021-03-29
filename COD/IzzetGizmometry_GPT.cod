@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Izzet Gizmometry</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Gelectrode" />
+    <card number="2" name="Wee Dragonauts" />
+    <card number="1" name="Tibor and Lumia" />
+    <card number="2" name="Izzet Chronarch" />
+    <card number="1" name="Izzet Guildmage" />
+    <card number="2" name="Petrahydrox" />
+    <card number="1" name="Mark of Eviction" />
+    <card number="2" name="Peel from Reality" />
+    <card number="2" name="Telling Time" />
+    <card number="3" name="Train of Thought" />
+    <card number="2" name="Convolute" />
+    <card number="2" name="Runeboggle" />
+    <card number="2" name="Thunderheads" />
+    <card number="1" name="Vacuumelt" />
+    <card number="2" name="Frazzle" />
+    <card number="2" name="Repeal" />
+    <card number="3" name="Pyromatics" />
+    <card number="1" name="Rain of Embers" />
+    <card number="1" name="Reroute" />
+    <card number="1" name="Leyline of Lightning" />
+    <card number="1" name="Electrolyze" />
+    <card number="12" name="Island" />
+    <card number="10" name="Mountain" />
+    <card number="2" name="Izzet Boilerworks" />
+    <card number="1" name="Nivix, Aerie of the Firemind" />
+  </zone>
+</cockatrice_deck>

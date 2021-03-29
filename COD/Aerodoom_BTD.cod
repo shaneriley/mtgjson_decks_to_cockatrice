@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Aerodoom</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Air Elemental" />
+    <card number="1" name="Blizzard Elemental" />
+    <card number="1" name="Clockwork Avian" />
+    <card number="1" name="Cloud Djinn" />
+    <card number="1" name="Cloud Elemental" />
+    <card number="1" name="Fallen Angel" />
+    <card number="1" name="Feral Shadow" />
+    <card number="1" name="Fog Elemental" />
+    <card number="1" name="Giant Crab" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Hollow Dogs" />
+    <card number="1" name="Killer Whale" />
+    <card number="1" name="Leviathan" />
+    <card number="1" name="Mahamoti Djinn" />
+    <card number="1" name="Sengir Vampire" />
+    <card number="1" name="Skittering Horror" />
+    <card number="1" name="Skittering Skirge" />
+    <card number="1" name="Snapping Drake" />
+    <card number="1" name="Tar Pit Warrior" />
+    <card number="1" name="Vigilant Drake" />
+    <card number="1" name="Wayward Soul" />
+    <card number="1" name="Coercion" />
+    <card number="1" name="Death Stroke" />
+    <card number="1" name="Diabolic Vision" />
+    <card number="1" name="Drain Life" />
+    <card number="1" name="Bone Harvest" />
+    <card number="1" name="Brainstorm" />
+    <card number="1" name="Counterspell" />
+    <card number="1" name="Dark Ritual" />
+    <card number="1" name="Diabolic Edict" />
+    <card number="1" name="Impulse" />
+    <card number="1" name="Power Sink" />
+    <card number="1" name="Tolarian Winds" />
+    <card number="1" name="Terror" />
+    <card number="1" name="Gaseous Form" />
+    <card number="1" name="Ebon Stronghold" />
+    <card number="11" name="Island" />
+    <card number="1" name="Polluted Mire" />
+    <card number="1" name="Remote Isle" />
+    <card number="1" name="Svyelunite Temple" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

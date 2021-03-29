@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Liliana</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Diregraf Ghoul" />
+    <card number="1" name="Demon of Catastrophes" />
+    <card number="1" name="Gravewaker" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Reassembling Skeleton" />
+    <card number="1" name="Skeleton Archer" />
+    <card number="2" name="Skymarch Bloodletter" />
+    <card number="2" name="Vampire Sovereign" />
+    <card number="2" name="Walking Corpse" />
+    <card number="1" name="Meteor Golem" />
+    <card number="3" name="Arisen Gorgon" />
+    <card number="4" name="Tattered Mummy" />
+    <card number="2" name="Liliana's Spoils" />
+    <card number="2" name="Blood Divination" />
+    <card number="2" name="Lich's Caress" />
+    <card number="1" name="Sovereign's Bite" />
+    <card number="2" name="Abnormal Endurance" />
+    <card number="2" name="Murder" />
+    <card number="1" name="Strangling Spores" />
+    <card number="26" name="Swamp" />
+    <card number="1" name="Liliana, the Necromancer" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>The Adventurers</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Oran-Rief Survivalist" />
+    <card number="2" name="Highland Berserker" />
+    <card number="1" name="Stonework Puma" />
+    <card number="1" name="Greenweaver Druid" />
+    <card number="1" name="Tajuru Archer" />
+    <card number="1" name="Joraga Bard" />
+    <card number="1" name="Kazuul Warlord" />
+    <card number="2" name="Tuktuk Grunts" />
+    <card number="1" name="Murasa Pyromancer" />
+    <card number="1" name="Turntimber Ranger" />
+    <card number="1" name="Awakener Druid" />
+    <card number="1" name="Borderland Ranger" />
+    <card number="1" name="Beast Hunt" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Overrun" />
+    <card number="1" name="Fireball" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="9" name="Forest" />
+    <card number="8" name="Mountain" />
+    <card number="1" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

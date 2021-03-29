@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Jace, Arcane Strategist</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Primordial Wurm" />
+    <card number="2" name="New Horizons" />
+    <card number="4" name="Simic Guildgate" />
+    <card number="10" name="Island" />
+    <card number="11" name="Forest" />
+    <card number="1" name="Spark Double" />
+    <card number="1" name="Bioessence Hydra" />
+    <card number="2" name="Jace's Ruse" />
+    <card number="1" name="Kiora, Behemoth Beckoner" />
+    <card number="2" name="Kiora's Dambreaker" />
+    <card number="3" name="Bloom Hulk" />
+    <card number="3" name="Pollenbright Druid" />
+    <card number="2" name="Wardscale Crocodile" />
+    <card number="2" name="Merfolk Skydiver" />
+    <card number="4" name="Guildpact Informant" />
+    <card number="3" name="Jace's Projection" />
+    <card number="1" name="Jace's Triumph" />
+    <card number="2" name="Stealth Mission" />
+    <card number="2" name="Band Together" />
+    <card number="2" name="Courage in Crisis" />
+    <card number="1" name="Jace, Arcane Strategist" />
+  </zone>
+</cockatrice_deck>

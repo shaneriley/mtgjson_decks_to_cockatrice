@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Voracious Rage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Deathbellow Raider" />
+    <card number="2" name="Felhide Brawler" />
+    <card number="1" name="Minotaur Skullcleaver" />
+    <card number="1" name="Rageblood Shaman" />
+    <card number="2" name="Ragemonger" />
+    <card number="1" name="Fanatic of Mogis" />
+    <card number="2" name="Borderland Minotaur" />
+    <card number="1" name="Insatiable Harpy" />
+    <card number="1" name="Warchanter of Mogis" />
+    <card number="2" name="Kragma Warcaller" />
+    <card number="1" name="Pharika's Chosen" />
+    <card number="3" name="Pensive Minotaur" />
+    <card number="1" name="Felhide Petrifier" />
+    <card number="1" name="Spawn of Thraxes" />
+    <card number="1" name="Pinnacle of Rage" />
+    <card number="2" name="Flurry of Horns" />
+    <card number="1" name="Rollick of Abandon" />
+    <card number="2" name="Spiteful Blow" />
+    <card number="2" name="Magma Spray" />
+    <card number="1" name="Searing Blood" />
+    <card number="2" name="Starfall" />
+    <card number="1" name="Cast into Darkness" />
+    <card number="1" name="Lightning Diadem" />
+    <card number="14" name="Mountain" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

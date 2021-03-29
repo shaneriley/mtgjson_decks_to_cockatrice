@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Tibalt</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Tibalt, the Fiend-Blooded" />
+    <card number="2" name="Ashmouth Hound" />
+    <card number="1" name="Coal Stoker" />
+    <card number="1" name="Corpse Connoisseur" />
+    <card number="1" name="Gang of Devils" />
+    <card number="1" name="Goblin Arsonist" />
+    <card number="1" name="Hellrider" />
+    <card number="2" name="Hellspark Elemental" />
+    <card number="1" name="Lavaborn Muse" />
+    <card number="1" name="Mad Prophet" />
+    <card number="1" name="Reassembling Skeleton" />
+    <card number="1" name="Scorched Rusalka" />
+    <card number="1" name="Scourge Devil" />
+    <card number="1" name="Shambling Remains" />
+    <card number="1" name="Skirsdag Cultist" />
+    <card number="2" name="Vithian Stinger" />
+    <card number="1" name="Blightning" />
+    <card number="1" name="Breaking Point" />
+    <card number="2" name="Browbeat" />
+    <card number="1" name="Bump in the Night" />
+    <card number="1" name="Devil's Play" />
+    <card number="1" name="Faithless Looting" />
+    <card number="1" name="Flame Slash" />
+    <card number="1" name="Pyroclasm" />
+    <card number="1" name="Recoup" />
+    <card number="1" name="Torrent of Souls" />
+    <card number="1" name="Blazing Salvo" />
+    <card number="1" name="Flame Javelin" />
+    <card number="1" name="Geistflame" />
+    <card number="1" name="Strangling Soot" />
+    <card number="1" name="Terminate" />
+    <card number="1" name="Sulfuric Vortex" />
+    <card number="2" name="Akoum Refuge" />
+    <card number="14" name="Mountain" />
+    <card number="2" name="Rakdos Carnarium" />
+    <card number="6" name="Swamp" />
+  </zone>
+</cockatrice_deck>

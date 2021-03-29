@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Goblins (4)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Krenko, Mob Boss" />
+    <card number="1" name="Goblin Commando" />
+    <card number="1" name="Boggart Brute" />
+    <card number="1" name="Goblin Instigator" />
+    <card number="1" name="Goblin Shortcutter" />
+    <card number="1" name="Ornery Goblin" />
+    <card number="1" name="Goblin Arsonist" />
+    <card number="1" name="Goblin Lore" />
+    <card number="1" name="Goblin Rally" />
+    <card number="1" name="Outnumber" />
+    <card number="1" name="Burn Bright" />
+    <card number="1" name="Makeshift Munitions" />
+    <card number="1" name="Thriving Bluff" />
+    <card number="6" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

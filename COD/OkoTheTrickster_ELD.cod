@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Oko, the Trickster</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Oko, the Trickster" />
+    <card number="1" name="Wildborn Preserver" />
+    <card number="2" name="Faerie Vandal" />
+    <card number="2" name="Mistford River Turtle" />
+    <card number="3" name="Tome Raider" />
+    <card number="2" name="Keeper of Fables" />
+    <card number="1" name="Tuinvale Treefolk // Oaken Boon" />
+    <card number="3" name="Maraleaf Pixie" />
+    <card number="4" name="Oko's Accomplices" />
+    <card number="3" name="Bramblefort Fink" />
+    <card number="1" name="Beanstalk Giant // Fertile Footsteps" />
+    <card number="2" name="Oko's Hospitality" />
+    <card number="1" name="Return of the Wildspeaker" />
+    <card number="3" name="Garenbrig Carver // Shield's Might" />
+    <card number="3" name="Charmed Sleep" />
+    <card number="3" name="Frogify" />
+    <card number="4" name="Thornwood Falls" />
+    <card number="10" name="Island" />
+    <card number="11" name="Forest" />
+  </zone>
+</cockatrice_deck>

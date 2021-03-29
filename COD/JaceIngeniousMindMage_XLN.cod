@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Jace, Ingenious Mind Mage</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Herald of Secret Streams" />
+    <card number="1" name="Fleet Swallower" />
+    <card number="2" name="Kumena's Speaker" />
+    <card number="2" name="Jungle Delver" />
+    <card number="2" name="Deeproot Warrior" />
+    <card number="3" name="Jace's Sentinel" />
+    <card number="2" name="Shaper Apprentice" />
+    <card number="2" name="Vineshaper Mystic" />
+    <card number="2" name="Shapers of Nature" />
+    <card number="2" name="Jade Guardian" />
+    <card number="2" name="Headwater Sentries" />
+    <card number="1" name="Tempest Caller" />
+    <card number="2" name="Air Elemental" />
+    <card number="2" name="Grasping Current" />
+    <card number="3" name="River Heralds' Boon" />
+    <card number="4" name="Castaway's Despair" />
+    <card number="4" name="Woodland Stream" />
+    <card number="11" name="Forest" />
+    <card number="11" name="Island" />
+    <card number="1" name="Jace, Ingenious Mind-Mage" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Core 2019 Welcome Deck - White</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Serra's Guardian" />
+    <card number="1" name="Dwarven Priest" />
+    <card number="1" name="Herald of Faith" />
+    <card number="2" name="Loxodon Line Breaker" />
+    <card number="1" name="Oreskos Swiftclaw" />
+    <card number="1" name="Pegasus Courser" />
+    <card number="1" name="Star-Crowned Stag" />
+    <card number="1" name="Silverbeak Griffin" />
+    <card number="1" name="Sun Sentinel" />
+    <card number="1" name="Rustwing Falcon" />
+    <card number="1" name="Take Vengeance" />
+    <card number="1" name="Inspired Charge" />
+    <card number="1" name="Mighty Leap" />
+    <card number="1" name="Revitalize" />
+    <card number="1" name="Knight's Pledge" />
+    <card number="1" name="Luminous Bonds" />
+    <card number="13" name="Plains" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Chandra</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Chandra, Pyromaster" />
+    <card number="1" name="Avatar of Fury" />
+    <card number="1" name="Inferno Titan" />
+    <card number="1" name="Obsidian Fireheart" />
+    <card number="1" name="Chandra's Phoenix" />
+    <card number="1" name="Skarrgan Firebird" />
+    <card number="2" name="Stormblood Berserker" />
+    <card number="3" name="Blood Ogre" />
+    <card number="1" name="Guttersnipe" />
+    <card number="2" name="Pathmaker Initiate" />
+    <card number="1" name="Torchling" />
+    <card number="1" name="Battle-Rattle Shaman" />
+    <card number="1" name="Grim Lavamancer" />
+    <card number="2" name="Gorehorn Minotaurs" />
+    <card number="1" name="Dualcaster Mage" />
+    <card number="2" name="Tormenting Voice" />
+    <card number="1" name="Limits of Solidarity" />
+    <card number="2" name="Chandra's Outrage" />
+    <card number="1" name="Coordinated Assault" />
+    <card number="1" name="Brute Strength" />
+    <card number="2" name="Volcanic Geyser" />
+    <card number="2" name="Fiery Fall" />
+    <card number="2" name="Searing Spear" />
+    <card number="2" name="Hammerhand" />
+    <card number="23" name="Mountain" />
+    <card number="2" name="Smoldering Spires" />
+  </zone>
+</cockatrice_deck>

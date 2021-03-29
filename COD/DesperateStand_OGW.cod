@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Desperate Stand</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Expedition Envoy" />
+    <card number="1" name="Cliffside Lookout" />
+    <card number="2" name="Kor Castigator" />
+    <card number="2" name="Ondu War Cleric" />
+    <card number="2" name="Serene Steward" />
+    <card number="2" name="Kalastria Healer" />
+    <card number="2" name="Kor Scythemaster" />
+    <card number="2" name="Vampire Envoy" />
+    <card number="1" name="Drana's Emissary" />
+    <card number="2" name="Spawnbinder Mage" />
+    <card number="1" name="Drana's Chosen" />
+    <card number="2" name="Zulaport Chainmage" />
+    <card number="1" name="Cliffhaven Vampire" />
+    <card number="2" name="Kor Entanglers" />
+    <card number="1" name="Munda's Vanguard" />
+    <card number="1" name="Malakir Soothsayer" />
+    <card number="2" name="Allied Reinforcements" />
+    <card number="1" name="Dutiful Return" />
+    <card number="1" name="Dazzling Reflection" />
+    <card number="2" name="Gideon's Reproach" />
+    <card number="2" name="Tar Snare" />
+    <card number="1" name="Smite the Monstrous" />
+    <card number="1" name="Blighted Fen" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="14" name="Plains" />
+    <card number="9" name="Swamp" />
+  </zone>
+</cockatrice_deck>

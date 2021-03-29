@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Nature of the Beast</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Archangel" />
+    <card number="1" name="Avenger of Zendikar" />
+    <card number="1" name="Baloth Woodcrasher" />
+    <card number="1" name="Crater Hellion" />
+    <card number="1" name="Deadwood Treefolk" />
+    <card number="1" name="Drumhunter" />
+    <card number="1" name="Eternal Dragon" />
+    <card number="1" name="Gahiji, Honored One" />
+    <card number="1" name="Grazing Gladehart" />
+    <card number="1" name="Krosan Tusker" />
+    <card number="1" name="Krosan Warchief" />
+    <card number="1" name="Magus of the Arena" />
+    <card number="1" name="Mayael the Anima" />
+    <card number="1" name="Mold Shambler" />
+    <card number="1" name="Naya Soulbeast" />
+    <card number="1" name="Rakeclaw Gargantuan" />
+    <card number="1" name="Rampaging Baloths" />
+    <card number="1" name="Ravenous Baloth" />
+    <card number="1" name="Spellbreaker Behemoth" />
+    <card number="1" name="Spitebellows" />
+    <card number="1" name="Terra Ravager" />
+    <card number="1" name="Valley Rannet" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Fiery Justice" />
+    <card number="1" name="Fireball" />
+    <card number="1" name="From the Ashes" />
+    <card number="1" name="Harmonize" />
+    <card number="1" name="Hull Breach" />
+    <card number="1" name="One Dozen Eyes" />
+    <card number="1" name="Rain of Thorns" />
+    <card number="1" name="Restore" />
+    <card number="1" name="Savage Twister" />
+    <card number="1" name="Slice and Dice" />
+    <card number="1" name="Tempt with Discovery" />
+    <card number="1" name="Wrath of God" />
+    <card number="1" name="Boros Charm" />
+    <card number="1" name="Naya Charm" />
+    <card number="1" name="Slice in Twain" />
+    <card number="1" name="Sprouting Vines" />
+    <card number="1" name="Street Spasm" />
+    <card number="1" name="Behemoth Sledge" />
+    <card number="1" name="Druidic Satchel" />
+    <card number="1" name="Seer's Sundial" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="1" name="Tower of Fortunes" />
+    <card number="1" name="Curse of Chaos" />
+    <card number="1" name="Curse of Predation" />
+    <card number="1" name="Curse of the Forsaken" />
+    <card number="1" name="Darksteel Mutation" />
+    <card number="1" name="Fires of Yavimaya" />
+    <card number="1" name="Mystic Barrier" />
+    <card number="1" name="Spawning Grounds" />
+    <card number="1" name="War Cadence" />
+    <card number="1" name="Warstorm Surge" />
+    <card number="1" name="Where Ancients Tread" />
+    <card number="1" name="Witch Hunt" />
+    <card number="1" name="Boros Garrison" />
+    <card number="1" name="Boros Guildgate" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Contested Cliffs" />
+    <card number="1" name="Drifting Meadow" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="8" name="Forest" />
+    <card number="1" name="Forgotten Cave" />
+    <card number="1" name="Gruul Guildgate" />
+    <card number="1" name="Homeward Path" />
+    <card number="1" name="Jungle Shrine" />
+    <card number="1" name="Khalni Garden" />
+    <card number="1" name="Mosswort Bridge" />
+    <card number="5" name="Mountain" />
+    <card number="1" name="Naya Panorama" />
+    <card number="1" name="New Benalia" />
+    <card number="1" name="Opal Palace" />
+    <card number="4" name="Plains" />
+    <card number="1" name="Rupture Spire" />
+    <card number="1" name="Secluded Steppe" />
+    <card number="1" name="Selesnya Guildgate" />
+    <card number="1" name="Selesnya Sanctuary" />
+    <card number="1" name="Slippery Karst" />
+    <card number="1" name="Smoldering Crater" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Tranquil Thicket" />
+    <card number="1" name="Vitu-Ghazi, the City-Tree" />
+    <card number="1" name="Vivid Crag" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Time Curse</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="17" name="Island" />
+    <card number="2" name="Air Elemental" />
+    <card number="3" name="Ingenious Thief" />
+    <card number="2" name="Giant Octopus" />
+    <card number="3" name="Wind Drake" />
+    <card number="2" name="Counterspell" />
+    <card number="1" name="Exhaustion" />
+    <card number="2" name="Extinguish" />
+    <card number="1" name="Ransack" />
+    <card number="3" name="Remove Soul" />
+    <card number="1" name="Time Warp" />
+    <card number="2" name="Touch of Brilliance" />
+    <card number="1" name="Undo" />
+  </zone>
+</cockatrice_deck>

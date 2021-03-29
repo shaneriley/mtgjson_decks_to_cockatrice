@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Elementals' Path</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Wispmare" />
+    <card number="1" name="Dawnfluke" />
+    <card number="1" name="Mulldrifter" />
+    <card number="2" name="Aethersnipe" />
+    <card number="1" name="Shriekmaw" />
+    <card number="2" name="Mournwhelk" />
+    <card number="1" name="Flamekin Bladewhirl" />
+    <card number="2" name="Flamekin Brawler" />
+    <card number="2" name="Flamekin Harbinger" />
+    <card number="3" name="Smokebraider" />
+    <card number="3" name="Soulbright Flamekin" />
+    <card number="1" name="Incandescent Soulstoke" />
+    <card number="2" name="Inner-Flame Igniter" />
+    <card number="1" name="Inner-Flame Acolyte" />
+    <card number="2" name="Ceaseless Searblades" />
+    <card number="2" name="Changeling Berserker" />
+    <card number="1" name="Faultgrinder" />
+    <card number="1" name="Briarhorn" />
+    <card number="1" name="Changeling Titan" />
+    <card number="1" name="Horde of Notions" />
+    <card number="3" name="Consuming Bonfire" />
+    <card number="2" name="Springleaf Drum" />
+    <card number="3" name="Wanderer's Twig" />
+    <card number="1" name="Plains" />
+    <card number="2" name="Island" />
+    <card number="2" name="Swamp" />
+    <card number="12" name="Mountain" />
+    <card number="1" name="Forest" />
+    <card number="2" name="Shimmering Grotto" />
+    <card number="1" name="Vivid Crag" />
+  </zone>
+</cockatrice_deck>

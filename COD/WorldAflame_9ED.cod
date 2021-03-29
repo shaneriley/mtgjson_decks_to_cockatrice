@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>World Aflame</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Balduvian Barbarians" />
+    <card number="3" name="Hill Giant" />
+    <card number="1" name="Magnivore" />
+    <card number="2" name="Anarchist" />
+    <card number="1" name="Dancing Scimitar" />
+    <card number="3" name="Volcanic Hammer" />
+    <card number="1" name="Panic Attack" />
+    <card number="2" name="Stone Rain" />
+    <card number="2" name="Demolish" />
+    <card number="2" name="Lava Axe" />
+    <card number="1" name="Wildfire" />
+    <card number="1" name="Blaze" />
+    <card number="1" name="Dragon's Claw" />
+    <card number="17" name="Mountain" />
+  </zone>
+</cockatrice_deck>

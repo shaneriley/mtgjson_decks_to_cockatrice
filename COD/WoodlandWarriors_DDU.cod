@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Woodland Warriors</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ezuri, Renegade Leader" />
+    <card number="1" name="Dwynen, Gilt-Leaf Daen" />
+    <card number="1" name="Elvish Archdruid" />
+    <card number="1" name="Gladehart Cavalry" />
+    <card number="1" name="Regal Force" />
+    <card number="2" name="Sylvan Advocate" />
+    <card number="1" name="Elvish Aberration" />
+    <card number="2" name="Elvish Branchbender" />
+    <card number="2" name="Elvish Mystic" />
+    <card number="1" name="Elvish Vanguard" />
+    <card number="1" name="Fierce Empath" />
+    <card number="2" name="Ivy Lane Denizen" />
+    <card number="1" name="Krosan Tusker" />
+    <card number="1" name="Kujar Seedsculptor" />
+    <card number="2" name="Leaf Gilder" />
+    <card number="1" name="Llanowar Empath" />
+    <card number="1" name="Wildheart Invoker" />
+    <card number="2" name="Jagged-Scar Archers" />
+    <card number="1" name="Viridian Shaman" />
+    <card number="1" name="Lead the Stampede" />
+    <card number="1" name="Naturalize" />
+    <card number="1" name="Oran-Rief, the Vastwood" />
+    <card number="18" name="Forest" />
+    <card number="2" name="Tranquil Thicket" />
+    <card number="2" name="Treetop Village" />
+    <card number="1" name="Talara's Battalion" />
+    <card number="1" name="Yeva, Nature's Herald" />
+    <card number="2" name="Ezuri's Archers" />
+    <card number="2" name="Dwynen's Elite" />
+    <card number="2" name="Nature's Way" />
+    <card number="2" name="Nissa's Judgment" />
+  </zone>
+</cockatrice_deck>

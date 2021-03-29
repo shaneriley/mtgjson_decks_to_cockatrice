@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Grave Danger</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Aquamoeba" />
+    <card number="1" name="Cephalid Illusionist" />
+    <card number="1" name="Cephalid Vandal" />
+    <card number="2" name="Cephalid Looter" />
+    <card number="1" name="Skywing Aven" />
+    <card number="1" name="Balshan Collaborator" />
+    <card number="1" name="Cephalid Broker" />
+    <card number="1" name="Cephalid Aristocrat" />
+    <card number="2" name="Crypt Creeper" />
+    <card number="4" name="Organ Grinder" />
+    <card number="1" name="Painbringer" />
+    <card number="1" name="Zombie Assassin" />
+    <card number="2" name="Psychatog" />
+    <card number="2" name="Careful Study" />
+    <card number="2" name="Obsessive Search" />
+    <card number="2" name="Compulsion" />
+    <card number="1" name="False Memories" />
+    <card number="2" name="Churning Eddy" />
+    <card number="1" name="Breakthrough" />
+    <card number="2" name="Chainer's Edict" />
+    <card number="1" name="Morgue Theft" />
+    <card number="2" name="Afflict" />
+    <card number="11" name="Island" />
+    <card number="11" name="Swamp" />
+    <card number="2" name="Tainted Isle" />
+  </zone>
+</cockatrice_deck>

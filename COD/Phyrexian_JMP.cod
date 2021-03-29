@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Phyrexian</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Sheoldred, Whispering One" />
+    <card number="1" name="Entomber Exarch" />
+    <card number="1" name="Phyrexian Gargantua" />
+    <card number="1" name="Myr Sire" />
+    <card number="1" name="Perilous Myr" />
+    <card number="1" name="Phyrexian Broodlings" />
+    <card number="1" name="Phyrexian Debaser" />
+    <card number="1" name="Phyrexian Rager" />
+    <card number="1" name="Douse in Gloom" />
+    <card number="1" name="Malefic Scythe" />
+    <card number="1" name="Phyrexian Reclamation" />
+    <card number="1" name="Parasitic Implant" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

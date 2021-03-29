@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Black Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Barony Vampire" />
+    <card number="2" name="Bartizan Bats" />
+    <card number="1" name="Bogstomper" />
+    <card number="1" name="Feral Abomination" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Gravewaker" />
+    <card number="1" name="Skeleton Archer" />
+    <card number="3" name="Walking Corpse" />
+    <card number="1" name="Agonizing Syphon" />
+    <card number="1" name="Disentomb" />
+    <card number="1" name="Dark Remedy" />
+    <card number="1" name="Disfigure" />
+    <card number="1" name="Murder" />
+    <card number="13" name="Swamp" />
+  </zone>
+</cockatrice_deck>

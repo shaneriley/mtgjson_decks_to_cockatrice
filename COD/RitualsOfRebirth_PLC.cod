@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rituals of Rebirth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="11" name="Forest" />
+    <card number="4" name="Plains" />
+    <card number="7" name="Swamp" />
+    <card number="2" name="Terramorphic Expanse" />
+    <card number="1" name="Bog Serpent" />
+    <card number="2" name="Essence Warden" />
+    <card number="3" name="Fa'adiyah Seer" />
+    <card number="2" name="Greenseeker" />
+    <card number="2" name="Havenwood Wurm" />
+    <card number="2" name="Icatian Crier" />
+    <card number="1" name="Jedit Ojanen of Efrava" />
+    <card number="2" name="Jedit's Dragoons" />
+    <card number="3" name="Phantasmagorian" />
+    <card number="1" name="Sengir Autocrat" />
+    <card number="1" name="Spike Feeder" />
+    <card number="1" name="Teneb, the Harvester" />
+    <card number="1" name="Twisted Abomination" />
+    <card number="1" name="Wall of Roots" />
+    <card number="3" name="Evolution Charm" />
+    <card number="2" name="Rebuff the Wicked" />
+    <card number="3" name="Dread Return" />
+    <card number="2" name="Harmonize" />
+    <card number="2" name="Search for Tomorrow" />
+    <card number="1" name="Resurrection" />
+  </zone>
+</cockatrice_deck>

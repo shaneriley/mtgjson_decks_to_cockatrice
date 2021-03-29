@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Lands (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Oracle of Mul Daya" />
+    <card number="1" name="Awakener Druid" />
+    <card number="1" name="Feral Hydra" />
+    <card number="1" name="Woodborn Behemoth" />
+    <card number="1" name="Fa'adiyah Seer" />
+    <card number="1" name="Fertilid" />
+    <card number="1" name="Sporemound" />
+    <card number="1" name="Sylvan Ranger" />
+    <card number="1" name="Wildheart Invoker" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Crushing Canopy" />
+    <card number="1" name="Elemental Uprising" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

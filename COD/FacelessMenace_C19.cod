@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Faceless Menace</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Vraska the Unseen" />
+    <card number="1" name="Rayami, First of the Fallen" />
+    <card number="1" name="Volrath, the Shapestealer" />
+    <card number="1" name="Kadena's Silencer" />
+    <card number="1" name="Thought Sponge" />
+    <card number="1" name="Thieving Amalgam" />
+    <card number="1" name="Apex Altisaur" />
+    <card number="1" name="Grismold, the Dreadsower" />
+    <card number="1" name="Deathmist Raptor" />
+    <card number="1" name="Hooded Hydra" />
+    <card number="1" name="Chromeshell Crab" />
+    <card number="1" name="Ixidron" />
+    <card number="1" name="Kheru Spellsnatcher" />
+    <card number="1" name="Stratus Dancer" />
+    <card number="1" name="Thousand Winds" />
+    <card number="1" name="Vesuvan Shapeshifter" />
+    <card number="1" name="Bane of the Living" />
+    <card number="1" name="Grim Haruspex" />
+    <card number="1" name="Silumgar Assassin" />
+    <card number="1" name="Den Protector" />
+    <card number="1" name="Seedborn Muse" />
+    <card number="1" name="Thelonite Hermit" />
+    <card number="1" name="Sagu Mauler" />
+    <card number="1" name="Voice of Many" />
+    <card number="1" name="Scaretiller" />
+    <card number="1" name="Willbender" />
+    <card number="1" name="Skinthinner" />
+    <card number="1" name="Ainok Survivalist" />
+    <card number="1" name="Great Oak Guardian" />
+    <card number="1" name="Nantuko Vigilante" />
+    <card number="1" name="Sakura-Tribe Elder" />
+    <card number="1" name="Icefeather Aven" />
+    <card number="1" name="Road of Return" />
+    <card number="1" name="Ghastly Conscription" />
+    <card number="1" name="Hex" />
+    <card number="1" name="Overwhelming Stampede" />
+    <card number="1" name="Tempt with Discovery" />
+    <card number="1" name="Mire in Misery" />
+    <card number="1" name="Tezzeret's Gambit" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Explore" />
+    <card number="1" name="Farseek" />
+    <card number="1" name="Urban Evolution" />
+    <card number="1" name="Sudden Substitution" />
+    <card number="1" name="Biomass Mutation" />
+    <card number="1" name="Leadership Vacuum" />
+    <card number="1" name="Echoing Truth" />
+    <card number="1" name="Reality Shift" />
+    <card number="1" name="Putrefy" />
+    <card number="1" name="Sultai Charm" />
+    <card number="1" name="Pendant of Prosperity" />
+    <card number="1" name="Scroll of Fate" />
+    <card number="1" name="Strionic Resonator" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Thran Dynamo" />
+    <card number="1" name="Gift of Doom" />
+    <card number="1" name="Trail of Mystery" />
+    <card number="1" name="Bounty of the Luxa" />
+    <card number="1" name="Secret Plans" />
+    <card number="1" name="Darkwater Catacombs" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Llanowar Wastes" />
+    <card number="1" name="Shrine of the Forsaken Gods" />
+    <card number="1" name="Sunken Hollow" />
+    <card number="1" name="Thespian's Stage" />
+    <card number="1" name="Yavimaya Coast" />
+    <card number="5" name="Island" />
+    <card number="3" name="Swamp" />
+    <card number="7" name="Forest" />
+    <card number="1" name="Ash Barrens" />
+    <card number="1" name="Bojuka Bog" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Dimir Aqueduct" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Foul Orchard" />
+    <card number="1" name="Golgari Guildgate" />
+    <card number="1" name="Golgari Rot Farm" />
+    <card number="1" name="Jungle Hollow" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Opulent Palace" />
+    <card number="1" name="Reliquary Tower" />
+    <card number="1" name="Simic Growth Chamber" />
+    <card number="1" name="Simic Guildgate" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Thornwood Falls" />
+    <card number="1" name="Woodland Stream" />
+  </zone>
+</cockatrice_deck>

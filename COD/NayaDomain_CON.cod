@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Naya Domain</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Wandering Goblins" />
+    <card number="1" name="Ember Weaver" />
+    <card number="2" name="Matca Rioters" />
+    <card number="1" name="Aven Trailblazer" />
+    <card number="1" name="Woolly Thoctar" />
+    <card number="1" name="Kranioceros" />
+    <card number="1" name="Beacon Behemoth" />
+    <card number="1" name="Paleoloth" />
+    <card number="1" name="Meglonoth" />
+    <card number="1" name="Vagrant Plowbeasts" />
+    <card number="2" name="Rampant Growth" />
+    <card number="1" name="Shard Convergence" />
+    <card number="2" name="Spore Burst" />
+    <card number="1" name="Might of Alara" />
+    <card number="1" name="Path to Exile" />
+    <card number="1" name="Drag Down" />
+    <card number="2" name="Sylvan Bounty" />
+    <card number="1" name="Kaleidostone" />
+    <card number="1" name="Manaforce Mace" />
+    <card number="1" name="Pacifism" />
+    <card number="3" name="Plains" />
+    <card number="1" name="Island" />
+    <card number="1" name="Swamp" />
+    <card number="3" name="Mountain" />
+    <card number="6" name="Forest" />
+    <card number="3" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Cunning Plan</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Monastery Swiftspear" />
+    <card number="2" name="Jeskai Elder" />
+    <card number="2" name="Jeskai Sage" />
+    <card number="1" name="Welkin Tern" />
+    <card number="2" name="Jeskai Windscout" />
+    <card number="1" name="Bloodfire Expert" />
+    <card number="2" name="Lotus Path Djinn" />
+    <card number="2" name="Mistfire Adept" />
+    <card number="2" name="Aven Surveyor" />
+    <card number="1" name="Dragon-Style Twins" />
+    <card number="1" name="Riverwheel Aerialists" />
+    <card number="1" name="Sage-Eye Avengers" />
+    <card number="1" name="Void Snare" />
+    <card number="1" name="Arc Lightning" />
+    <card number="1" name="Bathe in Dragonfire" />
+    <card number="1" name="Hordeling Outburst" />
+    <card number="1" name="Refocus" />
+    <card number="3" name="Lightning Strike" />
+    <card number="2" name="Crippling Chill" />
+    <card number="1" name="Whisk Away" />
+    <card number="2" name="Winterflame" />
+    <card number="1" name="Weave Fate" />
+    <card number="1" name="Cunning Strike" />
+    <card number="1" name="Quiet Contemplation" />
+    <card number="1" name="Goblinslide" />
+    <card number="3" name="Swiftwater Cliffs" />
+    <card number="12" name="Island" />
+    <card number="10" name="Mountain" />
+  </zone>
+</cockatrice_deck>

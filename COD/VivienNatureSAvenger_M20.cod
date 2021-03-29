@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vivien, Nature's Avenger</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Aggressive Mammoth" />
+    <card number="4" name="Greenwood Sentinel" />
+    <card number="3" name="Rabid Bite" />
+    <card number="1" name="Might of the Masses" />
+    <card number="3" name="Titanic Growth" />
+    <card number="25" name="Forest" />
+    <card number="1" name="Wakeroot Elemental" />
+    <card number="2" name="Ethereal Elk" />
+    <card number="3" name="Barkhide Troll" />
+    <card number="3" name="Silverback Shaman" />
+    <card number="3" name="Gnarlback Rhino" />
+    <card number="4" name="Vivien's Crocodile" />
+    <card number="4" name="Growth Cycle" />
+    <card number="2" name="Season of Growth" />
+    <card number="1" name="Vivien, Nature's Avenger" />
+  </zone>
+</cockatrice_deck>

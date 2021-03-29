@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dark Sacrifice</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Champion of the Parish" />
+    <card number="1" name="Disciple of Griselbrand" />
+    <card number="2" name="Doomed Traveler" />
+    <card number="2" name="Elder Cathar" />
+    <card number="2" name="Elgaud Inquisitor" />
+    <card number="3" name="Falkenrath Torturer" />
+    <card number="1" name="Fiend of the Shadows" />
+    <card number="2" name="Galvanic Juggernaut" />
+    <card number="1" name="Mausoleum Guard" />
+    <card number="1" name="Selfless Cathar" />
+    <card number="1" name="Skirsdag Flayer" />
+    <card number="2" name="Unruly Mob" />
+    <card number="2" name="Village Cannibals" />
+    <card number="1" name="Wakedancer" />
+    <card number="2" name="Death's Caress" />
+    <card number="3" name="Gather the Townsfolk" />
+    <card number="1" name="Lingering Souls" />
+    <card number="2" name="Night Terrors" />
+    <card number="1" name="Unburial Rites" />
+    <card number="2" name="Altar's Reap" />
+    <card number="1" name="Gravepurge" />
+    <card number="1" name="Avacyn's Collar" />
+    <card number="1" name="Demonmail Hauberk" />
+    <card number="1" name="Haunted Fengraf" />
+    <card number="12" name="Plains" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

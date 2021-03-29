@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Chandra, Flame's Catalyst</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Chandra, Flame's Catalyst" />
+    <card number="1" name="Chandra's Incinerator" />
+    <card number="2" name="Chandra's Firemaw" />
+    <card number="2" name="Blisterspit Gremlin" />
+    <card number="2" name="Pyroceratops" />
+    <card number="3" name="Chandra's Pyreling" />
+    <card number="3" name="Heartfire Immolator" />
+    <card number="2" name="Spellgorger Weird" />
+    <card number="3" name="Keral Keep Disciples" />
+    <card number="4" name="Storm Caller" />
+    <card number="2" name="Slaying Fire" />
+    <card number="2" name="Infuriate" />
+    <card number="3" name="Shock" />
+    <card number="2" name="Unleash Fury" />
+    <card number="2" name="Sure Strike" />
+    <card number="1" name="Double Vision" />
+    <card number="24" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

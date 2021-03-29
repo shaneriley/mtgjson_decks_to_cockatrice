@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Draconic Fury</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Fiendish Duo" />
+    <card number="1" name="Drakuseth, Maw of Flames" />
+    <card number="1" name="Akoum Hellkite" />
+    <card number="1" name="Lathliss, Dragon Queen" />
+    <card number="1" name="Glint-Horn Buccaneer" />
+    <card number="1" name="Dragon Mage" />
+    <card number="2" name="Goblin Smuggler" />
+    <card number="2" name="Keldon Raider" />
+    <card number="4" name="Pack Mastiff" />
+    <card number="2" name="Ripscale Predator" />
+    <card number="2" name="Dragon Egg" />
+    <card number="2" name="Kargan Dragonrider" />
+    <card number="2" name="Sparktongue Dragon" />
+    <card number="2" name="Voldaren Duelist" />
+    <card number="1" name="Zealot of the God-Pharaoh" />
+    <card number="1" name="Howling Golem" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Tectonic Rift" />
+    <card number="1" name="Destructive Tampering" />
+    <card number="1" name="Chandra's Outrage" />
+    <card number="1" name="Shock" />
+    <card number="1" name="Brute Strength" />
+    <card number="2" name="Lightning Strike" />
+    <card number="26" name="Mountain" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Plus One (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Armorcraft Judge" />
+    <card number="1" name="Nessian Hornbeetle" />
+    <card number="1" name="Ironshell Beetle" />
+    <card number="1" name="Fertilid" />
+    <card number="1" name="Wildwood Scourge" />
+    <card number="1" name="Trufflesnout" />
+    <card number="1" name="Pridemalkin" />
+    <card number="1" name="Hunter's Edge" />
+    <card number="1" name="Arbor Armament" />
+    <card number="1" name="Invigorating Surge" />
+    <card number="1" name="Primeval Bounty" />
+    <card number="1" name="Thriving Grove" />
+    <card number="7" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

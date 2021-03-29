@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Eldrazi Assault</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Sludge Crawler" />
+    <card number="3" name="Culling Drone" />
+    <card number="2" name="Kozilek's Sentinel" />
+    <card number="2" name="Forerunner of Slaughter" />
+    <card number="2" name="Nettle Drone" />
+    <card number="2" name="Vile Aggregate" />
+    <card number="2" name="Dominator Drone" />
+    <card number="3" name="Vestige of Emrakul" />
+    <card number="2" name="Mind Raker" />
+    <card number="1" name="Silent Skimmer" />
+    <card number="1" name="Barrage Tyrant" />
+    <card number="2" name="Processor Assault" />
+    <card number="2" name="Transgress the Mind" />
+    <card number="2" name="Touch of the Void" />
+    <card number="2" name="Swarm Surge" />
+    <card number="1" name="Serpentine Spike" />
+    <card number="1" name="Complete Disregard" />
+    <card number="1" name="Grip of Desolation" />
+    <card number="2" name="Molten Nursery" />
+    <card number="1" name="Blighted Fen" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="2" name="Looming Spires" />
+    <card number="10" name="Swamp" />
+    <card number="10" name="Mountain" />
+  </zone>
+</cockatrice_deck>

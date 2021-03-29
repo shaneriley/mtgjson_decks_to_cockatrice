@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Huatli, Dinosaur Knight</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Sun-Blessed Mount" />
+    <card number="1" name="Goring Ceratops" />
+    <card number="1" name="Burning Sun's Avatar" />
+    <card number="2" name="Kinjalli's Caller" />
+    <card number="4" name="Huatli's Snubhorn" />
+    <card number="2" name="Raptor Companion" />
+    <card number="2" name="Tilonalli's Knight" />
+    <card number="2" name="Frenzied Raptor" />
+    <card number="2" name="Territorial Hammerskull" />
+    <card number="2" name="Bonded Horncrest" />
+    <card number="2" name="Pterodon Knight" />
+    <card number="2" name="Shining Aerosaur" />
+    <card number="3" name="Huatli's Spurring" />
+    <card number="2" name="Slash of Talons" />
+    <card number="2" name="Lightning Strike" />
+    <card number="2" name="Rallying Roar" />
+    <card number="4" name="Stone Quarry" />
+    <card number="11" name="Mountain" />
+    <card number="11" name="Plains" />
+    <card number="1" name="Huatli, Dinosaur Knight" />
+  </zone>
+</cockatrice_deck>

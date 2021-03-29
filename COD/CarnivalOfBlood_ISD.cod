@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Carnival of Blood</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Bloodcrazed Neonate" />
+    <card number="2" name="Blood Seeker" />
+    <card number="1" name="Child of Night" />
+    <card number="2" name="Vampire Interloper" />
+    <card number="2" name="Rakish Heir" />
+    <card number="2" name="Markov Patrician" />
+    <card number="2" name="Crossway Vampire" />
+    <card number="2" name="Falkenrath Noble" />
+    <card number="1" name="Night Revelers" />
+    <card number="2" name="Stromkirk Patrol" />
+    <card number="1" name="Falkenrath Marauders" />
+    <card number="1" name="Sengir Vampire" />
+    <card number="1" name="Night Terrors" />
+    <card number="1" name="Traitorous Blood" />
+    <card number="1" name="Tectonic Rift" />
+    <card number="1" name="Diabolic Tutor" />
+    <card number="1" name="Fireball" />
+    <card number="2" name="Vampiric Fury" />
+    <card number="2" name="Tribute to Hunger" />
+    <card number="1" name="Traveler's Amulet" />
+    <card number="1" name="Cobbled Wings" />
+    <card number="2" name="Mask of Avacyn" />
+    <card number="1" name="Gruesome Deformity" />
+    <card number="1" name="Curse of Stalked Prey" />
+    <card number="12" name="Mountain" />
+    <card number="12" name="Swamp" />
+  </zone>
+</cockatrice_deck>

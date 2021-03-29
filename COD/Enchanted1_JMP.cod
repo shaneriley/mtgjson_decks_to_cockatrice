@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Enchanted (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Kor Spiritdancer" />
+    <card number="1" name="Blessed Spirits" />
+    <card number="1" name="Stone Haven Pilgrim" />
+    <card number="1" name="Trusty Retriever" />
+    <card number="1" name="Knight of the Tusk" />
+    <card number="1" name="Anointed Chorister" />
+    <card number="1" name="Face of Divinity" />
+    <card number="1" name="Knightly Valor" />
+    <card number="1" name="Forced Worship" />
+    <card number="1" name="Indomitable Will" />
+    <card number="1" name="Faith's Fetters" />
+    <card number="1" name="Dub" />
+    <card number="1" name="Thriving Heath" />
+    <card number="6" name="Plains" />
+    <card number="1" name="Plains" />
+  </zone>
+</cockatrice_deck>

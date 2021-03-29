@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Deadly Instinct</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="17" name="Swamp" />
+    <card number="1" name="Dakmor Lancer" />
+    <card number="2" name="Dakmor Scorpion" />
+    <card number="2" name="Feral Shadow" />
+    <card number="2" name="Gravedigger" />
+    <card number="2" name="Hollow Dogs" />
+    <card number="2" name="Ravenous Rats" />
+    <card number="2" name="Serpent Warrior" />
+    <card number="1" name="Ancient Craving" />
+    <card number="2" name="Chorus of Woe" />
+    <card number="1" name="Dakmor Plague" />
+    <card number="3" name="Hand of Death" />
+    <card number="2" name="Mind Rot" />
+    <card number="1" name="Soul Feast" />
+  </zone>
+</cockatrice_deck>

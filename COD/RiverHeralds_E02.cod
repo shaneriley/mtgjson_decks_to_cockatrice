@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>River Heralds</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Shapers of Nature" />
+    <card number="2" name="Kumena's Speaker" />
+    <card number="2" name="Air Elemental" />
+    <card number="2" name="Deeproot Warrior" />
+    <card number="2" name="Jungle Barrier" />
+    <card number="1" name="Merfolk Sovereign" />
+    <card number="1" name="River Sneak" />
+    <card number="2" name="Shaper Apprentice" />
+    <card number="1" name="Soul of the Harvest" />
+    <card number="1" name="Tempest Caller" />
+    <card number="2" name="Vineshaper Mystic" />
+    <card number="1" name="Waker of the Wilds" />
+    <card number="1" name="Watertrap Weaver" />
+    <card number="2" name="Rancor" />
+    <card number="1" name="Threads of Disloyalty" />
+    <card number="1" name="Vow of Flight" />
+    <card number="1" name="Aether Gale" />
+    <card number="1" name="Concentrate" />
+    <card number="2" name="Prey Upon" />
+    <card number="1" name="Time Warp" />
+    <card number="1" name="Giant Growth" />
+    <card number="2" name="Unsummon" />
+    <card number="2" name="Prismatic Lens" />
+    <card number="2" name="Unknown Shores" />
+    <card number="12" name="Island" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

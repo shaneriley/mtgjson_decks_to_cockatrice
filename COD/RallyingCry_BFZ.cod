@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rallying Cry</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Cliffside Lookout" />
+    <card number="2" name="Kor Bladewhirl" />
+    <card number="2" name="Expedition Envoy" />
+    <card number="2" name="Kor Castigator" />
+    <card number="3" name="Reckless Cohort" />
+    <card number="2" name="Makindi Patrol" />
+    <card number="2" name="Firemantle Mage" />
+    <card number="1" name="Chasm Guide" />
+    <card number="1" name="Ondu Champion" />
+    <card number="1" name="Hero of Goma Fada" />
+    <card number="2" name="Kor Entanglers" />
+    <card number="2" name="Shatterskull Recruit" />
+    <card number="1" name="Angelic Captain" />
+    <card number="1" name="Resolute Blademaster" />
+    <card number="1" name="Angel of Renewal" />
+    <card number="2" name="Lithomancer's Focus" />
+    <card number="2" name="Outnumber" />
+    <card number="2" name="Smite the Monstrous" />
+    <card number="2" name="Inspired Charge" />
+    <card number="1" name="Angelic Gift" />
+    <card number="1" name="Blighted Gorge" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="2" name="Sandstone Bridge" />
+    <card number="10" name="Mountain" />
+    <card number="10" name="Plains" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dragons (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Lathliss, Dragon Queen" />
+    <card number="1" name="Rapacious Dragon" />
+    <card number="1" name="Dragonlord's Servant" />
+    <card number="1" name="Furnace Whelp" />
+    <card number="1" name="Dragon Hatchling" />
+    <card number="1" name="Lightning Shrieker" />
+    <card number="1" name="Gadrak, the Crown-Scourge" />
+    <card number="1" name="Hellkite Punisher" />
+    <card number="1" name="Dragon Fodder" />
+    <card number="1" name="Draconic Roar" />
+    <card number="1" name="Sarkhan's Rage" />
+    <card number="1" name="Thriving Bluff" />
+    <card number="7" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

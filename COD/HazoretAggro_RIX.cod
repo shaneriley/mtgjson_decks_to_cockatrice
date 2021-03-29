@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Hazoret Aggro</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Chandra, Torch of Defiance" />
+    <card number="1" name="Hazoret the Fervent" />
+    <card number="3" name="Soul-Scar Mage" />
+    <card number="4" name="Bomat Courier" />
+    <card number="3" name="Kari Zev, Skyship Raider" />
+    <card number="3" name="Harsh Mentor" />
+    <card number="1" name="Glorybringer" />
+    <card number="4" name="Fanatical Firebrand" />
+    <card number="4" name="Ahn-Crop Crasher" />
+    <card number="4" name="Shock" />
+    <card number="4" name="Lightning Strike" />
+    <card number="2" name="Abrade" />
+    <card number="2" name="Magma Spray" />
+    <card number="4" name="Sunscorched Desert" />
+    <card number="20" name="Mountain" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Magma Spray" />
+    <card number="2" name="Key to the City" />
+    <card number="2" name="Pia Nalaar" />
+    <card number="2" name="Kari Zev's Expertise" />
+    <card number="3" name="Sentinel Totem" />
+    <card number="4" name="Chandra's Defeat" />
+  </zone>
+</cockatrice_deck>

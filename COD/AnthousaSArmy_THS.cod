@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Anthousa's Army</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Elvish Mystic" />
+    <card number="1" name="Favored Hoplite" />
+    <card number="2" name="Deadly Recluse" />
+    <card number="1" name="Setessan Battle Priest" />
+    <card number="1" name="Phalanx Leader" />
+    <card number="2" name="Wingsteed Rider" />
+    <card number="2" name="Chronicler of Heroes" />
+    <card number="2" name="Staunch-Hearted Warrior" />
+    <card number="2" name="Rumbling Baloth" />
+    <card number="1" name="Pheres-Band Centaurs" />
+    <card number="1" name="Setessan Griffin" />
+    <card number="1" name="Anthousa, Setessan Hero" />
+    <card number="2" name="Centaur Battlemaster" />
+    <card number="2" name="Time to Feed" />
+    <card number="1" name="Vanquish the Foul" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Warriors' Lesson" />
+    <card number="2" name="Battlewise Valor" />
+    <card number="2" name="Dauntless Onslaught" />
+    <card number="1" name="Artisan's Sorrow" />
+    <card number="1" name="Bow of Nylea" />
+    <card number="2" name="Pacifism" />
+    <card number="13" name="Forest" />
+    <card number="12" name="Plains" />
+  </zone>
+</cockatrice_deck>

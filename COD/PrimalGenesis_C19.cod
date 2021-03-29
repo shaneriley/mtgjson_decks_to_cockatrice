@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Primal Genesis</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Garruk, Primal Hunter" />
+    <card number="1" name="Atla Palani, Nest Tender" />
+    <card number="1" name="Marisi, Breaker of the Coil" />
+    <card number="1" name="Doomed Artisan" />
+    <card number="1" name="Tectonic Hellion" />
+    <card number="1" name="Ohran Frostfang" />
+    <card number="1" name="Selesnya Eulogist" />
+    <card number="1" name="Tahngarth, First Mate" />
+    <card number="1" name="Angel of Sanctions" />
+    <card number="1" name="Wingmate Roc" />
+    <card number="1" name="Dragonmaster Outcast" />
+    <card number="1" name="Feldon of the Third Path" />
+    <card number="1" name="Giant Adephage" />
+    <card number="1" name="Soul of Zendikar" />
+    <card number="1" name="Trostani, Selesnya's Voice" />
+    <card number="1" name="Desolation Twin" />
+    <card number="1" name="Flamerush Rider" />
+    <card number="1" name="Heart-Piercer Manticore" />
+    <card number="1" name="Rampaging Baloths" />
+    <card number="1" name="Thragtusk" />
+    <card number="1" name="Emmara Tandris" />
+    <card number="1" name="Wayfaring Temple" />
+    <card number="1" name="Cliffside Rescuer" />
+    <card number="1" name="Voice of Many" />
+    <card number="1" name="Scaretiller" />
+    <card number="1" name="Roc Egg" />
+    <card number="1" name="Garruk's Packleader" />
+    <card number="1" name="Sakura-Tribe Elder" />
+    <card number="1" name="Vitu-Ghazi Guildmage" />
+    <card number="1" name="Ghired's Belligerence" />
+    <card number="1" name="Full Flowering" />
+    <card number="1" name="Hour of Reckoning" />
+    <card number="1" name="Phyrexian Rebirth" />
+    <card number="1" name="Shamanic Revelation" />
+    <card number="1" name="Hate Mirage" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Explore" />
+    <card number="1" name="Farseek" />
+    <card number="1" name="Harmonize" />
+    <card number="1" name="Fresh Meat" />
+    <card number="1" name="Momentous Fall" />
+    <card number="1" name="Second Harvest" />
+    <card number="1" name="Rootborn Defenses" />
+    <card number="1" name="Trostani's Judgment" />
+    <card number="1" name="Beast Within" />
+    <card number="1" name="Druid's Deliverance" />
+    <card number="1" name="Slice in Twain" />
+    <card number="1" name="Naya Charm" />
+    <card number="1" name="Sundering Growth" />
+    <card number="1" name="Idol of Oblivion" />
+    <card number="1" name="Mimic Vat" />
+    <card number="1" name="Soul Foundry" />
+    <card number="1" name="Lightning Greaves" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Commander's Insignia" />
+    <card number="1" name="Song of the Worldsoul" />
+    <card number="1" name="Growing Ranks" />
+    <card number="1" name="Intangible Virtue" />
+    <card number="1" name="Colossal Majesty" />
+    <card number="1" name="Elemental Bond" />
+    <card number="1" name="Cinder Glade" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Gargoyle Castle" />
+    <card number="1" name="Sungrass Prairie" />
+    <card number="7" name="Plains" />
+    <card number="4" name="Mountain" />
+    <card number="8" name="Forest" />
+    <card number="1" name="Ash Barrens" />
+    <card number="1" name="Blossoming Sands" />
+    <card number="1" name="Boros Garrison" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Graypelt Refuge" />
+    <card number="1" name="Gruul Turf" />
+    <card number="1" name="Jungle Shrine" />
+    <card number="1" name="Kazandu Refuge" />
+    <card number="1" name="Krosan Verge" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Naya Panorama" />
+    <card number="1" name="Rogue's Passage" />
+    <card number="1" name="Rugged Highlands" />
+    <card number="1" name="Selesnya Sanctuary" />
+    <card number="1" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

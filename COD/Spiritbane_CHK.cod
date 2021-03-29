@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spiritbane</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Akki Avalanchers" />
+    <card number="3" name="Akki Rockspeaker" />
+    <card number="3" name="Battle-Mad Ronin" />
+    <card number="1" name="Brothers Yamazaki" />
+    <card number="1" name="Brothers Yamazaki" />
+    <card number="3" name="Ronin Houndmaster" />
+    <card number="2" name="Akki Coalflinger" />
+    <card number="3" name="Frostwielder" />
+    <card number="2" name="Kumano's Pupils" />
+    <card number="1" name="Kumano, Master Yamabushi" />
+    <card number="2" name="Crushing Pain" />
+    <card number="1" name="Sideswipe" />
+    <card number="3" name="Yamabushi's Flame" />
+    <card number="2" name="Hanabi Blast" />
+    <card number="2" name="Blind with Anger" />
+    <card number="2" name="No-Dachi" />
+    <card number="1" name="Kusari-Gama" />
+    <card number="24" name="Mountain" />
+  </zone>
+</cockatrice_deck>

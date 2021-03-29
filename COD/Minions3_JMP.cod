@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Minions (3)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Dutiful Attendant" />
+    <card number="1" name="Drainpipe Vermin" />
+    <card number="1" name="Ghoulcaller's Accomplice" />
+    <card number="1" name="Nocturnal Feeder" />
+    <card number="1" name="Goremand" />
+    <card number="1" name="Liliana's Devotee" />
+    <card number="1" name="Fetid Imp" />
+    <card number="1" name="Crypt Lurker" />
+    <card number="1" name="Launch Party" />
+    <card number="1" name="Eliminate" />
+    <card number="1" name="Village Rites" />
+    <card number="1" name="Witch's Cauldron" />
+    <card number="1" name="Phyrexian Tower" />
+    <card number="1" name="Thriving Moor" />
+    <card number="5" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

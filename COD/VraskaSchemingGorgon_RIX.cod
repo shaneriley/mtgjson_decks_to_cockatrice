@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vraska, Scheming Gorgon</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Champion of Dusk" />
+    <card number="1" name="Paladin of Atonement" />
+    <card number="1" name="Bishop of the Bloodstained" />
+    <card number="1" name="Deathless Ancient" />
+    <card number="1" name="Dusk Legion Zealot" />
+    <card number="2" name="Queen's Bay Soldier" />
+    <card number="2" name="Skymarch Bloodletter" />
+    <card number="4" name="Vampire Champion" />
+    <card number="1" name="Vicious Conquistador" />
+    <card number="3" name="Vraska's Conquistador" />
+    <card number="1" name="Exultant Skymarcher" />
+    <card number="2" name="Famished Paladin" />
+    <card number="2" name="Inspiring Cleric" />
+    <card number="2" name="Skyblade of the Legion" />
+    <card number="1" name="Legion Lieutenant" />
+    <card number="2" name="Gilded Sentinel" />
+    <card number="2" name="Vraska's Scorn" />
+    <card number="1" name="Recover" />
+    <card number="2" name="Moment of Craving" />
+    <card number="1" name="Bright Reprisal" />
+    <card number="2" name="Moment of Triumph" />
+    <card number="4" name="Forsaken Sanctuary" />
+    <card number="11" name="Swamp" />
+    <card number="9" name="Plains" />
+    <card number="1" name="Vraska, Scheming Gorgon" />
+  </zone>
+</cockatrice_deck>

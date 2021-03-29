@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Call of the Kor</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Nomads en-Kor" />
+    <card number="1" name="Shaman en-Kor" />
+    <card number="2" name="Warrior en-Kor" />
+    <card number="1" name="Soltari Champion" />
+    <card number="2" name="Knight of Dawn" />
+    <card number="1" name="Cloudchaser Eagle" />
+    <card number="4" name="Spirit en-Kor" />
+    <card number="2" name="Lancers en-Kor" />
+    <card number="2" name="Lab Rats" />
+    <card number="1" name="Skeleton Scavengers" />
+    <card number="1" name="Darkling Stalker" />
+    <card number="2" name="Gravedigger" />
+    <card number="1" name="Screeching Harpy" />
+    <card number="1" name="Flickering Ward" />
+    <card number="1" name="Smite" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Temper" />
+    <card number="1" name="Death Stroke" />
+    <card number="2" name="Enfeeblement" />
+    <card number="1" name="Dark Banishing" />
+    <card number="2" name="Evincar's Justice" />
+    <card number="3" name="Endless Scream" />
+    <card number="13" name="Island" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

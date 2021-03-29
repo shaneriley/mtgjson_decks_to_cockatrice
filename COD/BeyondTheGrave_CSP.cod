@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Beyond The Grave</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Insidious Bookworms" />
+    <card number="1" name="Kjeldoran Dead" />
+    <card number="3" name="Gutless Ghoul" />
+    <card number="1" name="Ashen Ghoul" />
+    <card number="2" name="Balduvian Dead" />
+    <card number="2" name="Disciple of Tevesh Szat" />
+    <card number="2" name="Gristle Grinner" />
+    <card number="1" name="Void Maw" />
+    <card number="1" name="Orcish Healer" />
+    <card number="2" name="Orcish Bloodpainter" />
+    <card number="1" name="Deepfire Elemental" />
+    <card number="1" name="Sek'Kuar, Deathkeeper" />
+    <card number="1" name="Dark Ritual" />
+    <card number="3" name="Grim Harvest" />
+    <card number="2" name="Casting of Bones" />
+    <card number="2" name="Dark Banishing" />
+    <card number="2" name="Krovikan Rot" />
+    <card number="1" name="Soul Burn" />
+    <card number="2" name="Death Spark" />
+    <card number="2" name="Barbed Sextant" />
+    <card number="1" name="Coldsteel Heart" />
+    <card number="1" name="Skull Catapult" />
+    <card number="12" name="Swamp" />
+    <card number="9" name="Mountain" />
+    <card number="3" name="Forest" />
+  </zone>
+</cockatrice_deck>

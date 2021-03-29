@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Wild-Eyed Frenzy</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Kookus" />
+    <card number="1" name="Ogre Enforcer" />
+    <card number="2" name="Goblin Recruiter" />
+    <card number="2" name="Goblin Soothsayer" />
+    <card number="2" name="Talruum Piper" />
+    <card number="1" name="Flame Elemental" />
+    <card number="1" name="Viashino Sandstalker" />
+    <card number="3" name="Keeper of Kookus" />
+    <card number="3" name="Goblin Swine-Rider" />
+    <card number="2" name="Goblin Elite Infantry" />
+    <card number="2" name="Goblin Tinkerer" />
+    <card number="2" name="Talruum Champion" />
+    <card number="2" name="Mob Mentality" />
+    <card number="2" name="Goblin Scouts" />
+    <card number="1" name="Unerring Sling" />
+    <card number="3" name="Chaos Charm" />
+    <card number="3" name="Flare" />
+    <card number="2" name="Fireblast" />
+    <card number="2" name="Song of Blood" />
+    <card number="23" name="Mountain" />
+  </zone>
+</cockatrice_deck>

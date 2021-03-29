@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Golgari</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Boneyard Wurm" />
+    <card number="1" name="Brain Weevil" />
+    <card number="1" name="Doomgape" />
+    <card number="1" name="Dreg Mangler" />
+    <card number="2" name="Elves of Deep Shadow" />
+    <card number="1" name="Eternal Witness" />
+    <card number="1" name="Gleancrawler" />
+    <card number="1" name="Golgari Grave-Troll" />
+    <card number="2" name="Golgari Rotwurm" />
+    <card number="1" name="Golgari Thug" />
+    <card number="1" name="Greater Mossdog" />
+    <card number="1" name="Jarad, Golgari Lich Lord" />
+    <card number="1" name="Korozda Guildmage" />
+    <card number="1" name="Plagued Rusalka" />
+    <card number="1" name="Putrid Leech" />
+    <card number="1" name="Ravenous Rats" />
+    <card number="1" name="Reassembling Skeleton" />
+    <card number="1" name="Sadistic Hypnotist" />
+    <card number="1" name="Shambling Shell" />
+    <card number="1" name="Stingerfling Spider" />
+    <card number="1" name="Stinkweed Imp" />
+    <card number="1" name="Grim Flowering" />
+    <card number="1" name="Life // Death" />
+    <card number="1" name="Life from the Loam" />
+    <card number="1" name="Nightmare Void" />
+    <card number="1" name="Twilight's Call" />
+    <card number="1" name="Vigor Mortis" />
+    <card number="1" name="Feast or Famine" />
+    <card number="1" name="Ghoul's Feast" />
+    <card number="2" name="Putrefy" />
+    <card number="1" name="Golgari Signet" />
+    <card number="1" name="Golgari Germination" />
+    <card number="1" name="Yoke of the Damned" />
+    <card number="1" name="Barren Moor" />
+    <card number="1" name="Dakmor Salvage" />
+    <card number="8" name="Forest" />
+    <card number="2" name="Golgari Rot Farm" />
+    <card number="1" name="Svogthos, the Restless Tomb" />
+    <card number="10" name="Swamp" />
+    <card number="1" name="Tranquil Thicket" />
+  </zone>
+</cockatrice_deck>

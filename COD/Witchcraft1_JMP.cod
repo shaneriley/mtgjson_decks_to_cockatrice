@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Witchcraft (1)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Bogbrew Witch" />
+    <card number="1" name="Witch of the Moors" />
+    <card number="1" name="Malakir Familiar" />
+    <card number="1" name="Tempting Witch" />
+    <card number="1" name="Bloodhunter Bat" />
+    <card number="1" name="Cauldron Familiar" />
+    <card number="2" name="Festering Newt" />
+    <card number="1" name="Bake into a Pie" />
+    <card number="1" name="Finishing Blow" />
+    <card number="1" name="Bubbling Cauldron" />
+    <card number="1" name="Witch's Cauldron" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

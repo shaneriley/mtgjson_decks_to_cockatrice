@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Burning Sky</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Bay Falcon" />
+    <card number="2" name="Azimaet Drake" />
+    <card number="1" name="Dream Fighter" />
+    <card number="3" name="Teferi's Drake" />
+    <card number="1" name="Suq'Ata Firewalker" />
+    <card number="1" name="Harmattan Efreet" />
+    <card number="1" name="Vaporous Djinn" />
+    <card number="1" name="Mist Dragon" />
+    <card number="3" name="Pyric Salamander" />
+    <card number="2" name="Wildfire Emissary" />
+    <card number="1" name="Burning Palm Efreet" />
+    <card number="2" name="Flame Elemental" />
+    <card number="2" name="Talruum Minotaur" />
+    <card number="1" name="Subterranean Spirit" />
+    <card number="1" name="Mystical Tutor" />
+    <card number="2" name="Meddle" />
+    <card number="2" name="Boomerang" />
+    <card number="2" name="Dream Cache" />
+    <card number="1" name="Dissipate" />
+    <card number="1" name="Power Sink" />
+    <card number="1" name="Incinerate" />
+    <card number="1" name="Goblin Scouts" />
+    <card number="1" name="Kaervek's Torch" />
+    <card number="12" name="Island" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Timeless Wisdom</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Chandra, Flamecaller" />
+    <card number="1" name="Akim, the Soaring Wind" />
+    <card number="1" name="Brallin, Skyshark Rider" />
+    <card number="1" name="Shabraz, the Skyshark" />
+    <card number="1" name="Cryptic Trilobite" />
+    <card number="1" name="Herald of the Forgotten" />
+    <card number="1" name="Ethereal Forager" />
+    <card number="1" name="Agitator Ant" />
+    <card number="1" name="Spellpyre Phoenix" />
+    <card number="1" name="Surly Badgersaur" />
+    <card number="1" name="Eternal Dragon" />
+    <card number="1" name="Sun Titan" />
+    <card number="1" name="Curator of Mysteries" />
+    <card number="1" name="Nimble Obstructionist" />
+    <card number="1" name="Portal Mage" />
+    <card number="1" name="Isperia, Supreme Judge" />
+    <card number="1" name="Mercurial Chemister" />
+    <card number="1" name="Niv-Mizzet, the Firemind" />
+    <card number="1" name="The Locust God" />
+    <card number="1" name="Psychosis Crawler" />
+    <card number="1" name="Valiant Rescuer" />
+    <card number="1" name="Rooting Moloch" />
+    <card number="1" name="Savai Thundermane" />
+    <card number="1" name="Vizier of Tumbling Sands" />
+    <card number="1" name="Dismantling Wave" />
+    <card number="1" name="Akroma's Vengeance" />
+    <card number="1" name="Decree of Justice" />
+    <card number="1" name="Descend upon the Sinful" />
+    <card number="1" name="Boon of the Wish-Giver" />
+    <card number="1" name="Windfall" />
+    <card number="1" name="Slice and Dice" />
+    <card number="1" name="Migratory Route" />
+    <card number="1" name="Fierce Guardianship" />
+    <card number="1" name="Neutralize" />
+    <card number="1" name="Zenith Flare" />
+    <card number="1" name="Hieroglyphic Illumination" />
+    <card number="1" name="Abandoned Sarcophagus" />
+    <card number="1" name="Fluctuator" />
+    <card number="1" name="Bonder's Ornament" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Azorius Signet" />
+    <card number="1" name="Boros Signet" />
+    <card number="1" name="Commander's Sphere" />
+    <card number="1" name="Izzet Signet" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Raugrin Crystal" />
+    <card number="1" name="Crystalline Resonance" />
+    <card number="1" name="Astral Drift" />
+    <card number="1" name="Hoofprints of the Stag" />
+    <card number="1" name="Drake Haven" />
+    <card number="1" name="New Perspectives" />
+    <card number="1" name="Tectonic Reformation" />
+    <card number="1" name="Ominous Seas" />
+    <card number="1" name="Reconnaissance Mission" />
+    <card number="1" name="Martial Impetus" />
+    <card number="1" name="Psychic Impetus" />
+    <card number="1" name="Shiny Impetus" />
+    <card number="1" name="Cast Out" />
+    <card number="1" name="Spirit Cairn" />
+    <card number="1" name="Lightning Rift" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Hostile Desert" />
+    <card number="1" name="Irrigated Farmland" />
+    <card number="1" name="Prairie Stream" />
+    <card number="1" name="Shivan Reef" />
+    <card number="1" name="Skycloud Expanse" />
+    <card number="1" name="Ash Barrens" />
+    <card number="1" name="Azorius Chancery" />
+    <card number="1" name="Boros Garrison" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Desert of the Fervent" />
+    <card number="1" name="Desert of the Mindful" />
+    <card number="1" name="Desert of the True" />
+    <card number="1" name="Drifting Meadow" />
+    <card number="1" name="Forgotten Cave" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Lonely Sandbar" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Mystic Monastery" />
+    <card number="1" name="Reliquary Tower" />
+    <card number="1" name="Remote Isle" />
+    <card number="1" name="Secluded Steppe" />
+    <card number="1" name="Smoldering Crater" />
+    <card number="1" name="Temple of the False God" />
+    <card number="5" name="Island" />
+    <card number="6" name="Mountain" />
+    <card number="4" name="Plains" />
+  </zone>
+</cockatrice_deck>

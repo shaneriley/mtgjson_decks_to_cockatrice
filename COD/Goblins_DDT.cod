@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Goblins</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Foundry Street Denizen" />
+    <card number="1" name="Goblin Glory Chaser" />
+    <card number="1" name="Goblin Diplomats" />
+    <card number="1" name="Goblin Tunneler" />
+    <card number="1" name="Ember Hauler" />
+    <card number="2" name="Goblin Wardriver" />
+    <card number="1" name="Warren Instigator" />
+    <card number="2" name="Boggart Brute" />
+    <card number="1" name="Gempalm Incinerator" />
+    <card number="1" name="Goblin Rabblemaster" />
+    <card number="1" name="Goblin Chieftain" />
+    <card number="1" name="Goblin Goon" />
+    <card number="2" name="Goblin Ringleader" />
+    <card number="1" name="Goblin Razerunners" />
+    <card number="1" name="Krenko, Mob Boss" />
+    <card number="1" name="Battle Squadron" />
+    <card number="1" name="Goblin Grenade" />
+    <card number="3" name="Krenko's Command" />
+    <card number="1" name="Hordeling Outburst" />
+    <card number="1" name="Relentless Assault" />
+    <card number="1" name="Cleaver Riot" />
+    <card number="2" name="Brute Strength" />
+    <card number="3" name="Ghostfire" />
+    <card number="1" name="Brittle Effigy" />
+    <card number="1" name="Goblin Charbelcher" />
+    <card number="2" name="Blighted Gorge" />
+    <card number="2" name="Forgotten Cave" />
+    <card number="20" name="Mountain" />
+    <card number="2" name="Tarfire" />
+  </zone>
+</cockatrice_deck>

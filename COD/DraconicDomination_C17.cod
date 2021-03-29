@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Draconic Domination</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="O-Kagachi, Vengeful Kami" />
+    <card number="1" name="Ramos, Dragon Engine" />
+    <card number="1" name="Scalelord Reckoner" />
+    <card number="1" name="Boneyard Scourge" />
+    <card number="1" name="Territorial Hellkite" />
+    <card number="1" name="Taigam, Ojutai Master" />
+    <card number="1" name="Wasitora, Nekoru Queen" />
+    <card number="1" name="Ryusei, the Falling Star" />
+    <card number="1" name="Scourge of Valkas" />
+    <card number="1" name="Utvara Hellkite" />
+    <card number="1" name="Sunscorch Regent" />
+    <card number="1" name="Deathbringer Regent" />
+    <card number="1" name="Hellkite Charger" />
+    <card number="1" name="Tyrant's Familiar" />
+    <card number="1" name="Atarka, World Render" />
+    <card number="1" name="Bladewing the Risen" />
+    <card number="1" name="Broodmate Dragon" />
+    <card number="1" name="Crosis, the Purger" />
+    <card number="1" name="Dromoka, the Eternal" />
+    <card number="1" name="Intet, the Dreamer" />
+    <card number="1" name="Kolaghan, the Storm's Fury" />
+    <card number="1" name="Niv-Mizzet, Dracogenius" />
+    <card number="1" name="Ojutai, Soul of Winter" />
+    <card number="1" name="Scion of the Ur-Dragon" />
+    <card number="1" name="Silumgar, the Drifting Death" />
+    <card number="1" name="Spellbound Dragon" />
+    <card number="1" name="Teneb, the Harvester" />
+    <card number="1" name="Steel Hellkite" />
+    <card number="1" name="Orator of Ojutai" />
+    <card number="1" name="Dragonlord's Servant" />
+    <card number="1" name="Dragonspeaker Shaman" />
+    <card number="1" name="Savage Ventmaw" />
+    <card number="1" name="Fortunate Few" />
+    <card number="1" name="Fractured Identity" />
+    <card number="1" name="Crux of Fate" />
+    <card number="1" name="Painful Truths" />
+    <card number="1" name="Earthquake" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Farseek" />
+    <card number="1" name="Kodama's Reach" />
+    <card number="1" name="Rain of Thorns" />
+    <card number="1" name="Fist of Suns" />
+    <card number="1" name="Herald's Horn" />
+    <card number="1" name="Mirror of the Forebears" />
+    <card number="1" name="Armillary Sphere" />
+    <card number="1" name="Commander's Sphere" />
+    <card number="1" name="Darksteel Ingot" />
+    <card number="1" name="Dreamstone Hedron" />
+    <card number="1" name="Lightning Greaves" />
+    <card number="1" name="Nihil Spellbomb" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Wayfarer's Bauble" />
+    <card number="1" name="Kindred Discovery" />
+    <card number="1" name="Monastery Siege" />
+    <card number="1" name="Palace Siege" />
+    <card number="1" name="Crucible of Fire" />
+    <card number="1" name="Dragon Tempest" />
+    <card number="1" name="Frontier Siege" />
+    <card number="1" name="Curse of Verbosity" />
+    <card number="1" name="Curse of Opulence" />
+    <card number="1" name="Curse of Bounty" />
+    <card number="1" name="Elemental Bond" />
+    <card number="1" name="Crucible of the Spirit Dragon" />
+    <card number="1" name="Haven of the Spirit Dragon" />
+    <card number="6" name="Mountain" />
+    <card number="3" name="Swamp" />
+    <card number="3" name="Forest" />
+    <card number="3" name="Plains" />
+    <card number="3" name="Island" />
+    <card number="1" name="Path of Ancestry" />
+    <card number="1" name="Arcane Sanctum" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Crumbling Necropolis" />
+    <card number="1" name="Frontier Bivouac" />
+    <card number="1" name="Jungle Shrine" />
+    <card number="1" name="Mystic Monastery" />
+    <card number="1" name="Nomad Outpost" />
+    <card number="1" name="Opulent Palace" />
+    <card number="1" name="Sandsteppe Citadel" />
+    <card number="1" name="Savage Lands" />
+    <card number="1" name="Seaside Citadel" />
+    <card number="1" name="Vivid Crag" />
+    <card number="1" name="Vivid Creek" />
+    <card number="1" name="Vivid Grove" />
+    <card number="1" name="Vivid Marsh" />
+    <card number="1" name="Vivid Meadow" />
+  </zone>
+</cockatrice_deck>

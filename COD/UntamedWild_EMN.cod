@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Untamed Wild</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Bold Impaler" />
+    <card number="2" name="Furyblade Vampire" />
+    <card number="1" name="Noose Constrictor" />
+    <card number="2" name="Primal Druid" />
+    <card number="2" name="Quilled Wolf" />
+    <card number="3" name="Brazen Wolves" />
+    <card number="2" name="Howlpack Wolf" />
+    <card number="1" name="Silverfur Partisan" />
+    <card number="1" name="Mad Prophet" />
+    <card number="1" name="Voldaren Duelist" />
+    <card number="2" name="Somberwald Stag" />
+    <card number="1" name="Assembled Alphas" />
+    <card number="2" name="Prey Upon" />
+    <card number="1" name="Magmatic Chasm" />
+    <card number="1" name="Lightning Axe" />
+    <card number="1" name="Rush of Adrenaline" />
+    <card number="1" name="Clip Wings" />
+    <card number="1" name="Uncaged Fury" />
+    <card number="1" name="Clear Shot" />
+    <card number="2" name="Spreading Flames" />
+    <card number="2" name="Blood Mist" />
+    <card number="3" name="Wolfkin Bond" />
+    <card number="13" name="Mountain" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

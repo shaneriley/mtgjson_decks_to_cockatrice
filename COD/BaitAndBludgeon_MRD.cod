@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Bait and Bludgeon</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Somber Hoverguard" />
+    <card number="1" name="Broodstar" />
+    <card number="2" name="Nim Shrieker" />
+    <card number="2" name="Steel Wall" />
+    <card number="2" name="Leaden Myr" />
+    <card number="2" name="Myr Retriever" />
+    <card number="2" name="Silver Myr" />
+    <card number="2" name="Bottle Gnomes" />
+    <card number="3" name="Frogmite" />
+    <card number="1" name="Lodestone Myr" />
+    <card number="3" name="Myr Enforcer" />
+    <card number="2" name="Thirst for Knowledge" />
+    <card number="1" name="Thoughtcast" />
+    <card number="2" name="Assert Authority" />
+    <card number="2" name="Irradiate" />
+    <card number="2" name="Aether Spellbomb" />
+    <card number="4" name="Talisman of Dominance" />
+    <card number="1" name="Scale of Chiss-Goria" />
+    <card number="1" name="Serum Tank" />
+    <card number="1" name="Tooth of Chiss-Goria" />
+    <card number="11" name="Island" />
+    <card number="3" name="Swamp" />
+    <card number="4" name="Seat of the Synod" />
+    <card number="4" name="Vault of Whispers" />
+  </zone>
+</cockatrice_deck>

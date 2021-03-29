@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Crusher</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="17" name="Forest" />
+    <card number="4" name="Plains" />
+    <card number="3" name="Drifting Meadow" />
+    <card number="1" name="Treetop Village" />
+    <card number="1" name="Argothian Swine" />
+    <card number="1" name="Cradle Guard" />
+    <card number="1" name="Elvish Herder" />
+    <card number="1" name="Gang of Elk" />
+    <card number="1" name="Lone Wolf" />
+    <card number="2" name="Mother of Runes" />
+    <card number="3" name="Simian Grunts" />
+    <card number="1" name="Ticking Gnomes" />
+    <card number="1" name="Weatherseed Treefolk" />
+    <card number="2" name="Yavimaya Scion" />
+    <card number="2" name="Yavimaya Granger" />
+    <card number="3" name="Yavimaya Wurm" />
+    <card number="2" name="Disenchant" />
+    <card number="1" name="Erase" />
+    <card number="2" name="Humble" />
+    <card number="1" name="Radiant's Judgment" />
+    <card number="1" name="Silk Net" />
+    <card number="1" name="Symbiosis" />
+    <card number="1" name="Gaea's Bounty" />
+    <card number="1" name="Wing Snare" />
+    <card number="1" name="Crosswinds" />
+    <card number="1" name="Defense of the Heart" />
+    <card number="1" name="Gaea's Embrace" />
+    <card number="2" name="Pacifism" />
+    <card number="1" name="Rancor" />
+  </zone>
+</cockatrice_deck>

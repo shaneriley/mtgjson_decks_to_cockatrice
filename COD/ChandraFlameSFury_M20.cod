@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Chandra, Flame's Fury</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Shivan Dragon" />
+    <card number="4" name="Chandra's Spitfire" />
+    <card number="3" name="Ember Hauler" />
+    <card number="3" name="Chandra's Outrage" />
+    <card number="4" name="Shock" />
+    <card number="25" name="Mountain" />
+    <card number="1" name="Drakuseth, Maw of Flames" />
+    <card number="2" name="Chandra's Flame Wave" />
+    <card number="4" name="Pack Mastiff" />
+    <card number="3" name="Scorch Spitter" />
+    <card number="3" name="Pyroclastic Elemental" />
+    <card number="4" name="Wildfire Elemental" />
+    <card number="2" name="Infuriate" />
+    <card number="1" name="Chandra, Flame's Fury" />
+  </zone>
+</cockatrice_deck>

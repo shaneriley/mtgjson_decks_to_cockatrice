@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Suspended Sentence</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Timebender" />
+    <card number="2" name="Dream Stalker" />
+    <card number="1" name="Unblinking Bleb" />
+    <card number="4" name="Infiltrator il-Kor" />
+    <card number="1" name="Riftwing Cloudskate" />
+    <card number="2" name="Augur of Skulls" />
+    <card number="1" name="Deathspore Thallid" />
+    <card number="1" name="Deadly Grub" />
+    <card number="1" name="Shimian Specter" />
+    <card number="1" name="Nihilith" />
+    <card number="2" name="Clockspinning" />
+    <card number="3" name="Paradox Haze" />
+    <card number="3" name="Reality Acid" />
+    <card number="2" name="Reality Strobe" />
+    <card number="1" name="Lost Hours" />
+    <card number="3" name="Ichor Slick" />
+    <card number="2" name="Festering March" />
+    <card number="1" name="Death Rattle" />
+    <card number="2" name="Mindstab" />
+    <card number="1" name="Phthisis" />
+    <card number="10" name="Island" />
+    <card number="9" name="Swamp" />
+    <card number="3" name="Terramorphic Expanse" />
+    <card number="2" name="Zoetic Cavern" />
+  </zone>
+</cockatrice_deck>

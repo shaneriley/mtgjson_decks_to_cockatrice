@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Divine</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Akroma, Angel of Wrath" />
+    <card number="2" name="Angel of Mercy" />
+    <card number="2" name="Angelic Page" />
+    <card number="1" name="Angelic Protector" />
+    <card number="2" name="Charging Paladin" />
+    <card number="2" name="Icatian Priest" />
+    <card number="1" name="Luminous Angel" />
+    <card number="1" name="Reya Dawnbringer" />
+    <card number="2" name="Serra Advocate" />
+    <card number="1" name="Serra Angel" />
+    <card number="2" name="Sustainer of the Realm" />
+    <card number="1" name="Twilight Shepherd" />
+    <card number="2" name="Venerable Monk" />
+    <card number="1" name="Angelsong" />
+    <card number="1" name="Healing Salve" />
+    <card number="2" name="Otherworldly Journey" />
+    <card number="1" name="Angel's Feather" />
+    <card number="2" name="Marble Diamond" />
+    <card number="1" name="Angelic Benediction" />
+    <card number="2" name="Faith's Fetters" />
+    <card number="1" name="Pacifism" />
+    <card number="1" name="Righteous Cause" />
+    <card number="1" name="Serra's Boon" />
+    <card number="1" name="Serra's Embrace" />
+    <card number="24" name="Plains" />
+    <card number="2" name="Secluded Steppe" />
+  </zone>
+</cockatrice_deck>

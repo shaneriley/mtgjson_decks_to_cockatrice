@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Horrific Visions</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Groundskeeper" />
+    <card number="1" name="Loam Dryad" />
+    <card number="3" name="Moldgraf Scavenger" />
+    <card number="2" name="Obsessive Skinner" />
+    <card number="2" name="Wicker Witch" />
+    <card number="1" name="Wild-Field Scarecrow" />
+    <card number="1" name="Inexorable Blob" />
+    <card number="1" name="Crow of Dark Tidings" />
+    <card number="2" name="Tooth Collector" />
+    <card number="2" name="Stallion of Ashmouth" />
+    <card number="1" name="Soul Swallower" />
+    <card number="1" name="Ghoulsteed" />
+    <card number="1" name="Hound of the Farbogs" />
+    <card number="1" name="Morkrut Necropod" />
+    <card number="1" name="Kessig Dire Swine" />
+    <card number="1" name="Fork in the Road" />
+    <card number="1" name="Rabid Bite" />
+    <card number="1" name="Liliana's Indignation" />
+    <card number="1" name="Merciless Resolve" />
+    <card number="1" name="Might Beyond Reason" />
+    <card number="1" name="Throttle" />
+    <card number="2" name="Explosive Apparatus" />
+    <card number="2" name="Dead Weight" />
+    <card number="2" name="Vessel of Nascency" />
+    <card number="1" name="Crawling Sensation" />
+    <card number="1" name="Foul Orchard" />
+    <card number="1" name="Warped Landscape" />
+    <card number="12" name="Forest" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

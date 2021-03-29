@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sliver Evolution</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Two-Headed Sliver" />
+    <card number="3" name="Bonesplitter Sliver" />
+    <card number="2" name="Fury Sliver" />
+    <card number="4" name="Gemhide Sliver" />
+    <card number="1" name="Fungus Sliver" />
+    <card number="2" name="Might Sliver" />
+    <card number="3" name="Sidewinder Sliver" />
+    <card number="3" name="Quilled Sliver" />
+    <card number="3" name="Watcher Sliver" />
+    <card number="1" name="Pulmonic Sliver" />
+    <card number="2" name="Spined Sliver" />
+    <card number="1" name="Harmonic Sliver" />
+    <card number="2" name="Venser's Sliver" />
+    <card number="1" name="Avoid Fate" />
+    <card number="2" name="Strength in Numbers" />
+    <card number="1" name="Molder" />
+    <card number="2" name="Spirit Loop" />
+    <card number="6" name="Mountain" />
+    <card number="8" name="Forest" />
+    <card number="8" name="Plains" />
+    <card number="1" name="Gemstone Mine" />
+    <card number="2" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

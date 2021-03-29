@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Smashing (4)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Etali, Primal Storm" />
+    <card number="1" name="Bloodrage Brawler" />
+    <card number="1" name="Bloodshot Trainee" />
+    <card number="1" name="Borderland Marauder" />
+    <card number="1" name="Heartfire Immolator" />
+    <card number="1" name="Onakke Ogre" />
+    <card number="1" name="Turret Ogre" />
+    <card number="1" name="Bone Pit Brute" />
+    <card number="1" name="Fling" />
+    <card number="1" name="Hungry Flames" />
+    <card number="1" name="Furious Rise" />
+    <card number="1" name="Furor of the Bitten" />
+    <card number="1" name="Thriving Bluff" />
+    <card number="6" name="Mountain" />
+    <card number="1" name="Mountain" />
+  </zone>
+</cockatrice_deck>

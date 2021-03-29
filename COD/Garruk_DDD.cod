@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Garruk</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Garruk Wildspeaker" />
+    <card number="2" name="Albino Troll" />
+    <card number="2" name="Basking Rootwalla" />
+    <card number="2" name="Blastoderm" />
+    <card number="2" name="Indrik Stomphowler" />
+    <card number="1" name="Krosan Tusker" />
+    <card number="1" name="Plated Slagwurm" />
+    <card number="1" name="Ravenous Baloth" />
+    <card number="1" name="Stampeding Wildebeests" />
+    <card number="2" name="Vine Trellis" />
+    <card number="2" name="Wild Mongrel" />
+    <card number="2" name="Wirewood Savage" />
+    <card number="2" name="Harmonize" />
+    <card number="2" name="Nature's Lore" />
+    <card number="1" name="Overrun" />
+    <card number="1" name="Rude Awakening" />
+    <card number="1" name="Beast Attack" />
+    <card number="1" name="Giant Growth" />
+    <card number="1" name="Invigorate" />
+    <card number="1" name="Windstorm" />
+    <card number="2" name="Serrated Arrows" />
+    <card number="1" name="Elephant Guide" />
+    <card number="1" name="Genju of the Cedars" />
+    <card number="1" name="Lignify" />
+    <card number="2" name="Rancor" />
+    <card number="21" name="Forest" />
+    <card number="2" name="Slippery Karst" />
+    <card number="1" name="Treetop Village" />
+  </zone>
+</cockatrice_deck>

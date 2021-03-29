@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Elvish Predation</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Scarred Vinebreeder" />
+    <card number="1" name="Lys Alana Scarblade" />
+    <card number="3" name="Moonglove Winnower" />
+    <card number="1" name="Hunter of Eyeblights" />
+    <card number="2" name="Elvish Eulogist" />
+    <card number="2" name="Leaf Gilder" />
+    <card number="1" name="Wren's Run Vanquisher" />
+    <card number="2" name="Elvish Harbinger" />
+    <card number="3" name="Gilt-Leaf Seer" />
+    <card number="2" name="Imperious Perfect" />
+    <card number="2" name="Jagged-Scar Archers" />
+    <card number="1" name="Immaculate Magistrate" />
+    <card number="2" name="Lys Alana Huntmaster" />
+    <card number="2" name="Nath's Elite" />
+    <card number="1" name="Nath of the Gilt-Leaf" />
+    <card number="1" name="Prowess of the Fair" />
+    <card number="2" name="Eyeblight's Ending" />
+    <card number="1" name="Lammastide Weave" />
+    <card number="2" name="Gilt-Leaf Ambush" />
+    <card number="2" name="Elvish Promenade" />
+    <card number="1" name="Wanderer's Twig" />
+    <card number="9" name="Swamp" />
+    <card number="14" name="Forest" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Savage Stompdown</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Viashivan Dragon" />
+    <card number="2" name="Kyscu Drake" />
+    <card number="2" name="Spitting Drake" />
+    <card number="2" name="Hulking Cyclops" />
+    <card number="1" name="Locust Swarm" />
+    <card number="2" name="Jungle Troll" />
+    <card number="2" name="Giant Caterpillar" />
+    <card number="3" name="Raging Gorilla" />
+    <card number="1" name="Bull Elephant" />
+    <card number="1" name="King Cheetah" />
+    <card number="2" name="Quirion Elves" />
+    <card number="1" name="Crash of Rhinos" />
+    <card number="1" name="Granger Guildmage" />
+    <card number="3" name="Ekundu Cyclops" />
+    <card number="1" name="Natural Order" />
+    <card number="1" name="Creeping Mold" />
+    <card number="1" name="Volcanic Geyser" />
+    <card number="2" name="Unyaro Bee Sting" />
+    <card number="1" name="Hearth Charm" />
+    <card number="1" name="Emerald Charm" />
+    <card number="3" name="Feral Instinct" />
+    <card number="2" name="Rock Slide" />
+    <card number="12" name="Mountain" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

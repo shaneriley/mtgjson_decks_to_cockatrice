@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Fiery Fury</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="23" name="Mountain" />
+    <card number="1" name="Crystal Vein" />
+    <card number="3" name="Bloodrock Cyclops" />
+    <card number="3" name="Goblin Vandal" />
+    <card number="1" name="Hulking Cyclops" />
+    <card number="3" name="Lava Hounds" />
+    <card number="2" name="Roc Hatchling" />
+    <card number="1" name="Suq'Ata Lancer" />
+    <card number="2" name="Talruum Minotaur" />
+    <card number="2" name="Viashino Sandstalker" />
+    <card number="1" name="Wildfire Emissary" />
+    <card number="2" name="Fireblast" />
+    <card number="1" name="Firestorm" />
+    <card number="3" name="Incinerate" />
+    <card number="1" name="Thunderbolt" />
+    <card number="2" name="Spitting Earth" />
+    <card number="3" name="Cone of Flame" />
+    <card number="2" name="Kaervek's Torch" />
+    <card number="1" name="Heart of Bogardan" />
+    <card number="3" name="Mind Stone" />
+  </zone>
+</cockatrice_deck>

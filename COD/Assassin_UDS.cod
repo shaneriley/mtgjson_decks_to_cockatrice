@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Assassin</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Ravenous Rats" />
+    <card number="2" name="Squirming Mass" />
+    <card number="1" name="Bone Shredder" />
+    <card number="2" name="Looming Shade" />
+    <card number="1" name="Sanguine Guard" />
+    <card number="2" name="Nightshade Seer" />
+    <card number="2" name="Slinking Skirge" />
+    <card number="1" name="Body Snatcher" />
+    <card number="2" name="Disease Carriers" />
+    <card number="2" name="Order of Yawgmoth" />
+    <card number="1" name="Plague Dogs" />
+    <card number="1" name="Mantis Engine" />
+    <card number="2" name="Dark Ritual" />
+    <card number="2" name="Duress" />
+    <card number="1" name="Ostracize" />
+    <card number="2" name="Sicken" />
+    <card number="1" name="Despondency" />
+    <card number="1" name="Dying Wail" />
+    <card number="1" name="Festering Wound" />
+    <card number="2" name="Scent of Nightshade" />
+    <card number="1" name="Engineered Plague" />
+    <card number="1" name="Attrition" />
+    <card number="2" name="Unnerve" />
+    <card number="1" name="Eradicate" />
+    <card number="1" name="Soul Feast" />
+    <card number="4" name="Polluted Mire" />
+    <card number="1" name="Spawning Pool" />
+    <card number="16" name="Swamp" />
+  </zone>
+</cockatrice_deck>

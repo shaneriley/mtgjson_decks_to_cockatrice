@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Demonic</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Abyssal Gatekeeper" />
+    <card number="1" name="Abyssal Specter" />
+    <card number="1" name="Cackling Imp" />
+    <card number="1" name="Daggerclaw Imp" />
+    <card number="2" name="Demon's Jester" />
+    <card number="2" name="Dusk Imp" />
+    <card number="1" name="Fallen Angel" />
+    <card number="1" name="Foul Imp" />
+    <card number="1" name="Kuro, Pitlord" />
+    <card number="1" name="Lord of the Pit" />
+    <card number="2" name="Overeager Apprentice" />
+    <card number="1" name="Reiver Demon" />
+    <card number="1" name="Soot Imp" />
+    <card number="1" name="Souldrinker" />
+    <card number="1" name="Stinkweed Imp" />
+    <card number="1" name="Barter in Blood" />
+    <card number="1" name="Consume Spirit" />
+    <card number="1" name="Corrupt" />
+    <card number="1" name="Cruel Edict" />
+    <card number="1" name="Demonic Tutor" />
+    <card number="1" name="Duress" />
+    <card number="1" name="Promise of Power" />
+    <card number="1" name="Dark Banishing" />
+    <card number="2" name="Dark Ritual" />
+    <card number="1" name="Demon's Horn" />
+    <card number="2" name="Breeding Pit" />
+    <card number="1" name="Oni Possession" />
+    <card number="2" name="Unholy Strength" />
+    <card number="2" name="Barren Moor" />
+    <card number="24" name="Swamp" />
+  </zone>
+</cockatrice_deck>

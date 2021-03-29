@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Walls</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Wall of Blossoms" />
+    <card number="1" name="Towering Titan" />
+    <card number="1" name="Carven Caryatid" />
+    <card number="1" name="Gargoyle Sentinel" />
+    <card number="1" name="Overgrown Battlement" />
+    <card number="1" name="Grave Bramble" />
+    <card number="1" name="Wall of Vines" />
+    <card number="1" name="Roving Keep" />
+    <card number="1" name="Portcullis Vine" />
+    <card number="1" name="Crushing Canopy" />
+    <card number="1" name="Warmonger's Chariot" />
+    <card number="1" name="Assault Formation" />
+    <card number="1" name="Thriving Grove" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Forest" />
+  </zone>
+</cockatrice_deck>

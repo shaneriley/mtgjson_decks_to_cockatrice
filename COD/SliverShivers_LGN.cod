@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sliver Shivers</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Quick Sliver" />
+    <card number="1" name="Root Sliver" />
+    <card number="1" name="Brood Sliver" />
+    <card number="4" name="Plated Sliver" />
+    <card number="1" name="Essence Sliver" />
+    <card number="3" name="Ward Sliver" />
+    <card number="3" name="Mistform Dreamer" />
+    <card number="3" name="Shifting Sliver" />
+    <card number="1" name="Crown of Vigor" />
+    <card number="2" name="Explosive Vegetation" />
+    <card number="2" name="Tribal Unity" />
+    <card number="4" name="Pacifism" />
+    <card number="2" name="Akroma's Blessing" />
+    <card number="2" name="Mage's Guile" />
+    <card number="7" name="Forest" />
+    <card number="9" name="Plains" />
+    <card number="5" name="Island" />
+    <card number="2" name="Lonely Sandbar" />
+    <card number="4" name="Secluded Steppe" />
+  </zone>
+</cockatrice_deck>

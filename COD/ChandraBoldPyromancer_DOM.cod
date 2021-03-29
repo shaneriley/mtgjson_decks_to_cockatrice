@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Chandra, Bold Pyromancer</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Marwyn, the Nurturer" />
+    <card number="2" name="Llanowar Elves" />
+    <card number="1" name="Ghitu Chronicler" />
+    <card number="3" name="Elfhame Druid" />
+    <card number="4" name="Pyromantic Pilgrim" />
+    <card number="1" name="Krosan Druid" />
+    <card number="3" name="Karplusan Hound" />
+    <card number="1" name="Gaea's Protector" />
+    <card number="2" name="Baloth Gorger" />
+    <card number="3" name="Fire Elemental" />
+    <card number="1" name="Grunn, the Lonely King" />
+    <card number="1" name="Primordial Wurm" />
+    <card number="2" name="Chandra's Outburst" />
+    <card number="1" name="Fight with Fire" />
+    <card number="1" name="Fiery Intervention" />
+    <card number="2" name="Shivan Fire" />
+    <card number="2" name="Gift of Growth" />
+    <card number="1" name="Pierce the Sky" />
+    <card number="1" name="Gilded Lotus" />
+    <card number="11" name="Mountain" />
+    <card number="11" name="Forest" />
+    <card number="4" name="Timber Gorge" />
+    <card number="1" name="Chandra, Bold Pyromancer" />
+  </zone>
+</cockatrice_deck>

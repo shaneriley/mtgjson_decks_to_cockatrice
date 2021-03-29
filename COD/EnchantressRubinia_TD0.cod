@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Enchantress Rubinia</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Azorius Chancery" />
+    <card number="1" name="Bant Panorama" />
+    <card number="1" name="Coastal Tower" />
+    <card number="1" name="Elfhame Palace" />
+    <card number="10" name="Forest" />
+    <card number="9" name="Island" />
+    <card number="1" name="Miren, the Moaning Well" />
+    <card number="9" name="Plains" />
+    <card number="1" name="Rupture Spire" />
+    <card number="1" name="Seaside Citadel" />
+    <card number="1" name="Selesnya Sanctuary" />
+    <card number="1" name="Simic Growth Chamber" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Treva's Ruins" />
+    <card number="1" name="Auramancer" />
+    <card number="1" name="Azorius Guildmage" />
+    <card number="1" name="Borderland Ranger" />
+    <card number="1" name="Coiling Oracle" />
+    <card number="1" name="Court Hussar" />
+    <card number="1" name="Elvish Visionary" />
+    <card number="1" name="Jungle Barrier" />
+    <card number="1" name="Jungle Lion" />
+    <card number="1" name="Kami of Ancient Law" />
+    <card number="1" name="Krosan Tusker" />
+    <card number="1" name="Looter il-Kor" />
+    <card number="1" name="Man-o'-War" />
+    <card number="1" name="Merfolk Looter" />
+    <card number="1" name="Mistmeadow Witch" />
+    <card number="1" name="Mulldrifter" />
+    <card number="1" name="Noble Templar" />
+    <card number="1" name="Phantom Centaur" />
+    <card number="1" name="Questing Phelddagrif" />
+    <card number="1" name="Raven Familiar" />
+    <card number="1" name="Sakura-Tribe Elder" />
+    <card number="1" name="Shoreline Ranger" />
+    <card number="1" name="Stonecloaker" />
+    <card number="1" name="Willbender" />
+    <card number="1" name="Wirewood Guardian" />
+    <card number="1" name="Wood Elves" />
+    <card number="1" name="Yavimaya Enchantress" />
+    <card number="1" name="Armadillo Cloak" />
+    <card number="1" name="Azorius Signet" />
+    <card number="1" name="Capsize" />
+    <card number="1" name="Compulsive Research" />
+    <card number="1" name="Concordant Crossroads" />
+    <card number="1" name="Condemn" />
+    <card number="1" name="Confiscate" />
+    <card number="1" name="Copy Enchantment" />
+    <card number="1" name="Decree of Justice" />
+    <card number="1" name="Dismantling Blow" />
+    <card number="1" name="Empyrial Armor" />
+    <card number="1" name="Enlightened Tutor" />
+    <card number="1" name="Fact or Fiction" />
+    <card number="1" name="Faith's Fetters" />
+    <card number="1" name="Fertile Ground" />
+    <card number="1" name="Ghostly Prison" />
+    <card number="1" name="Hinder" />
+    <card number="1" name="Illusionary Mask" />
+    <card number="1" name="Mirari's Wake" />
+    <card number="1" name="Momentary Blink" />
+    <card number="1" name="Moment's Peace" />
+    <card number="1" name="Oblivion Ring" />
+    <card number="1" name="Overwhelming Intellect" />
+    <card number="1" name="Prison Term" />
+    <card number="1" name="Rampant Growth" />
+    <card number="1" name="Relic of Progenitus" />
+    <card number="1" name="Resurrection" />
+    <card number="1" name="Rhystic Study" />
+    <card number="1" name="Seal of Cleansing" />
+    <card number="1" name="Selesnya Signet" />
+    <card number="1" name="Simic Signet" />
+    <card number="1" name="Sterling Grove" />
+    <card number="1" name="Swords to Plowshares" />
+    <card number="1" name="Temporal Spring" />
+  </zone>
+</cockatrice_deck>

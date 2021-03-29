@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Arcane Wizardry</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Kess, Dissident Mage" />
+    <card number="1" name="Mairsil, the Pretender" />
+    <card number="1" name="Galecaster Colossus" />
+    <card number="1" name="Magus of the Mind" />
+    <card number="1" name="Portal Mage" />
+    <card number="1" name="Vindictive Lich" />
+    <card number="1" name="Izzet Chemister" />
+    <card number="1" name="Taigam, Sidisi's Hand" />
+    <card number="1" name="Havengul Lich" />
+    <card number="1" name="Marchesa, the Black Rose" />
+    <card number="1" name="Vela the Night-Clad" />
+    <card number="1" name="Arcanis the Omnipotent" />
+    <card number="1" name="Azami, Lady of Scrolls" />
+    <card number="1" name="Body Double" />
+    <card number="1" name="Harbinger of the Tides" />
+    <card number="1" name="Serendib Sorcerer" />
+    <card number="1" name="Apprentice Necromancer" />
+    <card number="1" name="Magus of the Abyss" />
+    <card number="1" name="Puppeteer Clique" />
+    <card number="1" name="Etherium-Horn Sorcerer" />
+    <card number="1" name="Mercurial Chemister" />
+    <card number="1" name="Nin, the Pain Artist" />
+    <card number="1" name="Niv-Mizzet, the Firemind" />
+    <card number="1" name="Shadowmage Infiltrator" />
+    <card number="1" name="Bloodline Necromancer" />
+    <card number="1" name="Archaeomancer" />
+    <card number="1" name="Merchant of Secrets" />
+    <card number="1" name="Sea Gate Oracle" />
+    <card number="1" name="Corpse Augur" />
+    <card number="1" name="Izzet Chronarch" />
+    <card number="1" name="Nivix Guildmage" />
+    <card number="1" name="Kindred Dominance" />
+    <card number="1" name="Clone Legion" />
+    <card number="1" name="Spelltwine" />
+    <card number="1" name="Decree of Pain" />
+    <card number="1" name="Necromantic Selection" />
+    <card number="1" name="Comet Storm" />
+    <card number="1" name="Polymorphist's Jest" />
+    <card number="1" name="Chaos Warp" />
+    <card number="1" name="Memory Plunder" />
+    <card number="1" name="Silumgar's Command" />
+    <card number="1" name="Into the Roil" />
+    <card number="1" name="Opportunity" />
+    <card number="1" name="Reality Shift" />
+    <card number="1" name="Go for the Throat" />
+    <card number="1" name="Cauldron Dance" />
+    <card number="1" name="Crosis's Charm" />
+    <card number="1" name="Rakdos Charm" />
+    <card number="1" name="Terminate" />
+    <card number="1" name="Nevinyrral's Disk" />
+    <card number="1" name="Mirror of the Forebears" />
+    <card number="1" name="Commander's Sphere" />
+    <card number="1" name="Darksteel Ingot" />
+    <card number="1" name="Fellwar Stone" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Unstable Obelisk" />
+    <card number="1" name="Worn Powerstone" />
+    <card number="1" name="Shifting Shadow" />
+    <card number="1" name="Curse of Verbosity" />
+    <card number="1" name="Curse of Disturbance" />
+    <card number="1" name="Curse of Opulence" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Mystifying Maze" />
+    <card number="10" name="Island" />
+    <card number="6" name="Swamp" />
+    <card number="4" name="Mountain" />
+    <card number="1" name="Path of Ancestry" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Crumbling Necropolis" />
+    <card number="1" name="Dimir Aqueduct" />
+    <card number="1" name="Dismal Backwater" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Grixis Panorama" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Jwar Isle Refuge" />
+    <card number="1" name="Rakdos Carnarium" />
+    <card number="1" name="Swiftwater Cliffs" />
+    <card number="1" name="Temple of the False God" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Vivid Crag" />
+    <card number="1" name="Vivid Creek" />
+    <card number="1" name="Vivid Marsh" />
+  </zone>
+</cockatrice_deck>

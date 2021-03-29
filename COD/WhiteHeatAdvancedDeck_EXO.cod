@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>White Heat - Advanced Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="City of Brass" />
+    <card number="3" name="Gemstone Mine" />
+    <card number="4" name="Mountain" />
+    <card number="7" name="Plains" />
+    <card number="3" name="Undiscovered Paradise" />
+    <card number="2" name="Infantry Veteran" />
+    <card number="4" name="Order of the White Shield" />
+    <card number="4" name="Soltari Foot Soldier" />
+    <card number="2" name="Soltari Priest" />
+    <card number="2" name="Soltari Visionary" />
+    <card number="4" name="Vigilant Martyr" />
+    <card number="4" name="Welkin Hawk" />
+    <card number="2" name="White Knight" />
+    <card number="2" name="Disenchant" />
+    <card number="4" name="Incinerate" />
+    <card number="4" name="Kindle" />
+    <card number="3" name="Shock" />
+    <card number="2" name="Tithe" />
+    <card number="2" name="Armageddon" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Aura of Silence" />
+    <card number="1" name="Circle of Protection: Red" />
+    <card number="1" name="City of Solitude" />
+    <card number="1" name="Crusade" />
+    <card number="2" name="Disenchant" />
+    <card number="1" name="Tariff" />
+    <card number="4" name="Wasteland" />
+    <card number="2" name="Winter Orb" />
+    <card number="1" name="Zur's Weirding" />
+  </zone>
+</cockatrice_deck>

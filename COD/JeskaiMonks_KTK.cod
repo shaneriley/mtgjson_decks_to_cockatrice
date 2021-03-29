@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Jeskai Monks</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Monastery Swiftspear" />
+    <card number="2" name="Jeskai Elder" />
+    <card number="1" name="Leaping Master" />
+    <card number="1" name="Jeskai Student" />
+    <card number="2" name="Seeker of the Way" />
+    <card number="2" name="Jeskai Windscout" />
+    <card number="2" name="Bloodfire Expert" />
+    <card number="1" name="Bloodfire Mentor" />
+    <card number="1" name="Alabaster Kirin" />
+    <card number="1" name="Highspire Mantis" />
+    <card number="1" name="Whirlwind Adept" />
+    <card number="1" name="Tireless Missionaries" />
+    <card number="1" name="Serra Angel" />
+    <card number="1" name="Sage of the Inward Eye" />
+    <card number="1" name="Warden of the Eye" />
+    <card number="1" name="Riverwheel Aerialists" />
+    <card number="1" name="Void Snare" />
+    <card number="1" name="Divination" />
+    <card number="1" name="Solemn Offering" />
+    <card number="1" name="Lava Axe" />
+    <card number="1" name="Lightning Strike" />
+    <card number="1" name="Crippling Chill" />
+    <card number="1" name="Winterflame" />
+    <card number="1" name="Jeskai Charm" />
+    <card number="1" name="Weave Fate" />
+    <card number="1" name="Smite the Monstrous" />
+    <card number="1" name="Flying Crane Technique" />
+    <card number="2" name="Jeskai Banner" />
+    <card number="1" name="Oppressive Rays" />
+    <card number="2" name="Mystic Monastery" />
+    <card number="1" name="Swiftwater Cliffs" />
+    <card number="1" name="Tranquil Cove" />
+    <card number="1" name="Wind-Scarred Crag" />
+    <card number="8" name="Island" />
+    <card number="6" name="Mountain" />
+    <card number="7" name="Plains" />
+  </zone>
+</cockatrice_deck>

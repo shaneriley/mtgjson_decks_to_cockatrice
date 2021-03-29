@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Conquering Hordes</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Herald of Anafenza" />
+    <card number="3" name="Mardu Hateblade" />
+    <card number="3" name="Tormented Hero" />
+    <card number="1" name="Bloodsoaked Champion" />
+    <card number="2" name="Chief of the Edge" />
+    <card number="2" name="Chief of the Scale" />
+    <card number="2" name="Seeker of the Way" />
+    <card number="3" name="Oreskos Swiftclaw" />
+    <card number="3" name="Mardu Skullhunter" />
+    <card number="1" name="Pain Seer" />
+    <card number="1" name="Mardu Hordechief" />
+    <card number="1" name="Herald of Torment" />
+    <card number="2" name="Timely Hordemate" />
+    <card number="1" name="Rush of Battle" />
+    <card number="1" name="Bile Blight" />
+    <card number="1" name="Silence the Believers" />
+    <card number="1" name="Spear of Heliod" />
+    <card number="1" name="Spirit Bonds" />
+    <card number="2" name="Banishing Light" />
+    <card number="2" name="Raiders' Spoils" />
+    <card number="1" name="Dictate of Erebos" />
+    <card number="1" name="Dictate of Heliod" />
+    <card number="1" name="Caves of Koilos" />
+    <card number="4" name="Scoured Barrens" />
+    <card number="10" name="Plains" />
+    <card number="9" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Despise" />
+    <card number="2" name="Solemn Offering" />
+    <card number="3" name="Glare of Heresy" />
+    <card number="3" name="Dark Betrayal" />
+    <card number="1" name="Drown in Sorrow" />
+    <card number="2" name="Tormod's Crypt" />
+    <card number="2" name="Brain Maggot" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Unicorns</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Inspiring Unicorn" />
+    <card number="1" name="Emiel the Blessed" />
+    <card number="1" name="Brightmare" />
+    <card number="1" name="Mesa Unicorn" />
+    <card number="1" name="Ronom Unicorn" />
+    <card number="1" name="Valorous Steed" />
+    <card number="1" name="Daybreak Charger" />
+    <card number="1" name="Valorous Stance" />
+    <card number="1" name="Cloudshift" />
+    <card number="1" name="Inspired Charge" />
+    <card number="1" name="Blessed Sanctuary" />
+    <card number="1" name="Faith's Fetters" />
+    <card number="1" name="Thriving Heath" />
+    <card number="6" name="Plains" />
+    <card number="1" name="Plains" />
+  </zone>
+</cockatrice_deck>

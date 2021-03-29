@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Gideon, the Oathsworn</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Ajani's Pridemate" />
+    <card number="4" name="Orzhov Guildgate" />
+    <card number="12" name="Plains" />
+    <card number="8" name="Swamp" />
+    <card number="1" name="Command the Dreadhorde" />
+    <card number="1" name="Oath of Kaya" />
+    <card number="2" name="Gideon's Battle Cry" />
+    <card number="1" name="Kaya, Bane of the Dead" />
+    <card number="4" name="Charmed Stray" />
+    <card number="2" name="Enforcer Griffin" />
+    <card number="3" name="Makeshift Battalion" />
+    <card number="2" name="Trusted Pegasus" />
+    <card number="1" name="War Screecher" />
+    <card number="1" name="Vampire Opportunist" />
+    <card number="3" name="Cruel Celebrant" />
+    <card number="3" name="Gideon's Company" />
+    <card number="1" name="Bond of Discipline" />
+    <card number="3" name="Ob Nixilis's Cruelty" />
+    <card number="4" name="Desperate Lunge" />
+    <card number="1" name="Gideon, the Oathsworn" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Savage Hunter</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Angrath, Captain of Chaos" />
+    <card number="1" name="Chittering Witch" />
+    <card number="1" name="Thorn Mammoth" />
+    <card number="1" name="Gluttonous Troll" />
+    <card number="1" name="Priest of Forgotten Gods" />
+    <card number="1" name="Krenko, Tin Street Kingpin" />
+    <card number="1" name="Judith, the Scourge Diva" />
+    <card number="1" name="Syr Konrad, the Grim" />
+    <card number="1" name="Keeper of Fables" />
+    <card number="1" name="Savvy Hunter" />
+    <card number="1" name="Orzhov Enforcer" />
+    <card number="1" name="Plaguecrafter" />
+    <card number="1" name="Vindictive Vampire" />
+    <card number="1" name="Goblin Cratermaker" />
+    <card number="1" name="Rapacious Dragon" />
+    <card number="1" name="Evolution Sage" />
+    <card number="1" name="Paradise Druid" />
+    <card number="1" name="Pollenbright Druid" />
+    <card number="1" name="Golgari Findbroker" />
+    <card number="1" name="Thrashing Brontodon" />
+    <card number="1" name="Leyline Prowler" />
+    <card number="1" name="Mayhem Devil" />
+    <card number="1" name="Woodland Champion" />
+    <card number="1" name="Taste of Death" />
+    <card number="1" name="Find // Finality" />
+    <card number="1" name="Bake into a Pie" />
+    <card number="1" name="Deathsprout" />
+    <card number="1" name="Golden Egg" />
+    <card number="1" name="Witch's Oven" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Bloodsoaked Altar" />
+    <card number="1" name="Dreadhorde Invasion" />
+    <card number="1" name="Rhythm of the Wild" />
+    <card number="1" name="Moldervine Reclamation" />
+    <card number="1" name="Temple of Malady" />
+    <card number="1" name="Stomping Ground" />
+    <card number="6" name="Swamp" />
+    <card number="2" name="Mountain" />
+    <card number="6" name="Forest" />
+    <card number="1" name="Bloodfell Caves" />
+    <card number="1" name="Cryptic Caves" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Golgari Guildgate" />
+    <card number="1" name="Gruul Guildgate" />
+    <card number="1" name="Jungle Hollow" />
+    <card number="1" name="Rugged Highlands" />
+    <card number="1" name="Rakdos Guildgate" />
+  </zone>
+</cockatrice_deck>

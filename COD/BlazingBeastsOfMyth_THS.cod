@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Blazing Beasts of Myth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Satyr Rambler" />
+    <card number="2" name="Satyr Hedonist" />
+    <card number="2" name="Voyaging Satyr" />
+    <card number="2" name="Minotaur Skullcleaver" />
+    <card number="1" name="Nessian Courser" />
+    <card number="1" name="Rootwalla" />
+    <card number="1" name="Satyr Piper" />
+    <card number="1" name="Ill-Tempered Cyclops" />
+    <card number="2" name="Borderland Minotaur" />
+    <card number="1" name="Ember Swallower" />
+    <card number="1" name="Polis Crusher" />
+    <card number="2" name="Nessian Asp" />
+    <card number="2" name="Stoneshock Giant" />
+    <card number="2" name="Nemesis of Mortals" />
+    <card number="1" name="Portent of Betrayal" />
+    <card number="2" name="Rage of Purphoros" />
+    <card number="2" name="Lightning Strike" />
+    <card number="2" name="Magma Jet" />
+    <card number="1" name="Destructive Revelry" />
+    <card number="1" name="Artisan's Sorrow" />
+    <card number="1" name="Windstorm" />
+    <card number="2" name="Volcanic Geyser" />
+    <card number="1" name="Dragon Mantle" />
+    <card number="14" name="Mountain" />
+    <card number="11" name="Forest" />
+  </zone>
+</cockatrice_deck>

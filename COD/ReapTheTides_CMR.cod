@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Reap the Tides</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Coiling Oracle" />
+    <card number="1" name="Eternal Witness" />
+    <card number="1" name="Ramunap Excavator" />
+    <card number="1" name="Reclamation Sage" />
+    <card number="1" name="Stumpsquall Hydra" />
+    <card number="1" name="Yavimaya Elder" />
+    <card number="1" name="Fathom Mage" />
+    <card number="1" name="Sharktocrab" />
+    <card number="1" name="Wickerbough Elder" />
+    <card number="1" name="Acidic Slime" />
+    <card number="1" name="Meloku the Clouded Mirror" />
+    <card number="1" name="Mulldrifter" />
+    <card number="1" name="Murkfiend Liege" />
+    <card number="1" name="Sporemound" />
+    <card number="1" name="Rampaging Baloths" />
+    <card number="1" name="Shipbreaker Kraken" />
+    <card number="1" name="Avenger of Zendikar" />
+    <card number="1" name="Meteor Golem" />
+    <card number="1" name="Molimo, Maro-Sorcerer" />
+    <card number="1" name="Nezahal, Primal Tide" />
+    <card number="1" name="Scourge of Fleets" />
+    <card number="1" name="Simic Sky Swallower" />
+    <card number="1" name="Sphinx of Uthuun" />
+    <card number="1" name="Trench Behemoth" />
+    <card number="1" name="Tromokratis" />
+    <card number="1" name="Verdant Sun's Avatar" />
+    <card number="1" name="Elder Deep-Fiend" />
+    <card number="1" name="Slinn Voda, the Rising Deep" />
+    <card number="1" name="Stormtide Leviathan" />
+    <card number="1" name="Terastodon" />
+    <card number="1" name="Arcane Denial" />
+    <card number="1" name="Counterspell" />
+    <card number="1" name="Growth Spiral" />
+    <card number="1" name="Into the Roil" />
+    <card number="1" name="Peel from Reality" />
+    <card number="1" name="Simic Charm" />
+    <card number="1" name="Beast Within" />
+    <card number="1" name="Fact or Fiction" />
+    <card number="1" name="Explore" />
+    <card number="1" name="Rampant Growth" />
+    <card number="1" name="Compulsive Research" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Kodama's Reach" />
+    <card number="1" name="Search for Tomorrow" />
+    <card number="1" name="Harmonize" />
+    <card number="1" name="Whelming Wave" />
+    <card number="1" name="Urban Evolution" />
+    <card number="1" name="Spitting Image" />
+    <card number="1" name="Ior Ruin Expedition" />
+    <card number="1" name="Khalni Heart Expedition" />
+    <card number="1" name="Retreat to Kazandu" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Simic Signet" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="1" name="Seer's Sundial" />
+    <card number="1" name="Blighted Woodland" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Coral Atoll" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="15" name="Forest" />
+    <card number="15" name="Island" />
+    <card number="1" name="Jungle Basin" />
+    <card number="1" name="Memorial to Genius" />
+    <card number="1" name="Reliquary Tower" />
+    <card number="1" name="Simic Growth Chamber" />
+    <card number="1" name="Simic Guildgate" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Thornwood Falls" />
+    <card number="1" name="Vivid Creek" />
+    <card number="1" name="Vivid Grove" />
+    <card number="1" name="Woodland Stream" />
+  </zone>
+</cockatrice_deck>

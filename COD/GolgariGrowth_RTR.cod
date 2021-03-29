@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Golgari Growth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Slitherhead" />
+    <card number="2" name="Daggerdrome Imp" />
+    <card number="3" name="Walking Corpse" />
+    <card number="2" name="Drudge Beetle" />
+    <card number="1" name="Korozda Guildmage" />
+    <card number="1" name="Stonefare Crocodile" />
+    <card number="1" name="Wild Beastmaster" />
+    <card number="1" name="Dreg Mangler" />
+    <card number="1" name="Slum Reaper" />
+    <card number="2" name="Korozda Monitor" />
+    <card number="1" name="Corpsejack Menace" />
+    <card number="1" name="Sluiceway Scorpion" />
+    <card number="1" name="Veilborn Ghoul" />
+    <card number="1" name="Gobbling Ooze" />
+    <card number="1" name="Acidic Slime" />
+    <card number="2" name="Golgari Longlegs" />
+    <card number="1" name="Terrus Wurm" />
+    <card number="1" name="Disentomb" />
+    <card number="1" name="Treasured Find" />
+    <card number="1" name="Rites of Reaping" />
+    <card number="1" name="Grisly Salvage" />
+    <card number="1" name="Aerial Predation" />
+    <card number="1" name="Serpent's Gift" />
+    <card number="1" name="Murder" />
+    <card number="2" name="Launch Party" />
+    <card number="2" name="Golgari Keyrune" />
+    <card number="1" name="Golgari Guildgate" />
+    <card number="12" name="Swamp" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

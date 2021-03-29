@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Army of Entropy</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Cinderbones" />
+    <card number="2" name="Ashenmoor Cohort" />
+    <card number="2" name="Mudbrawler Cohort" />
+    <card number="2" name="Blistering Dieflyn" />
+    <card number="2" name="Emberstrike Duo" />
+    <card number="3" name="Ashenmoor Gouger" />
+    <card number="2" name="Murderous Redcap" />
+    <card number="1" name="Ashenmoor Liege" />
+    <card number="2" name="Kulrath Knight" />
+    <card number="2" name="Rattleblaze Scarecrow" />
+    <card number="1" name="Wild Swing" />
+    <card number="2" name="Torrent of Souls" />
+    <card number="1" name="Din of the Fireherd" />
+    <card number="2" name="Puncture Bolt" />
+    <card number="1" name="Smash to Smithereens" />
+    <card number="3" name="Scar" />
+    <card number="3" name="Blowfly Infestation" />
+    <card number="2" name="Fists of the Demigod" />
+    <card number="12" name="Swamp" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

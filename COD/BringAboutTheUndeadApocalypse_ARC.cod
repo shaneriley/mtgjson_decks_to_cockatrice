@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Bring About The Undead Apocalypse</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Artisan of Kozilek" />
+    <card number="1" name="Avatar of Discord" />
+    <card number="1" name="Avatar of Woe" />
+    <card number="1" name="Bog Witch" />
+    <card number="1" name="Cemetery Reaper" />
+    <card number="1" name="Corpse Connoisseur" />
+    <card number="1" name="Dregscape Zombie" />
+    <card number="1" name="Extractor Demon" />
+    <card number="1" name="Festering Goblin" />
+    <card number="2" name="Infectious Horror" />
+    <card number="1" name="Kaervek the Merciless" />
+    <card number="1" name="Rakdos Guildmage" />
+    <card number="1" name="Reassembling Skeleton" />
+    <card number="1" name="Scion of Darkness" />
+    <card number="1" name="Shriekmaw" />
+    <card number="2" name="Twisted Abomination" />
+    <card number="1" name="Urborg Syphon-Mage" />
+    <card number="1" name="Vampiric Dragon" />
+    <card number="1" name="Beacon of Unrest" />
+    <card number="1" name="Incremental Blight" />
+    <card number="1" name="Infest" />
+    <card number="1" name="Reanimate" />
+    <card number="2" name="Sign in Blood" />
+    <card number="1" name="Torrent of Souls" />
+    <card number="1" name="Zombify" />
+    <card number="1" name="Bituminous Blast" />
+    <card number="1" name="Inferno Trap" />
+    <card number="1" name="Makeshift Mannequin" />
+    <card number="2" name="Terminate" />
+    <card number="2" name="Rakdos Signet" />
+    <card number="1" name="Zombie Infestation" />
+    <card number="2" name="Barren Moor" />
+    <card number="7" name="Mountain" />
+    <card number="2" name="Rakdos Carnarium" />
+    <card number="13" name="Swamp" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Choose Your Champion" />
+    <card number="1" name="Dance, Pathetic Marionette" />
+    <card number="2" name="The Dead Shall Serve" />
+    <card number="1" name="A Display of My Dark Power" />
+    <card number="2" name="Every Hope Shall Vanish" />
+    <card number="1" name="I Delight in Your Convulsions" />
+    <card number="1" name="Introductions Are in Order" />
+    <card number="1" name="Mortal Flesh Is Weak" />
+    <card number="2" name="Only Blood Ends Your Nightmares" />
+    <card number="1" name="Realms Befitting My Majesty" />
+    <card number="2" name="Rotted Ones, Lay Siege" />
+    <card number="1" name="Surrender Your Thoughts" />
+    <card number="1" name="Your Fate Is Thrice Sealed" />
+    <card number="1" name="Your Puny Minds Cannot Fathom" />
+    <card number="1" name="My Undead Horde Awakens" />
+  </zone>
+</cockatrice_deck>

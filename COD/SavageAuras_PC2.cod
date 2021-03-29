@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Savage Auras</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Armored Griffin" />
+    <card number="2" name="Aura Gnarlid" />
+    <card number="1" name="Auramancer" />
+    <card number="1" name="Auratouched Mage" />
+    <card number="1" name="Bramble Elemental" />
+    <card number="1" name="Celestial Ancient" />
+    <card number="1" name="Dowsing Shaman" />
+    <card number="2" name="Dreampod Druid" />
+    <card number="1" name="Elderwood Scion" />
+    <card number="1" name="Kor Spiritdancer" />
+    <card number="1" name="Krond the Dawn-Clad" />
+    <card number="2" name="Lumberknot" />
+    <card number="1" name="Silhana Ledgewalker" />
+    <card number="1" name="Thran Golem" />
+    <card number="1" name="Three Dreams" />
+    <card number="1" name="Fractured Powerstone" />
+    <card number="2" name="Boar Umbra" />
+    <card number="1" name="Cage of Hands" />
+    <card number="2" name="Felidar Umbra" />
+    <card number="1" name="Ghostly Prison" />
+    <card number="1" name="Hyena Umbra" />
+    <card number="1" name="Indrik Umbra" />
+    <card number="1" name="Mammoth Umbra" />
+    <card number="1" name="Pollenbright Wings" />
+    <card number="1" name="Predatory Urge" />
+    <card number="1" name="Quiet Disrepair" />
+    <card number="1" name="Rancor" />
+    <card number="1" name="Sigil of the Empty Throne" />
+    <card number="1" name="Snake Umbra" />
+    <card number="1" name="Spirit Mantle" />
+    <card number="9" name="Forest" />
+    <card number="2" name="Graypelt Refuge" />
+    <card number="1" name="Krosan Verge" />
+    <card number="8" name="Plains" />
+    <card number="2" name="Selesnya Sanctuary" />
+    <card number="1" name="Terramorphic Expanse" />
+    <card number="1" name="Vitu-Ghazi, the City-Tree" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Akoum" />
+    <card number="1" name="Aretopolis" />
+    <card number="1" name="Astral Arena" />
+    <card number="1" name="Edge of Malacol" />
+    <card number="1" name="Grove of the Dreampods" />
+    <card number="1" name="Kessig" />
+    <card number="1" name="Onakke Catacomb" />
+    <card number="1" name="Talon Gates" />
+    <card number="1" name="Chaotic Aether" />
+    <card number="1" name="Planewide Disaster" />
+  </zone>
+</cockatrice_deck>

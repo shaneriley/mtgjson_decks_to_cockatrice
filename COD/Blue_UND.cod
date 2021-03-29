@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Blue</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="B.O.B. (Bevy of Beebles)" />
+    <card number="1" name="Alexander Clamilton" />
+    <card number="1" name="Avatar of Me" />
+    <card number="1" name="Chicken à la King" />
+    <card number="1" name="Johnny, Combo Player" />
+    <card number="1" name="Richard Garfield, Ph.D." />
+    <card number="1" name="Carnivorous Death-Parrot" />
+    <card number="1" name="Cheatyface" />
+    <card number="1" name="Mer Man" />
+    <card number="1" name="Rock Lobster" />
+    <card number="1" name="Wall of Fortune" />
+    <card number="1" name="Time Out" />
+    <card number="1" name="Common Courtesy" />
+    <card number="1" name="Magic Word" />
+    <card number="1" name="Rings a Bell" />
+    <card number="1" name="Topsy Turvy" />
+    <card number="1" name="Water Gun Balloon Game" />
+    <card number="1" name="Underdome" />
+    <card number="12" name="Island" />
+  </zone>
+</cockatrice_deck>

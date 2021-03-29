@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Infernal Intervention</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Typhoid Rats" />
+    <card number="2" name="Torch Fiend" />
+    <card number="2" name="Gargoyle Sentinel" />
+    <card number="2" name="Goblin Roughrider" />
+    <card number="1" name="Wall of Fire" />
+    <card number="1" name="Gravedigger" />
+    <card number="1" name="Zof Shade" />
+    <card number="1" name="Thundering Giant" />
+    <card number="2" name="Carrion Crow" />
+    <card number="1" name="Indulgent Tormentor" />
+    <card number="2" name="Nightfire Giant" />
+    <card number="1" name="Clear a Path" />
+    <card number="1" name="Cone of Flame" />
+    <card number="1" name="Festergloom" />
+    <card number="2" name="Lightning Strike" />
+    <card number="2" name="Heat Ray" />
+    <card number="2" name="Blastfire Bolt" />
+    <card number="2" name="Flesh to Dust" />
+    <card number="2" name="Profane Memento" />
+    <card number="1" name="Stab Wound" />
+    <card number="1" name="Caustic Tar" />
+    <card number="1" name="Burning Anger" />
+    <card number="13" name="Swamp" />
+    <card number="13" name="Mountain" />
+  </zone>
+</cockatrice_deck>

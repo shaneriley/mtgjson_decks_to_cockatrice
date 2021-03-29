@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sun Empire</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Burning Sun's Avatar" />
+    <card number="1" name="Ancient Brontodon" />
+    <card number="1" name="Bellowing Aegisaur" />
+    <card number="2" name="Borderland Ranger" />
+    <card number="1" name="Charging Monstrosaur" />
+    <card number="2" name="Drover of the Mighty" />
+    <card number="1" name="Frenzied Raptor" />
+    <card number="2" name="Imperial Aerosaur" />
+    <card number="2" name="Nest Robber" />
+    <card number="1" name="Raging Swordtooth" />
+    <card number="2" name="Raptor Companion" />
+    <card number="1" name="Raptor Hatchling" />
+    <card number="1" name="Ravenous Daggertooth" />
+    <card number="1" name="Regisaur Alpha" />
+    <card number="1" name="Thundering Spineback" />
+    <card number="1" name="Aggravated Assault" />
+    <card number="1" name="Vow of Wildness" />
+    <card number="1" name="Disaster Radius" />
+    <card number="1" name="Hunter's Prowess" />
+    <card number="1" name="Prey Upon" />
+    <card number="1" name="Savage Stomp" />
+    <card number="1" name="Dinosaur Stampede" />
+    <card number="1" name="Lightning Helix" />
+    <card number="1" name="Path to Exile" />
+    <card number="2" name="Sheltering Light" />
+    <card number="2" name="Prismatic Lens" />
+    <card number="1" name="Quicksilver Amulet" />
+    <card number="4" name="Jungle Shrine" />
+    <card number="6" name="Plains" />
+    <card number="7" name="Mountain" />
+    <card number="9" name="Forest" />
+  </zone>
+</cockatrice_deck>

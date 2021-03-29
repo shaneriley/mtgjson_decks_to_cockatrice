@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Player B's advanced pack</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Island" />
+    <card number="3" name="Plains" />
+    <card number="1" name="Obsianus Golem" />
+    <card number="1" name="Prodigal Sorcerer" />
+    <card number="1" name="Samite Healer" />
+    <card number="1" name="Venerable Monk" />
+    <card number="1" name="Counterspell" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Flight" />
+    <card number="1" name="Hero's Resolve" />
+    <card number="1" name="Inspiration" />
+  </zone>
+</cockatrice_deck>

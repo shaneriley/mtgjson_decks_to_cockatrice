@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Landslide Charge</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Elvish Mystic" />
+    <card number="2" name="Golden Hind" />
+    <card number="4" name="Heir of the Wilds" />
+    <card number="2" name="Mogis's Warhound" />
+    <card number="1" name="Boon Satyr" />
+    <card number="1" name="Yasova Dragonclaw" />
+    <card number="4" name="Fanatic of Xenagos" />
+    <card number="1" name="Savage Knuckleblade" />
+    <card number="1" name="Surrak, the Hunt Caller" />
+    <card number="1" name="Thunderbreak Regent" />
+    <card number="1" name="Polis Crusher" />
+    <card number="1" name="Mistcutter Hydra" />
+    <card number="2" name="Roast" />
+    <card number="2" name="Arc Lightning" />
+    <card number="1" name="Crater's Claws" />
+    <card number="2" name="Wild Slash" />
+    <card number="1" name="Stubborn Denial" />
+    <card number="2" name="Lightning Strike" />
+    <card number="2" name="Temur Charm" />
+    <card number="1" name="Outpost Siege" />
+    <card number="4" name="Evolving Wilds" />
+    <card number="4" name="Frontier Bivouac" />
+    <card number="1" name="Temple of Abandon" />
+    <card number="10" name="Forest" />
+    <card number="5" name="Mountain" />
+    <card number="1" name="Island" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Stubborn Denial" />
+    <card number="2" name="Arc Lightning" />
+    <card number="2" name="Rending Volley" />
+    <card number="2" name="Disdainful Stroke" />
+    <card number="2" name="Encase in Ice" />
+    <card number="2" name="Abzan Beastmaster" />
+    <card number="2" name="Reclamation Sage" />
+    <card number="2" name="Act of Treason" />
+  </zone>
+</cockatrice_deck>

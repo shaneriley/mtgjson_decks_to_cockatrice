@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ral, Caller of Storms</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Ral, Caller of Storms" />
+    <card number="2" name="Wee Dragonauts" />
+    <card number="1" name="Erratic Cyclops" />
+    <card number="1" name="Omnispell Adept" />
+    <card number="1" name="Leapfrog" />
+    <card number="1" name="Muse Drake" />
+    <card number="1" name="Passwall Adept" />
+    <card number="1" name="Vedalken Mesmerist" />
+    <card number="3" name="Fearless Halberdier" />
+    <card number="2" name="Fire Urchin" />
+    <card number="2" name="Hellkite Whelp" />
+    <card number="1" name="Rubblebelt Boar" />
+    <card number="2" name="Goblin Electromancer" />
+    <card number="3" name="Ral's Staticaster" />
+    <card number="1" name="Maximize Altitude" />
+    <card number="1" name="Direct Current" />
+    <card number="4" name="Precision Bolt" />
+    <card number="2" name="Ral's Dispersal" />
+    <card number="1" name="Chemister's Insight" />
+    <card number="2" name="Command the Storm" />
+    <card number="1" name="Sonic Assault" />
+    <card number="4" name="Izzet Guildgate" />
+    <card number="10" name="Island" />
+    <card number="12" name="Mountain" />
+  </zone>
+</cockatrice_deck>

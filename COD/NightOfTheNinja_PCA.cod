@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Night Of The Ninja</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Augury Owl" />
+    <card number="2" name="Baleful Strix" />
+    <card number="1" name="Cadaver Imp" />
+    <card number="1" name="Dark Hatchling" />
+    <card number="2" name="Dimir Infiltrator" />
+    <card number="1" name="Glen Elendra Liege" />
+    <card number="1" name="Higure, the Still Wind" />
+    <card number="1" name="Ink-Eyes, Servant of Oni" />
+    <card number="1" name="Inkfathom Witch" />
+    <card number="1" name="Liliana's Specter" />
+    <card number="1" name="Mistblade Shinobi" />
+    <card number="2" name="Ninja of the Deep Hours" />
+    <card number="1" name="Okiba-Gang Shinobi" />
+    <card number="1" name="Sakashima's Student" />
+    <card number="1" name="Silent-Blade Oni" />
+    <card number="1" name="Skullsnatcher" />
+    <card number="1" name="Throat Slitter" />
+    <card number="2" name="Tormented Soul" />
+    <card number="1" name="Vela the Night-Clad" />
+    <card number="1" name="Walker of Secret Ways" />
+    <card number="1" name="Wall of Frost" />
+    <card number="2" name="Assassinate" />
+    <card number="1" name="Concentrate" />
+    <card number="1" name="Cancel" />
+    <card number="1" name="Farsight Mask" />
+    <card number="1" name="Fractured Powerstone" />
+    <card number="1" name="Quietus Spike" />
+    <card number="2" name="Sai of the Shinobi" />
+    <card number="1" name="Whispersilk Cloak" />
+    <card number="2" name="Dimir Aqueduct" />
+    <card number="9" name="Island" />
+    <card number="2" name="Jwar Isle Refuge" />
+    <card number="9" name="Swamp" />
+    <card number="1" name="Tainted Isle" />
+    <card number="1" name="Terramorphic Expanse" />
+  </zone>
+</cockatrice_deck>

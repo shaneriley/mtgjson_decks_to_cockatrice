@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>The Plague</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="7" name="Plains" />
+    <card number="12" name="Swamp" />
+    <card number="3" name="Drifting Meadow" />
+    <card number="2" name="Polluted Mire" />
+    <card number="1" name="Blood Vassal" />
+    <card number="3" name="Disciple of Grace" />
+    <card number="1" name="Flesh Reaver" />
+    <card number="1" name="Sanctum Guardian" />
+    <card number="1" name="Silent Attendant" />
+    <card number="3" name="Unworthy Dead" />
+    <card number="3" name="Voice of Grace" />
+    <card number="3" name="Wall of Junk" />
+    <card number="2" name="Disenchant" />
+    <card number="2" name="Expunge" />
+    <card number="2" name="Humble" />
+    <card number="1" name="Befoul" />
+    <card number="1" name="Corrupt" />
+    <card number="1" name="Opal Acrolith" />
+    <card number="1" name="Pariah" />
+    <card number="4" name="Pestilence" />
+    <card number="2" name="Rune of Protection: Black" />
+    <card number="1" name="Sicken" />
+    <card number="1" name="Worship" />
+    <card number="2" name="Urza's Armor" />
+  </zone>
+</cockatrice_deck>

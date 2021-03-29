@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Exquisite Invention</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Maverick Thopterist" />
+    <card number="1" name="Soul of New Phyrexia" />
+    <card number="1" name="Inkwell Leviathan" />
+    <card number="1" name="Sharding Sphinx" />
+    <card number="1" name="Hellkite Igniter" />
+    <card number="1" name="Bosh, Iron Golem" />
+    <card number="1" name="Darksteel Juggernaut" />
+    <card number="1" name="Duplicant" />
+    <card number="1" name="Myr Battlesphere" />
+    <card number="1" name="Psychosis Crawler" />
+    <card number="1" name="Scuttling Doom Engine" />
+    <card number="1" name="Steel Hellkite" />
+    <card number="1" name="Thopter Assembly" />
+    <card number="1" name="Etherium Sculptor" />
+    <card number="1" name="Whirler Rogue" />
+    <card number="1" name="Chief of the Foundry" />
+    <card number="1" name="Pilgrim's Eye" />
+    <card number="1" name="Saheeli's Artistry" />
+    <card number="1" name="Blasphemous Act" />
+    <card number="1" name="Reverse Engineer" />
+    <card number="1" name="Tidings" />
+    <card number="1" name="Chaos Warp" />
+    <card number="1" name="Magmaquake" />
+    <card number="1" name="Into the Roil" />
+    <card number="1" name="Thirst for Knowledge" />
+    <card number="1" name="Blinkmoth Urn" />
+    <card number="1" name="Mimic Vat" />
+    <card number="1" name="Mirrorworks" />
+    <card number="1" name="Prototype Portal" />
+    <card number="1" name="Unwinding Clock" />
+    <card number="1" name="Commander's Sphere" />
+    <card number="1" name="Dreamstone Hedron" />
+    <card number="1" name="Hedron Archive" />
+    <card number="1" name="Izzet Signet" />
+    <card number="1" name="Magnifying Glass" />
+    <card number="1" name="Mind Stone" />
+    <card number="1" name="Prismatic Lens" />
+    <card number="1" name="Scrabbling Claws" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="1" name="Unstable Obelisk" />
+    <card number="1" name="Vessel of Endless Rest" />
+    <card number="1" name="Worn Powerstone" />
+    <card number="1" name="Darksteel Citadel" />
+    <card number="1" name="Great Furnace" />
+    <card number="1" name="Seat of the Synod" />
+    <card number="1" name="Thopter Spy Network" />
+    <card number="15" name="Island" />
+    <card number="12" name="Mountain" />
+    <card number="1" name="Buried Ruin" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Foundry of the Consuls" />
+    <card number="1" name="Highland Lake" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Izzet Guildgate" />
+    <card number="1" name="Swiftwater Cliffs" />
+    <card number="1" name="Brudiclad, Telchor Engineer" />
+    <card number="1" name="Tawnos, Urza's Apprentice" />
+    <card number="1" name="Echo Storm" />
+    <card number="1" name="Vedalken Humiliator" />
+    <card number="1" name="Enchanter's Bane" />
+    <card number="1" name="Saheeli's Directive" />
+    <card number="1" name="Treasure Nabber" />
+    <card number="1" name="Varchild, Betrayer of Kjeldor" />
+    <card number="1" name="Ancient Stone Idol" />
+    <card number="1" name="Coveted Jewel" />
+    <card number="1" name="Endless Atlas" />
+    <card number="1" name="Retrofitter Foundry" />
+    <card number="1" name="Aether Gale" />
+    <card number="1" name="Loyal Drake" />
+    <card number="1" name="Loyal Apprentice" />
+    <card number="1" name="Geode Golem" />
+    <card number="1" name="Thopter Engineer" />
+    <card number="1" name="Forge of Heroes" />
+  </zone>
+</cockatrice_deck>

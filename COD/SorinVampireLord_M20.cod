@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sorin, Vampire Lord</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Gravewaker" />
+    <card number="2" name="Vampire Opportunist" />
+    <card number="3" name="Murder" />
+    <card number="4" name="Sorin's Thirst" />
+    <card number="25" name="Swamp" />
+    <card number="1" name="Dread Presence" />
+    <card number="2" name="Sorin's Guide" />
+    <card number="4" name="Blood Burglar" />
+    <card number="4" name="Bloodthirsty Aerialist" />
+    <card number="4" name="Vampire of the Dire Moon" />
+    <card number="4" name="Savage Gorger" />
+    <card number="3" name="Thirsting Bloodlord" />
+    <card number="2" name="Dark Remedy" />
+    <card number="1" name="Sorin, Vampire Lord" />
+  </zone>
+</cockatrice_deck>

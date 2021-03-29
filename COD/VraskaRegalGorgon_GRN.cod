@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Vraska, Regal Gorgon</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Vraska, Regal Gorgon" />
+    <card number="1" name="Beast Whisperer" />
+    <card number="2" name="Bartizan Bats" />
+    <card number="1" name="Douser of Lights" />
+    <card number="4" name="Kraul Raider" />
+    <card number="1" name="Lotleth Giant" />
+    <card number="3" name="Spinal Centipede" />
+    <card number="1" name="Devkarin Dissident" />
+    <card number="2" name="Ironshell Beetle" />
+    <card number="1" name="Kraul Foragers" />
+    <card number="1" name="Wild Ceratok" />
+    <card number="3" name="Attendant of Vraska" />
+    <card number="2" name="Glowspore Shaman" />
+    <card number="2" name="Rhizome Lurcher" />
+    <card number="1" name="Swarm Guildmage" />
+    <card number="2" name="Prey Upon" />
+    <card number="2" name="Vraska's Stoneglare" />
+    <card number="1" name="Bounty of Might" />
+    <card number="3" name="Dead Weight" />
+    <card number="4" name="Golgari Guildgate" />
+    <card number="10" name="Forest" />
+    <card number="12" name="Swamp" />
+  </zone>
+</cockatrice_deck>

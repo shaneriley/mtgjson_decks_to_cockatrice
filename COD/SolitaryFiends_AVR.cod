@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Solitary Fiends</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Alchemist's Apprentice" />
+    <card number="1" name="Crypt Creeper" />
+    <card number="2" name="Fettergeist" />
+    <card number="1" name="Corpse Traders" />
+    <card number="2" name="Undead Executioner" />
+    <card number="2" name="Mist Raven" />
+    <card number="2" name="Marrow Bats" />
+    <card number="1" name="Lone Revenant" />
+    <card number="2" name="Renegade Demon" />
+    <card number="1" name="Havengul Skaab" />
+    <card number="2" name="Essence Harvest" />
+    <card number="2" name="Into the Void" />
+    <card number="2" name="Peel from Reality" />
+    <card number="2" name="Doom Blade" />
+    <card number="2" name="Crippling Chill" />
+    <card number="2" name="Frost Breath" />
+    <card number="1" name="Swiftfoot Boots" />
+    <card number="2" name="Tormentor's Trident" />
+    <card number="1" name="Predator's Gambit" />
+    <card number="1" name="Triumph of Cruelty" />
+    <card number="1" name="Homicidal Seclusion" />
+    <card number="1" name="Demonic Rising" />
+    <card number="11" name="Island" />
+    <card number="13" name="Swamp" />
+  </zone>
+</cockatrice_deck>

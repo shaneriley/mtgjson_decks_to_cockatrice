@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Kithkin Militia</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Goldmeadow Dodger" />
+    <card number="3" name="Goldmeadow Harrier" />
+    <card number="1" name="Goldmeadow Stalwart" />
+    <card number="1" name="Cenn's Heir" />
+    <card number="4" name="Kithkin Greatheart" />
+    <card number="1" name="Knight of Meadowgrain" />
+    <card number="2" name="Wizened Cenn" />
+    <card number="2" name="Avian Changeling" />
+    <card number="1" name="Kithkin Harbinger" />
+    <card number="2" name="Kinsbaile Balloonist" />
+    <card number="1" name="Brigid, Hero of Kinsbaile" />
+    <card number="1" name="Thoughtweft Trio" />
+    <card number="2" name="Changeling Hero" />
+    <card number="2" name="Cloudgoat Ranger" />
+    <card number="1" name="Shields of Velis Vel" />
+    <card number="1" name="Pollen Lullaby" />
+    <card number="3" name="Surge of Thoughtweft" />
+    <card number="1" name="Battle Mastery" />
+    <card number="2" name="Crib Swap" />
+    <card number="3" name="Oblivion Ring" />
+    <card number="1" name="Runed Stalactite" />
+    <card number="24" name="Plains" />
+  </zone>
+</cockatrice_deck>

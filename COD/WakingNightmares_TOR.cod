@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Waking Nightmares</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Mesmeric Fiend" />
+    <card number="1" name="Gravegouger" />
+    <card number="1" name="Slithery Stalker" />
+    <card number="3" name="Faceless Butcher" />
+    <card number="3" name="Soul Scourge" />
+    <card number="1" name="Chainer, Dementia Master" />
+    <card number="1" name="Enslaved Dwarf" />
+    <card number="3" name="Barbarian Outcast" />
+    <card number="2" name="Pardic Collaborator" />
+    <card number="3" name="Petravark" />
+    <card number="1" name="Petradon" />
+    <card number="1" name="Malevolent Awakening" />
+    <card number="2" name="Rancid Earth" />
+    <card number="1" name="Shade's Form" />
+    <card number="1" name="Caustic Tar" />
+    <card number="2" name="Firebolt" />
+    <card number="2" name="Flame Burst" />
+    <card number="2" name="Pyromania" />
+    <card number="1" name="Demolish" />
+    <card number="2" name="Temporary Insanity" />
+    <card number="1" name="Flaming Gambit" />
+    <card number="12" name="Swamp" />
+    <card number="9" name="Mountain" />
+    <card number="2" name="Tainted Peak" />
+  </zone>
+</cockatrice_deck>

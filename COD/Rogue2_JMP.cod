@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rogue (2)</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Corpse Traders" />
+    <card number="1" name="Oona's Blackguard" />
+    <card number="1" name="Corpse Hauler" />
+    <card number="1" name="Lawless Broker" />
+    <card number="1" name="Nightshade Stinger" />
+    <card number="1" name="Nocturnal Feeder" />
+    <card number="1" name="Thieves' Guild Enforcer" />
+    <card number="1" name="Masked Blackguard" />
+    <card number="1" name="Last Gasp" />
+    <card number="1" name="Alchemist's Gift" />
+    <card number="1" name="Rogue's Gloves" />
+    <card number="1" name="Stab Wound" />
+    <card number="1" name="Thriving Moor" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Swamp" />
+  </zone>
+</cockatrice_deck>

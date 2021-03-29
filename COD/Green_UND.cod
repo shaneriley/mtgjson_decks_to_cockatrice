@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Green</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="B-I-N-G-O" />
+    <card number="1" name="Old Fogey" />
+    <card number="1" name="Pippa, Duchess of Dice" />
+    <card number="1" name="Surgeon General Commander" />
+    <card number="1" name="Timmy, Power Gamer" />
+    <card number="1" name="Elvish Impersonators" />
+    <card number="1" name="Free-Range Chicken" />
+    <card number="1" name="Half-Squirrel, Half-" />
+    <card number="1" name="Mother Kangaroo" />
+    <card number="1" name="Slaying Mantis" />
+    <card number="1" name="Spirit of the Season" />
+    <card number="1" name="Wild Crocodile" />
+    <card number="1" name="Who // What // When // Where // Why" />
+    <card number="1" name="Growth Spurt" />
+    <card number="1" name="Squirrel Farm" />
+    <card number="1" name="Bronze Calendar" />
+    <card number="1" name="Entirely Normal Armchair" />
+    <card number="1" name="Underdome" />
+    <card number="12" name="Forest" />
+  </zone>
+</cockatrice_deck>

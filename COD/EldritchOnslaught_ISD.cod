@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Eldritch Onslaught</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Deranged Assistant" />
+    <card number="2" name="Merfolk Mesmerist" />
+    <card number="2" name="Armored Skaab" />
+    <card number="2" name="Fortress Crab" />
+    <card number="1" name="Pitchburn Devils" />
+    <card number="2" name="Murder of Crows" />
+    <card number="1" name="Sturmgeist" />
+    <card number="1" name="Scourge of Geier Reach" />
+    <card number="1" name="Charmbreaker Devils" />
+    <card number="2" name="Silent Departure" />
+    <card number="1" name="Rolling Temblor" />
+    <card number="2" name="Grasp of Phantoms" />
+    <card number="1" name="Into the Maw of Hell" />
+    <card number="3" name="Dream Twist" />
+    <card number="1" name="Geistflame" />
+    <card number="2" name="Think Twice" />
+    <card number="2" name="Desperate Ravings" />
+    <card number="1" name="Harvest Pyre" />
+    <card number="1" name="Ghoulcaller's Bell" />
+    <card number="1" name="Cellar Door" />
+    <card number="2" name="Curse of the Bloody Tome" />
+    <card number="2" name="Burning Vengeance" />
+    <card number="13" name="Island" />
+    <card number="11" name="Mountain" />
+  </zone>
+</cockatrice_deck>

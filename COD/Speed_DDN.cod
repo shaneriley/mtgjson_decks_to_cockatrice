@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Speed</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Frenzied Goblin" />
+    <card number="1" name="Infantry Veteran" />
+    <card number="2" name="Leonin Snarecaster" />
+    <card number="2" name="Dregscape Zombie" />
+    <card number="1" name="Goblin Deathraiders" />
+    <card number="1" name="Hellraiser Goblin" />
+    <card number="1" name="Fleshbag Marauder" />
+    <card number="1" name="Goblin Warchief" />
+    <card number="1" name="Hell's Thunder" />
+    <card number="1" name="Kathari Bomber" />
+    <card number="1" name="Shambling Remains" />
+    <card number="2" name="Beetleback Chief" />
+    <card number="1" name="Krenko, Mob Boss" />
+    <card number="1" name="Ogre Battledriver" />
+    <card number="1" name="Flame-Kin Zealot" />
+    <card number="1" name="Scourge Devil" />
+    <card number="1" name="Oni of Wild Places" />
+    <card number="1" name="Reckless Abandon" />
+    <card number="1" name="Bone Splinters" />
+    <card number="1" name="Arc Trail" />
+    <card number="2" name="Krenko's Command" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Fury of the Horde" />
+    <card number="1" name="Banefire" />
+    <card number="1" name="Shock" />
+    <card number="1" name="Dauntless Onslaught" />
+    <card number="1" name="Orcish Cannonade" />
+    <card number="2" name="Fiery Fall" />
+    <card number="1" name="Goblin Bombardment" />
+    <card number="2" name="Evolving Wilds" />
+    <card number="1" name="Ghitu Encampment" />
+    <card number="10" name="Mountain" />
+    <card number="3" name="Plains" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Mardu Heart-Piercer" />
+    <card number="1" name="Zurgo Helmsmasher" />
+    <card number="2" name="Nomad Outpost" />
+  </zone>
+</cockatrice_deck>

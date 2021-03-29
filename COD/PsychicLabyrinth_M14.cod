@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Psychic Labyrinth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Coral Merfolk" />
+    <card number="2" name="Scroll Thief" />
+    <card number="1" name="Clone" />
+    <card number="1" name="Archaeomancer" />
+    <card number="1" name="Water Servant" />
+    <card number="2" name="Air Servant" />
+    <card number="2" name="Seacoast Drake" />
+    <card number="2" name="Warden of Evos Isle" />
+    <card number="2" name="Master of Diversion" />
+    <card number="1" name="Messenger Drake" />
+    <card number="2" name="Stonehorn Chanter" />
+    <card number="1" name="Jace's Mindseeker" />
+    <card number="1" name="Divination" />
+    <card number="1" name="Solemn Offering" />
+    <card number="1" name="Glimpse the Future" />
+    <card number="3" name="Show of Valor" />
+    <card number="2" name="Frost Breath" />
+    <card number="1" name="Rod of Ruin" />
+    <card number="1" name="Staff of the Mind Magus" />
+    <card number="3" name="Claustrophobia" />
+    <card number="2" name="Illusionary Armor" />
+    <card number="16" name="Island" />
+    <card number="9" name="Plains" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Teferi, Timeless Voyager</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Teferi, Timeless Voyager" />
+    <card number="1" name="Stormwing Entity" />
+    <card number="2" name="Teferi's Wavecaster" />
+    <card number="3" name="Faerie Vandal" />
+    <card number="2" name="Jeskai Elder" />
+    <card number="2" name="Tome Anima" />
+    <card number="2" name="Shipwreck Dowser" />
+    <card number="3" name="Historian of Zhalfir" />
+    <card number="4" name="Mystic Skyfish" />
+    <card number="2" name="Gust of Wind" />
+    <card number="1" name="Stern Dismissal" />
+    <card number="4" name="Frantic Inventory" />
+    <card number="3" name="Opt" />
+    <card number="2" name="Mantle of Tides" />
+    <card number="1" name="Teferi's Ageless Insight" />
+    <card number="2" name="Charmed Sleep" />
+    <card number="24" name="Island" />
+    <card number="1" name="Island" />
+  </zone>
+</cockatrice_deck>

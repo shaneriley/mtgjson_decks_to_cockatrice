@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Devouring Skies</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Hovermyr" />
+    <card number="1" name="Silver Myr" />
+    <card number="2" name="Augury Owl" />
+    <card number="2" name="Brass Squire" />
+    <card number="1" name="Kiln Walker" />
+    <card number="1" name="Necrogen Scudder" />
+    <card number="1" name="Neurok Invisimancer" />
+    <card number="2" name="Blind Zealot" />
+    <card number="2" name="Mortis Dogs" />
+    <card number="1" name="Darkslick Drake" />
+    <card number="2" name="Impaler Shrike" />
+    <card number="2" name="Spire Monitor" />
+    <card number="2" name="Dementia Bat" />
+    <card number="1" name="Phyrexian Ingester" />
+    <card number="2" name="Vapor Snag" />
+    <card number="1" name="Doom Blade" />
+    <card number="2" name="Copper Carapace" />
+    <card number="2" name="Viridian Claw" />
+    <card number="2" name="Sickleslicer" />
+    <card number="2" name="Warlord's Axe" />
+    <card number="1" name="Argentum Armor" />
+    <card number="1" name="Necropouncer" />
+    <card number="13" name="Island" />
+    <card number="11" name="Swamp" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Fate and Fury</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Arbor Colossus" />
+    <card number="1" name="Courser of Kruphix" />
+    <card number="4" name="Elvish Mystic" />
+    <card number="1" name="Genesis Hydra" />
+    <card number="2" name="Horizon Chimera" />
+    <card number="1" name="Hydra Broodmaster" />
+    <card number="1" name="Hypnotic Siren" />
+    <card number="3" name="Karametra's Acolyte" />
+    <card number="3" name="Kiora's Follower" />
+    <card number="2" name="Nemesis of Mortals" />
+    <card number="1" name="Nessian Courser" />
+    <card number="3" name="Nessian Game Warden" />
+    <card number="1" name="Prognostic Sphinx" />
+    <card number="1" name="Prophet of Kruphix" />
+    <card number="2" name="Voyaging Satyr" />
+    <card number="1" name="Aetherspouts" />
+    <card number="1" name="Fated Intervention" />
+    <card number="2" name="Jace's Ingenuity" />
+    <card number="1" name="Curse of the Swine" />
+    <card number="2" name="Divination" />
+    <card number="1" name="Font of Fertility" />
+    <card number="16" name="Forest" />
+    <card number="7" name="Island" />
+    <card number="1" name="Nykthos, Shrine to Nyx" />
+    <card number="1" name="Temple of Mystery" />
+  </zone>
+  <zone name="sideboard">
+    <card number="3" name="Nylea's Disciple" />
+    <card number="2" name="Omenspeaker" />
+    <card number="2" name="Reclamation Sage" />
+    <card number="2" name="Pin to the Earth" />
+    <card number="2" name="Griptide" />
+    <card number="2" name="Negate" />
+    <card number="2" name="Plummet" />
+  </zone>
+</cockatrice_deck>

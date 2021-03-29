@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Spellslinger Starter Kit - Red Deck</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Hellkite Whelp" />
+    <card number="1" name="Fire Elemental" />
+    <card number="3" name="Fearless Halberdier" />
+    <card number="4" name="Goblin Assailant" />
+    <card number="2" name="Hostile Minotaur" />
+    <card number="1" name="Shivan Dragon" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Tectonic Rift" />
+    <card number="2" name="Sure Strike" />
+    <card number="2" name="Shock" />
+    <card number="26" name="Mountain" />
+    <card number="2" name="Daggersail Aeronaut" />
+    <card number="1" name="Drakuseth, Maw of Flames" />
+    <card number="1" name="Glint-Horn Buccaneer" />
+    <card number="2" name="Goblin Smuggler" />
+    <card number="2" name="Infuriate" />
+    <card number="1" name="Leyline of Combustion" />
+    <card number="3" name="Engulfing Eruption" />
+    <card number="1" name="Immortal Phoenix" />
+    <card number="2" name="Nimble Birdsticker" />
+  </zone>
+</cockatrice_deck>

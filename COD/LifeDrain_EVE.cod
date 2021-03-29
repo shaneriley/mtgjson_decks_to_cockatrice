@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Life Drain</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Apothecary Initiate" />
+    <card number="1" name="Goldenglow Moth" />
+    <card number="2" name="Kithkin Zealot" />
+    <card number="2" name="Safehold Sentry" />
+    <card number="1" name="Suture Spirit" />
+    <card number="1" name="Flickerwisp" />
+    <card number="1" name="Resplendent Mentor" />
+    <card number="1" name="Archon of Justice" />
+    <card number="1" name="Woeleecher" />
+    <card number="2" name="Smolder Initiate" />
+    <card number="1" name="Soul Snuffers" />
+    <card number="3" name="Nip Gwyllion" />
+    <card number="2" name="Gwyllion Hedge-Mage" />
+    <card number="1" name="Restless Apparition" />
+    <card number="2" name="Voracious Hatchling" />
+    <card number="1" name="Divinity of Pride" />
+    <card number="1" name="Rite of Consumption" />
+    <card number="2" name="Soul Reap" />
+    <card number="2" name="Syphon Life" />
+    <card number="1" name="Endure" />
+    <card number="1" name="Beckon Apparition" />
+    <card number="1" name="Batwing Brume" />
+    <card number="2" name="Unmake" />
+    <card number="2" name="Recumbent Bliss" />
+    <card number="14" name="Plains" />
+    <card number="10" name="Swamp" />
+  </zone>
+</cockatrice_deck>

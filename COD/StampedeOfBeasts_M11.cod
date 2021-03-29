@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Stampede of Beasts</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Llanowar Elves" />
+    <card number="2" name="Runeclaw Bear" />
+    <card number="2" name="Sylvan Ranger" />
+    <card number="2" name="Awakener Druid" />
+    <card number="1" name="Sacred Wolf" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Prized Unicorn" />
+    <card number="2" name="Garruk's Packleader" />
+    <card number="1" name="Spined Wurm" />
+    <card number="1" name="Greater Basilisk" />
+    <card number="2" name="Yavimaya Wurm" />
+    <card number="2" name="Duskdale Wurm" />
+    <card number="1" name="Protean Hydra" />
+    <card number="1" name="Nature's Spiral" />
+    <card number="1" name="Cultivate" />
+    <card number="1" name="Act of Treason" />
+    <card number="1" name="Lava Axe" />
+    <card number="1" name="Overwhelming Stampede" />
+    <card number="1" name="Fireball" />
+    <card number="2" name="Giant Growth" />
+    <card number="1" name="Lightning Bolt" />
+    <card number="1" name="Back to Nature" />
+    <card number="1" name="Plummet" />
+    <card number="1" name="Fling" />
+    <card number="1" name="Chandra's Outrage" />
+    <card number="1" name="Whispersilk Cloak" />
+    <card number="16" name="Forest" />
+    <card number="8" name="Mountain" />
+  </zone>
+</cockatrice_deck>

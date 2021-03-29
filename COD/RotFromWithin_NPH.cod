@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Rot from Within</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Glistener Elf" />
+    <card number="2" name="Ichorclaw Myr" />
+    <card number="1" name="Blight Mamba" />
+    <card number="4" name="Overgrown Battlement" />
+    <card number="3" name="Rot Wolf" />
+    <card number="1" name="Viridian Corrupter" />
+    <card number="2" name="Putrefax" />
+    <card number="1" name="Green Sun's Zenith" />
+    <card number="4" name="Groundswell" />
+    <card number="4" name="Primal Bellow" />
+    <card number="4" name="Mutagenic Growth" />
+    <card number="4" name="Carrion Call" />
+    <card number="3" name="Contagion Clasp" />
+    <card number="1" name="Inkmoth Nexus" />
+    <card number="22" name="Forest" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Viridian Corrupter" />
+    <card number="3" name="Contagion Clasp" />
+    <card number="2" name="Unnatural Predation" />
+    <card number="2" name="Vines of Vastwood" />
+    <card number="1" name="Melira, Sylvok Outcast" />
+    <card number="1" name="Pistus Strike" />
+    <card number="3" name="Trigon of Infestation" />
+    <card number="2" name="Obstinate Baloth" />
+  </zone>
+</cockatrice_deck>

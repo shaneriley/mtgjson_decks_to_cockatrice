@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Transference</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Neurok Familiar" />
+    <card number="2" name="Vedalken Engineer" />
+    <card number="1" name="Neurok Transmuter" />
+    <card number="4" name="Arcbound Worker" />
+    <card number="2" name="Arcbound Stinger" />
+    <card number="1" name="Spincrusher" />
+    <card number="2" name="Arcbound Crusher" />
+    <card number="2" name="Arcbound Hybrid" />
+    <card number="1" name="Arcbound Reclaimer" />
+    <card number="2" name="Cobalt Golem" />
+    <card number="1" name="Dross Scorpion" />
+    <card number="1" name="Juggernaut" />
+    <card number="2" name="Rust Elemental" />
+    <card number="1" name="Voltaic Construct" />
+    <card number="2" name="Arcbound Bruiser" />
+    <card number="1" name="Arcbound Fiend" />
+    <card number="1" name="Spire Golem" />
+    <card number="1" name="Arcbound Lancer" />
+    <card number="2" name="Echoing Truth" />
+    <card number="1" name="Reshape" />
+    <card number="2" name="Skullclamp" />
+    <card number="1" name="Dragon Blood" />
+    <card number="1" name="Ur-Golem's Eye" />
+    <card number="21" name="Island" />
+    <card number="2" name="Seat of the Synod" />
+  </zone>
+</cockatrice_deck>

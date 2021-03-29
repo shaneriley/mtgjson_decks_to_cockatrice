@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Elven Empire</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Abomination of Llanowar" />
+    <card number="1" name="Beast Whisperer" />
+    <card number="1" name="Canopy Tactician" />
+    <card number="1" name="Cultivator of Blades" />
+    <card number="1" name="Dwynen, Gilt-Leaf Daen" />
+    <card number="1" name="Elderfang Ritualist" />
+    <card number="1" name="Elvish Archdruid" />
+    <card number="1" name="Elvish Mystic" />
+    <card number="1" name="Elvish Rejuvenator" />
+    <card number="1" name="End-Raze Forerunners" />
+    <card number="1" name="Eyeblight Cullers" />
+    <card number="1" name="Farhaven Elf" />
+    <card number="1" name="Golgari Findbroker" />
+    <card number="1" name="Harald, King of Skemfar" />
+    <card number="1" name="Imperious Perfect" />
+    <card number="1" name="Jagged-Scar Archers" />
+    <card number="1" name="Jaspera Sentinel" />
+    <card number="1" name="Llanowar Tribe" />
+    <card number="1" name="Lys Alana Huntmaster" />
+    <card number="1" name="Lys Alana Scarblade" />
+    <card number="1" name="Marwyn, the Nurturer" />
+    <card number="1" name="Masked Admirers" />
+    <card number="1" name="Miara, Thorn of the Glade" />
+    <card number="1" name="Nullmage Shepherd" />
+    <card number="1" name="Numa, Joraga Chieftain" />
+    <card number="1" name="Poison-Tip Archer" />
+    <card number="1" name="Reclamation Sage" />
+    <card number="1" name="Rhys the Exiled" />
+    <card number="1" name="Ruthless Winnower" />
+    <card number="1" name="Shaman of the Pack" />
+    <card number="1" name="Skemfar Shadowsage" />
+    <card number="1" name="Springbloom Druid" />
+    <card number="1" name="Sylvan Messenger" />
+    <card number="1" name="Timberwatch Elf" />
+    <card number="1" name="Twinblade Assassins" />
+    <card number="1" name="Voice of Many" />
+    <card number="1" name="Voice of the Woods" />
+    <card number="1" name="Wirewood Channeler" />
+    <card number="1" name="Wolverine Riders" />
+    <card number="1" name="Wood Elves" />
+    <card number="1" name="Elven Ambush" />
+    <card number="1" name="Poison the Cup" />
+    <card number="1" name="Putrefy" />
+    <card number="1" name="Tergrid's Shadow" />
+    <card number="1" name="Ambition's Cost" />
+    <card number="1" name="Bounty of Skemfar" />
+    <card number="1" name="Casualties of War" />
+    <card number="1" name="Eyeblight Massacre" />
+    <card number="1" name="Elvish Promenade" />
+    <card number="1" name="Harvest Season" />
+    <card number="1" name="Pact of the Serpent" />
+    <card number="1" name="Return Upon the Tide" />
+    <card number="1" name="Roots of Wisdom" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Serpent's Soul-Jar" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Binding the Old Gods" />
+    <card number="1" name="Crown of Skemfar" />
+    <card number="1" name="Elderfang Venom" />
+    <card number="1" name="Pride of the Perfect" />
+    <card number="1" name="Prowess of the Fair" />
+    <card number="1" name="Moldervine Reclamation" />
+    <card number="1" name="Command Tower" />
+    <card number="16" name="Forest" />
+    <card number="1" name="Foul Orchard" />
+    <card number="1" name="Golgari Guildgate" />
+    <card number="1" name="Golgari Rot Farm" />
+    <card number="1" name="Jungle Hollow" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Path of Ancestry" />
+    <card number="1" name="Skemfar Elderhall" />
+    <card number="13" name="Swamp" />
+  </zone>
+</cockatrice_deck>

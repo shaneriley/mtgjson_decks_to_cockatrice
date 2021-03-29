@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Phyrexian Poison</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Ichorclaw Myr" />
+    <card number="2" name="Necropede" />
+    <card number="3" name="Plague Stinger" />
+    <card number="1" name="Contagious Nim" />
+    <card number="2" name="Cystbearer" />
+    <card number="2" name="Ichor Rats" />
+    <card number="2" name="Corpse Cur" />
+    <card number="1" name="Blackcleave Goblin" />
+    <card number="1" name="Hand of the Praetors" />
+    <card number="2" name="Tangle Angler" />
+    <card number="1" name="Putrefax" />
+    <card number="2" name="Assassinate" />
+    <card number="1" name="Rise from the Grave" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Carrion Call" />
+    <card number="2" name="Slice in Twain" />
+    <card number="2" name="Bladed Pinions" />
+    <card number="1" name="Heavy Arbalest" />
+    <card number="1" name="Strider Harness" />
+    <card number="1" name="Relic Putrescence" />
+    <card number="13" name="Swamp" />
+    <card number="13" name="Forest" />
+  </zone>
+</cockatrice_deck>

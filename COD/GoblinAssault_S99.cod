@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Goblin Assault</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="17" name="Mountain" />
+    <card number="3" name="Goblin Chariot" />
+    <card number="2" name="Goblin General" />
+    <card number="2" name="Goblin Glider" />
+    <card number="2" name="Hulking Goblin" />
+    <card number="3" name="Raging Goblin" />
+    <card number="1" name="Volcanic Dragon" />
+    <card number="1" name="Jagged Lightning" />
+    <card number="2" name="Lava Axe" />
+    <card number="1" name="Relentless Assault" />
+    <card number="2" name="Scorching Spear" />
+    <card number="1" name="Spitting Earth" />
+    <card number="3" name="Volcanic Hammer" />
+  </zone>
+</cockatrice_deck>

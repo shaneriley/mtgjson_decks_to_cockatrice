@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Knights' Charge</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Silverwing Squadron" />
+    <card number="1" name="Embereth Skyblazer" />
+    <card number="1" name="Midnight Reaper" />
+    <card number="1" name="Knight of the Ebon Legion" />
+    <card number="1" name="Venerable Knight" />
+    <card number="1" name="Belle of the Brawl" />
+    <card number="1" name="Syr Konrad, the Grim" />
+    <card number="1" name="Embereth Shieldbreaker // Battle Display" />
+    <card number="1" name="Inspiring Veteran" />
+    <card number="1" name="Wintermoor Commander" />
+    <card number="1" name="Fireborn Knight" />
+    <card number="1" name="Skyknight Legionnaire" />
+    <card number="1" name="Corpse Knight" />
+    <card number="1" name="Skyknight Vanguard" />
+    <card number="1" name="Single Combat" />
+    <card number="1" name="Order of Midnight // Alter Fate" />
+    <card number="1" name="Smitten Swordmaster // Curry Favor" />
+    <card number="1" name="Bond of Discipline" />
+    <card number="1" name="Response // Resurgence" />
+    <card number="1" name="Foulmire Knight // Profane Insight" />
+    <card number="1" name="Ob Nixilis's Cruelty" />
+    <card number="1" name="Despark" />
+    <card number="1" name="Mortify" />
+    <card number="1" name="Integrity // Intervention" />
+    <card number="1" name="Mace of the Valiant" />
+    <card number="1" name="Icon of Ancestry" />
+    <card number="1" name="Shining Armor" />
+    <card number="1" name="Crystal Slipper" />
+    <card number="1" name="Steelclaw Lance" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Ancestral Blade" />
+    <card number="1" name="Mask of Immolation" />
+    <card number="1" name="Colossus Hammer" />
+    <card number="1" name="Marauder's Axe" />
+    <card number="1" name="Knights' Charge" />
+    <card number="1" name="Godless Shrine" />
+    <card number="1" name="Temple of Triumph" />
+    <card number="5" name="Plains" />
+    <card number="3" name="Swamp" />
+    <card number="5" name="Mountain" />
+    <card number="1" name="Bloodfell Caves" />
+    <card number="1" name="Boros Guildgate" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Evolving Wilds" />
+    <card number="1" name="Orzhov Guildgate" />
+    <card number="1" name="Rakdos Guildgate" />
+    <card number="1" name="Scoured Barrens" />
+    <card number="1" name="Tournament Grounds" />
+    <card number="1" name="Wind-Scarred Crag" />
+  </zone>
+</cockatrice_deck>
