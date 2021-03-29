@@ -19,3 +19,5 @@ settings. It is recommended you copy the decks to a subdirectory, to
 differentiate between the preconstructed and your custom decks. The current
 number of preconstructed decks is 840, which would make it difficult to
 browse your own deck creations if copied directly to the directory.
+
+If you simply want to download all of the COD decks, [go here](https://github.com/shaneriley/mtgjson_decks_to_cockatrice/latest/download/Preconstructed.zip).
