@@ -5,7 +5,7 @@
 * Install Node
 *
     Download deck list JSON files from MTGJSON.
-    * Full set is at [https://mtgjson.com/api/v5/AllDecksFiles.zip](https://mtgjson.com/api/v5/AllDecksFiles.zip)
+    * Full set is at [https://mtgjson.com/api/v5/AllDeckFiles.zip](https://mtgjson.com/api/v5/AllDeckFiles.zip)
     * Individual decks are at [https://mtgjson.com/downloads/all-decks/](https://mtgjson.com/downloads/all-decks/)
 
 ## Usage

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Awakening Earth</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="3" name="Nissa, Who Shakes the World" />
+    <card number="4" name="Paradise Druid" />
+    <card number="2" name="Incubation Druid" />
+    <card number="4" name="Maraleaf Pixie" />
+    <card number="4" name="Frilled Mystic" />
+    <card number="4" name="Voracious Hydra" />
+    <card number="1" name="Hydroid Krasis" />
+    <card number="4" name="Growth Spiral" />
+    <card number="4" name="Chemister's Insight" />
+    <card number="4" name="Mass Manipulation" />
+    <card number="9" name="Island" />
+    <card number="8" name="Forest" />
+    <card number="1" name="Breeding Pool" />
+    <card number="4" name="Temple of Mystery" />
+    <card number="4" name="Thornwood Falls" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Healer of the Glade" />
+    <card number="3" name="Cerulean Drake" />
+    <card number="3" name="Veil of Summer" />
+    <card number="3" name="Aether Gust" />
+    <card number="2" name="Disdainful Stroke" />
+    <card number="2" name="Negate" />
+  </zone>
+</cockatrice_deck>

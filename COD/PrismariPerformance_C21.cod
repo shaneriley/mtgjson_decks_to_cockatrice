@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Prismari Performance</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Jaya Ballard" />
+    <card number="1" name="Veyran, Voice of Duality" />
+    <card number="1" name="Dazzling Sphinx" />
+    <card number="1" name="Octavia, Living Thesis" />
+    <card number="1" name="Sly Instigator" />
+    <card number="1" name="Inferno Project" />
+    <card number="1" name="Radiant Performer" />
+    <card number="1" name="Rionya, Fire Dancer" />
+    <card number="1" name="Diluvian Primordial" />
+    <card number="1" name="Naru Meha, Master Wizard" />
+    <card number="1" name="Talrand, Sky Summoner" />
+    <card number="1" name="Charmbreaker Devils" />
+    <card number="1" name="Dualcaster Mage" />
+    <card number="1" name="Erratic Cyclops" />
+    <card number="1" name="Etali, Primal Storm" />
+    <card number="1" name="Wildfire Devils" />
+    <card number="1" name="Storm-Kiln Artist" />
+    <card number="1" name="Rootha, Mercurial Artist" />
+    <card number="1" name="Living Lore" />
+    <card number="1" name="Humble Defector" />
+    <card number="1" name="Crackling Drake" />
+    <card number="1" name="Inspiring Refrain" />
+    <card number="1" name="Muse Vortex" />
+    <card number="1" name="Creative Technique" />
+    <card number="1" name="Fiery Encore" />
+    <card number="1" name="Rousing Refrain" />
+    <card number="1" name="Surge to Victory" />
+    <card number="1" name="Aether Gale" />
+    <card number="1" name="Apex of Power" />
+    <card number="1" name="Blasphemous Act" />
+    <card number="1" name="Volcanic Vision" />
+    <card number="1" name="Call the Skybreaker" />
+    <card number="1" name="Epic Experiment" />
+    <card number="1" name="Elemental Masterpiece" />
+    <card number="1" name="Expressive Iteration" />
+    <card number="1" name="Ponder" />
+    <card number="1" name="Serum Visions" />
+    <card number="1" name="Treasure Cruise" />
+    <card number="1" name="Faithless Looting" />
+    <card number="1" name="Mana Geyser" />
+    <card number="1" name="Reinterpret" />
+    <card number="1" name="Aetherspouts" />
+    <card number="1" name="Dig Through Time" />
+    <card number="1" name="Resculpt" />
+    <card number="1" name="Brainstorm" />
+    <card number="1" name="Traumatic Visions" />
+    <card number="1" name="Fiery Fall" />
+    <card number="1" name="Seething Song" />
+    <card number="1" name="Letter of Acceptance" />
+    <card number="1" name="Arcane Signet" />
+    <card number="1" name="Hedron Archive" />
+    <card number="1" name="Izzet Signet" />
+    <card number="1" name="Mind Stone" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Talisman of Creativity" />
+    <card number="1" name="Metallurgic Summonings" />
+    <card number="1" name="Swarm Intelligence" />
+    <card number="1" name="Exotic Orchard" />
+    <card number="1" name="Scavenger Grounds" />
+    <card number="1" name="Shivan Reef" />
+    <card number="1" name="Temple of Epiphany" />
+    <card number="1" name="Prismari Campus" />
+    <card number="1" name="Study Hall" />
+    <card number="1" name="Blighted Cataract" />
+    <card number="1" name="Command Tower" />
+    <card number="1" name="Desert of the Fervent" />
+    <card number="1" name="Desert of the Mindful" />
+    <card number="1" name="Forgotten Cave" />
+    <card number="1" name="Izzet Boilerworks" />
+    <card number="1" name="Lonely Sandbar" />
+    <card number="1" name="Mage-Ring Network" />
+    <card number="1" name="Memorial to Genius" />
+    <card number="1" name="Myriad Landscape" />
+    <card number="1" name="Reliquary Tower" />
+    <card number="1" name="Temple of the False God" />
+    <card number="10" name="Island" />
+    <card number="9" name="Mountain" />
+    <card number="1" name="Elementalist's Palette" />
+    <card number="1" name="Mind's Desire" />
+    <card number="1" name="Brass's Bounty" />
+    <card number="1" name="Sunbird's Invocation" />
+    <card number="1" name="Pyromancer's Goggles" />
+  </zone>
+</cockatrice_deck>
