@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mono-Red Aggro</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="4" name="Fervent Champion" />
+    <card number="4" name="Kargan Intimidator" />
+    <card number="4" name="Bonecrusher Giant // Stomp" />
+    <card number="3" name="Torbran, Thane of Red Fell" />
+    <card number="4" name="Akoum Hellhound" />
+    <card number="4" name="Rimrock Knight // Boulder Rush" />
+    <card number="4" name="Anax, Hardened in the Forge" />
+    <card number="2" name="Shatterskull Smashing // Shatterskull, the Hammer Pass" />
+    <card number="4" name="Roil Eruption" />
+    <card number="4" name="Spikefield Hazard // Spikefield Cave" />
+    <card number="4" name="Shock" />
+    <card number="1" name="Embercleave" />
+    <card number="2" name="Castle Embereth" />
+    <card number="16" name="Mountain" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Relic Robber" />
+    <card number="2" name="Roiling Vortex" />
+    <card number="2" name="Soul-Guide Lantern" />
+    <card number="4" name="Redcap Melee" />
+    <card number="3" name="Thundering Rebuke" />
+    <card number="2" name="Soul Sear" />
+  </zone>
+</cockatrice_deck>

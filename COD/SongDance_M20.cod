@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Song Dance</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Gideon Blackblade" />
+    <card number="4" name="Burning Prophet" />
+    <card number="4" name="Tenth District Legionnaire" />
+    <card number="2" name="Dreadhorde Arcanist" />
+    <card number="2" name="Tithe Taker" />
+    <card number="4" name="Feather, the Redeemed" />
+    <card number="2" name="Legion Warboss" />
+    <card number="4" name="Defiant Strike" />
+    <card number="4" name="Gods Willing" />
+    <card number="4" name="Samut's Sprint" />
+    <card number="4" name="Shock" />
+    <card number="8" name="Plains" />
+    <card number="6" name="Mountain" />
+    <card number="2" name="Sacred Foundry" />
+    <card number="4" name="Temple of Triumph" />
+    <card number="4" name="Wind-Scarred Crag" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" name="Tomik, Distinguished Advokist" />
+    <card number="1" name="Aurelia, Exemplar of Justice" />
+    <card number="4" name="Lava Coil" />
+    <card number="2" name="Devout Decree" />
+    <card number="2" name="Fry" />
+    <card number="2" name="Prison Realm" />
+    <card number="2" name="Tibalt, Rakish Instigator" />
+  </zone>
+</cockatrice_deck>

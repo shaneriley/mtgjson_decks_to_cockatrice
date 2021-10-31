@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mono-Green Stompy</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="1" name="Garruk, Unleashed" />
+    <card number="3" name="Kazandu Mammoth // Kazandu Valley" />
+    <card number="2" name="Stonecoil Serpent" />
+    <card number="3" name="Swarm Shambler" />
+    <card number="2" name="Scavenging Ooze" />
+    <card number="2" name="Wildborn Preserver" />
+    <card number="2" name="Yorvo, Lord of Garenbrig" />
+    <card number="4" name="Lovestruck Beast // Heart's Desire" />
+    <card number="2" name="Gemrazer" />
+    <card number="4" name="Wildwood Tracker" />
+    <card number="2" name="Syr Faren, the Hengehammer" />
+    <card number="1" name="Thrashing Brontodon" />
+    <card number="2" name="Turntimber Symbiosis // Turntimber, Serpentine Wood" />
+    <card number="3" name="Primal Might" />
+    <card number="4" name="Ram Through" />
+    <card number="2" name="Snakeskin Veil" />
+    <card number="19" name="Forest" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Thrashing Brontodon" />
+    <card number="2" name="Snakeskin Veil" />
+    <card number="2" name="Khalni Ambush // Khalni Territory" />
+    <card number="3" name="Chainweb Aracnir" />
+    <card number="2" name="Return to Nature" />
+    <card number="3" name="Oakhame Adversary" />
+    <card number="2" name="Run Afoul" />
+  </zone>
+</cockatrice_deck>

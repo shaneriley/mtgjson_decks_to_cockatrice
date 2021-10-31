@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+  <deckname>Azorius Control</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" name="Skyclave Cleric // Skyclave Basilica" />
+    <card number="2" name="Dream Trawler" />
+    <card number="1" name="Archon of Sun's Grace" />
+    <card number="1" name="Emeria's Call // Emeria, Shattered Skyclave" />
+    <card number="2" name="Shatter the Sky" />
+    <card number="1" name="Doomskar" />
+    <card number="3" name="Neutralize" />
+    <card number="1" name="Saw It Coming" />
+    <card number="1" name="Negate" />
+    <card number="3" name="Thirst for Meaning" />
+    <card number="2" name="Behold the Multiverse" />
+    <card number="2" name="Glass Casket" />
+    <card number="1" name="Shark Typhoon" />
+    <card number="3" name="Elspeth Conquers Death" />
+    <card number="4" name="The Birth of Meletis" />
+    <card number="4" name="Omen of the Sea" />
+    <card number="2" name="Banishing Light" />
+    <card number="4" name="Temple of Enlightenment" />
+    <card number="8" name="Plains" />
+    <card number="8" name="Island" />
+    <card number="4" name="Tranquil Cove" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" name="Archon of Sun's Grace" />
+    <card number="2" name="Banishing Light" />
+    <card number="2" name="Glass Casket" />
+    <card number="2" name="Skyclave Apparition" />
+    <card number="3" name="Confounding Conundrum" />
+    <card number="3" name="Mystical Dispute" />
+    <card number="2" name="Essence Scatter" />
+  </zone>
+</cockatrice_deck>
